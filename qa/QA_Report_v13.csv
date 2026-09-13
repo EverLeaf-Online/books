@@ -1,0 +1,10 @@
+Check,Expected,Actual,Status,Notes
+Build configs,30,30,PASS,
+Front matter PDFs,60,60,PASS,30 paperback + 30 hardcover
+Front matter page count/sizes,All 8 pages; PB 612x792pt / HC 594x792pt,OK,PASS,
+Artwork prompt packs,60,60,PASS,B001-B060
+Production packet folders,30,30,PASS,
+Artwork batch folders,60,60,PASS,
+KDP metadata author/imprint,30 files use Paul Thach / MIST°,30,PASS,
+Production tools,6,6,PASS,
+Assembly proof PDFs,4,4,PASS,"Books 29-30 PB/HC; placeholders only, not KDP finals"
