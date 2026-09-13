@@ -1,33 +1,60 @@
 # MIST° 30-Book Production Toolchain
 
-## Structural preflight
-`python Tools/preflight_all.py`
+All commands below run from the repository root.
 
-Checks the 30 build configs, the 60-animal standard, and odd coloring-page numbering.
+## Install dependencies
+
+```bash
+python -m pip install -r build/requirements.txt
+```
+
+## Structural preflight
+
+```bash
+python build/tools/preflight_all.py
+```
+
+Checks all 30 build configs, the 60-animal standard, and odd coloring-page numbering.
 
 ## Front matter
-`python Tools/build_front_matter.py --root .`
+
+```bash
+python build/tools/build_front_matter.py --root .
+```
 
 Regenerates paperback and hardcover front matter for all 30 books with embedded fonts.
 
 ## Artwork QA
-`python Tools/validate_artwork.py --art-dir artwork/book_02 --expected 60`
 
-Checks image count, resolution, obvious color contamination, and approximate 0.50-inch safe-zone ink.
-Visual species/anatomy QA is still required.
+```bash
+python build/tools/validate_artwork.py --art-dir production/artwork-workspace/book_02 --expected 60
+```
+
+Checks image count, resolution, obvious color contamination, and approximate 0.50-inch safe-zone ink. Visual species/anatomy QA is still required.
 
 ## Build one interior
-`python Tools/build_interior.py Build_Configs/book_02.json --edition paperback --art-dir artwork/book_02 --output built/book_02/paperback_interior.pdf`
+
+```bash
+python build/tools/build_interior.py build/configs/book_02.json --edition paperback --art-dir production/artwork-workspace/book_02 --output generated/book_02/paperback_interior.pdf
+```
 
 The builder creates exactly 128 pages, places coloring pages on odd pages 9-127, leaves blank reverses, typesets animal name and fun fact separately from the image, and preserves a conservative 0.50-inch content safety target.
 
 Use `--allow-placeholders` only for internal assembly tests, never for a KDP upload.
 
 ## Build every artwork-ready book
-`python Tools/build_all_ready.py --root . --edition both`
+
+```bash
+python build/tools/build_all_ready.py --root . --edition both
+```
+
+This command now reads each book's `artwork_root` and `output_root` directly from `build/configs/book_XX.json` so the repository has one source of truth for paths.
 
 ## Paperback cover dimensions
-`python Tools/paperback_cover_specs.py --pages 128`
+
+```bash
+python build/tools/paperback_cover_specs.py --pages 128
+```
 
 For 128 pages, B&W white paper:
 - spine = 0.288256 in
