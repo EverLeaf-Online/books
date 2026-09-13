@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Build every MIST° book whose 60 artwork files pass preflight."""
-import argparse,json,subprocess,sys
+"""Build every MIST° book whose 60 approved artwork files pass preflight."""
+import argparse, json, subprocess, sys
 from pathlib import Path
 
 
@@ -17,20 +17,20 @@ def main():
     for cfg_path in configs:
         cfg=json.loads(cfg_path.read_text(encoding='utf-8'))
         n=cfg['book_number']
-        art_dir=root/'artwork'/f'book_{n:02d}'
-        v=subprocess.run([sys.executable,str(validator),'--art-dir',str(art_dir),'--expected','60'])
+        art_dir=root/cfg['artwork_root']
+        v=subprocess.run([sys.executable,str(validator),'--art-dir',str(art_dir),'--expected',str(cfg.get('coloring_pages',60))])
         if v.returncode!=0:
             print(f'SKIP Book {n:02d}: artwork not ready')
             skipped+=1
             continue
         editions=['paperback','hardcover'] if args.edition=='both' else [args.edition]
         for edition in editions:
-            out=root/'built'/f'book_{n:02d}'/f'{edition}_interior.pdf'
+            out=root/cfg['output_root']/f'{edition}_interior.pdf'
             out.parent.mkdir(parents=True,exist_ok=True)
             subprocess.check_call([
                 sys.executable,str(builder),str(cfg_path),'--edition',edition,
                 '--art-dir',str(art_dir),'--output',str(out)
-            ])
+            ],cwd=root)
         built+=1
     print(f'Ready books built: {built}; skipped: {skipped}')
 
