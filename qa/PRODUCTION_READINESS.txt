@@ -1,0 +1,15 @@
+MIST° ANIMAL COLORING ADVENTURES — V13 PRODUCTION READINESS
+
+PASS — Build configs: 30 (expected 30)
+PASS — Front matter PDFs: 60 (expected 60)
+PASS — Front matter page count/sizes: OK (expected All 8 pages; PB 612x792pt / HC 594x792pt)
+PASS — Artwork prompt packs: 60 (expected 60)
+PASS — Production packet folders: 30 (expected 30)
+PASS — Artwork batch folders: 60 (expected 60)
+PASS — KDP metadata author/imprint: 30 (expected 30 files use Paul Thach / MIST°)
+PASS — Production tools: 6 (expected 6)
+PASS — Assembly proof PDFs: 4 (expected 4)
+
+Current gating item: approved original artwork.
+Once a book has 60 approved images in its artwork/book_XX batch folders, the included toolchain can build paperback and hardcover interiors automatically.
+Assembly proof PDFs are internal layout tests only and contain placeholders; they are not KDP upload files.
