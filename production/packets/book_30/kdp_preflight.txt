@@ -1,0 +1,33 @@
+BOOK 30 — KDP PREFLIGHT
+
+INTERIOR
+[ ] Exactly 128 pages
+[ ] Paperback trim 8.5 x 11
+[ ] Hardcover trim 8.25 x 11
+[ ] No interior bleed
+[ ] Minimum gutter 0.375 in
+[ ] Important art/text target 0.50 in safe zone
+[ ] 60 coloring pages on odd/right-hand pages
+[ ] Blank reverse after each coloring page
+[ ] Pure black line art / white background
+[ ] No stray text or watermark inside artwork
+[ ] Fonts embedded
+[ ] No comments, crop marks, or hidden objects
+[ ] Every KDP Previewer flag resolved
+
+COVER
+[ ] Paperback full cover rebuilt from final 128-page manuscript specs
+[ ] Hardcover uses exact KDP hardcover template/calculator
+[ ] Barcode area clear
+[ ] Critical text/art inside safe zones
+[ ] Matte finish selected
+
+PUBLISHING ORDER
+1. Create/submit Kindle title record
+2. Paperback
+3. Hardcover
+
+PROOF
+[ ] Order paperback proof
+[ ] Order hardcover proof
+[ ] Check trim, gutter, line weight, blank reverses, facts, cover alignment, spine, and barcode
