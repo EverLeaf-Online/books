@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated build outputs
+built/
+*.tmp
+*.temp
+
+# Local artwork generation scratch/cache
+scratch/
+cache/
+
+# Keep approved artwork folders tracked via README/instruction files;
+# actual generated art can be added intentionally after QA.
+
+# Superseded package snapshots
+*MIST_Animal_Coloring_Adventures_Tracker_v[0-9].xlsx
+*MIST_Animal_Coloring_Adventures_Production_v[0-9].zip
+
+# Canonical current tracker/package are explicitly stored under tracking/ and artifacts/.
