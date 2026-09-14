@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B017,Tyrannosaurus rex,01_tyrannosaurus_rex.png,T. rex had powerful jaws and teeth shaped for tearing meat.
+2,11,B017,Triceratops,02_triceratops.png,Triceratops had three facial horns and a large bony frill.
+3,13,B017,Stegosaurus,03_stegosaurus.png,Stegosaurus had large plates along its back and spikes on its tail.
+4,15,B017,Brachiosaurus,04_brachiosaurus.png,"Brachiosaurus had longer front legs than back legs, giving its body a sloping shape."
+5,17,B017,Apatosaurus,05_apatosaurus.png,Apatosaurus was a huge long-necked plant eater with a whip-like tail.
+6,19,B017,Diplodocus,06_diplodocus.png,Diplodocus had an extremely long tail and a small head compared with its body.
+7,21,B017,Velociraptor,07_velociraptor.png,Velociraptor was a feathered predator about the size of a large turkey.
+8,23,B017,Ankylosaurus,08_ankylosaurus.png,Ankylosaurus was covered in bony armor and had a heavy tail club.
+9,25,B017,Spinosaurus,09_spinosaurus.png,Spinosaurus had a tall sail on its back and a long crocodile-like snout.
+10,27,B017,Allosaurus,10_allosaurus.png,Allosaurus was a large meat-eating dinosaur with three-fingered hands.
+11,29,B017,Carnotaurus,11_carnotaurus.png,Carnotaurus had two horn-like bumps above its eyes and very short arms.
+12,31,B017,Dilophosaurus,12_dilophosaurus.png,Dilophosaurus had two thin crests on top of its head.
+13,33,B017,Parasaurolophus,13_parasaurolophus.png,Parasaurolophus had a long hollow crest that may have helped make sounds.
+14,35,B017,Iguanodon,14_iguanodon.png,Iguanodon had a pointed thumb spike on each hand.
+15,37,B017,Pachycephalosaurus,15_pachycephalosaurus.png,Pachycephalosaurus had a thick dome of bone on top of its skull.
+16,39,B017,Gallimimus,16_gallimimus.png,Gallimimus had long legs and a beak-like mouth and could probably run quickly.
+17,41,B017,Deinonychus,17_deinonychus.png,Deinonychus had a large curved claw on each foot.
+18,43,B017,Oviraptor,18_oviraptor.png,Oviraptor had a toothless beak and was closely related to feathered dinosaurs.
+19,45,B017,Therizinosaurus,19_therizinosaurus.png,Therizinosaurus had enormous hand claws and probably ate mostly plants.
+20,47,B017,Compsognathus,20_compsognathus.png,Compsognathus was a small lightweight dinosaur with long legs.
+21,49,B017,Giganotosaurus,21_giganotosaurus.png,Giganotosaurus was one of the largest known meat-eating dinosaurs.
+22,51,B017,Albertosaurus,22_albertosaurus.png,Albertosaurus was a close relative of T. rex that lived earlier in time.
+23,53,B017,Ceratosaurus,23_ceratosaurus.png,Ceratosaurus had a horn on its snout and bony ridges above its eyes.
+24,55,B017,Corythosaurus,24_corythosaurus.png,Corythosaurus had a tall helmet-shaped crest on its head.
+25,57,B017,Maiasaura,25_maiasaura.png,Maiasaura nested in colonies and cared for young in nesting grounds.
+26,59,B017,Edmontosaurus,26_edmontosaurus.png,Edmontosaurus was a large duck-billed dinosaur with rows of grinding teeth.
+27,61,B017,Kentrosaurus,27_kentrosaurus.png,Kentrosaurus had plates near its shoulders and long spikes farther down its back.
+28,63,B017,Styracosaurus,28_styracosaurus.png,Styracosaurus had a nose horn and several long spikes around its frill.
+29,65,B017,Protoceratops,29_protoceratops.png,Protoceratops was a smaller horned dinosaur with a parrot-like beak.
+30,67,B017,Euoplocephalus,30_euoplocephalus.png,Euoplocephalus was an armored dinosaur with a tail club.
+31,69,B018,Argentinosaurus,31_argentinosaurus.png,Argentinosaurus was one of the largest land animals known from fossils.
+32,71,B018,Saltasaurus,32_saltasaurus.png,Saltasaurus was a long-necked dinosaur with small bony plates in its skin.
+33,73,B018,Amargasaurus,33_amargasaurus.png,Amargasaurus had two rows of tall spines along its neck.
+34,75,B018,Plateosaurus,34_plateosaurus.png,Plateosaurus was an early long-necked plant eater that lived during the Triassic Period.
+35,77,B018,Coelophysis,35_coelophysis.png,Coelophysis was a slim fast-moving predator from the Late Triassic.
+36,79,B018,Herrerasaurus,36_herrerasaurus.png,Herrerasaurus was one of the earliest large predatory dinosaurs.
+37,81,B018,Archaeopteryx,37_archaeopteryx.png,Archaeopteryx had feathers and wings as well as teeth and a long bony tail.
+38,83,B018,Microraptor,38_microraptor.png,Microraptor was a small feathered dinosaur with flight feathers on all four limbs.
+39,85,B018,Pteranodon,39_pteranodon.png,Pteranodon was a flying reptile with a long head crest and no teeth.
+40,87,B018,Quetzalcoatlus,40_quetzalcoatlus.png,Quetzalcoatlus was a gigantic pterosaur with a wingspan similar to a small airplane.
+41,89,B018,Dimorphodon,41_dimorphodon.png,Dimorphodon was an early pterosaur with a large head and two different kinds of teeth.
+42,91,B018,Mosasaurus,42_mosasaurus.png,Mosasaurus was a giant marine reptile that lived in the oceans of the Late Cretaceous.
+43,93,B018,Plesiosaurus,43_plesiosaurus.png,"Plesiosaurus had a long neck, small head, and four paddle-like flippers."
+44,95,B018,Ichthyosaurus,44_ichthyosaurus.png,Ichthyosaurus was a dolphin-shaped marine reptile that swam with powerful tails and fins.
+45,97,B018,Liopleurodon,45_liopleurodon.png,Liopleurodon was a large short-necked marine reptile with strong jaws.
+46,99,B018,Dunkleosteus,46_dunkleosteus.png,Dunkleosteus was an armored fish with sharp bony jaw plates instead of normal teeth.
+47,101,B018,Megalodon,47_megalodon.png,Megalodon was an enormous extinct shark known from its giant fossil teeth.
+48,103,B018,Woolly Mammoth,48_woolly_mammoth.png,Woolly mammoths had long curved tusks and thick coats for cold climates.
+49,105,B018,Smilodon,49_smilodon.png,Smilodon was a saber-toothed cat with very long upper canine teeth.
+50,107,B018,Megatherium,50_megatherium.png,Megatherium was a giant ground sloth that could stand on its hind legs.
+51,109,B018,Glyptodon,51_glyptodon.png,Glyptodon was an armored mammal related to modern armadillos.
+52,111,B018,Dire Wolf,52_dire_wolf.png,Dire wolves were large Ice Age predators that lived in the Americas.
+53,113,B018,Dodo,53_dodo.png,Dodos were flightless birds that once lived on the island of Mauritius.
+54,115,B018,Titanoboa,54_titanoboa.png,Titanoboa was a gigantic prehistoric snake that lived in warm tropical wetlands.
+55,117,B018,Sarcosuchus,55_sarcosuchus.png,Sarcosuchus was a huge crocodile-like reptile that lived alongside dinosaurs.
+56,119,B018,Dimetrodon,56_dimetrodon.png,Dimetrodon had a tall sail on its back and lived before the dinosaurs.
+57,121,B018,Edaphosaurus,57_edaphosaurus.png,Edaphosaurus was an early plant eater with a tall sail along its back.
+58,123,B018,Megaloceros,58_megaloceros.png,Megaloceros was a giant deer with enormous antlers.
+59,125,B018,Woolly Rhinoceros,59_woolly_rhinoceros.png,Woolly rhinoceroses had thick fur and lived in cold Ice Age environments.
+60,127,B018,Terror Bird,60_terror_bird.png,Terror birds were large flightless predators with powerful beaks and long legs.
