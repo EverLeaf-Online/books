@@ -15,7 +15,7 @@ Original black-and-white children's coloring-book line art for ages 4–8. Portr
 40 — Seahorse Seagrass: seahorse gripping tall seagrass with curled tail, bubbles, shells, small coral shapes.
 41 — Polar Bear Snow Den: polar bear mother near snow den entrance with cub, snowdrifts, ice shapes, simple Arctic sky.
 42 — Arctic Fox Den: Arctic fox family at den entrance in tundra mound, low shrubs, rocks, snow patches.
-43 — Penguin Ice Nest: penguin beside simple stone nest on ice-free rocky ground, chick nearby, snow and distant colony.
+43 — Penguin Nest: penguin beside a simple stone nest on ice-free rocky ground, chick nearby, snow patches and distant colony; do not depict a nest made from ice.
 44 — Seal Ice Hole: seal surfacing at breathing hole in sea ice, ice chunks, snow, water ripples.
 45 — Walrus Haul-Out: walruses resting together on beach or ice shelf, water edge, rocks, simple waves.
 46 — Bat Cave: bats roosting upside down inside cave, large rock shapes, cave entrance, moon outside.
