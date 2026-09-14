@@ -42,12 +42,12 @@ Before final upload, review current conservation suitability and taxonomy agains
 ### Book 28 — Sharks & Rays
 Resolved:
 
-- `Mako Shark` -> **Shortfin Mako Shark**, matching the existing fact and prompt intent.
+- `Mako Shark` -> **Shortfin Mako Shark**
+- `Hammerhead Shark` -> **Great Hammerhead Shark**
+- `Dogfish Shark` -> **Spiny Dogfish**
 
 Broad labels still requiring species-level visual/naming review:
 
-- Dogfish Shark
-- Hammerhead Shark
 - Electric Ray
 - Butterfly Ray
 - Guitarfish
@@ -71,7 +71,7 @@ These are no longer blockers:
 - Book 25: duplicate `Lammergeier`/Bearded Vulture entry replaced with **Himalayan Snowcock** and propagated.
 - Book 26: all former broad labels normalized and propagated end-to-end: **Giant Panda**, **American Pika**, **Eastern Cottontail**, **Netherland Dwarf Rabbit**, **North American River Otter**, **Brown-Throated Three-Toed Sloth**, **Ruby-Throated Hummingbird**, **Eastern Bluebird**, and **Beluga Whale**.
 - Book 27: broad `Bowerbird` entry normalized to **Vogelkop Bowerbird** and propagated through catalog, page map, B054 prompt, artwork manifest, assembly manifest, and QA.
-- Book 28: `Mako Shark` normalized to **Shortfin Mako Shark**, including filename and production manifests.
+- Book 28: `Mako Shark` normalized to **Shortfin Mako Shark**, `Hammerhead Shark` to **Great Hammerhead Shark**, and `Dogfish Shark` to **Spiny Dogfish**, including filenames and production manifests.
 - Book 30: `Penguin Ice Nest` renamed **Penguin Nest** with corrected nesting wording and propagated.
 
 ## Prompt-pack coverage
