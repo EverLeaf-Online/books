@@ -1,0 +1,36 @@
+MIST° — Book 12: Reptiles & Amphibians — Batch B024 (Subjects 31–60)
+
+MASTER ART DIRECTION
+Original black-and-white children's coloring-book line art for ages 4–8. Portrait 8.5 x 11 composition. One clear main reptile or amphibian, friendly and anatomically plausible. Subject about 55–70% of usable area. Bold smooth outer contours, simpler interior details, large enclosed coloring spaces, generous white space. Include only 5–10 large habitat-appropriate background elements. Keep important linework inside a 0.50-inch safe-content target. Leave lower area reasonably open for separately typeset name and fact. Preferred master: 2550 x 3300 PNG. No words, letters, numbers, captions, signatures, logos, watermarks, grayscale, shading, hatching, gradients, textures, decorative borders, cropped anatomy, duplicated limbs, or tiny clutter.
+
+Generate one image per numbered subject:
+31 Gharial — resting beside river; extremely long narrow snout, full body and tail visible.
+32 Spectacled Caiman — at tropical wetland edge; short broad body, raised eye ridge clear.
+33 Green Sea Turtle — swimming over simple coral and seagrass; broad flippers visible.
+34 Loggerhead Sea Turtle — swimming near reef; large head and powerful flippers.
+35 Leatherback Sea Turtle — swimming in open ocean; ridged flexible shell and long front flippers.
+36 Red-Eared Slider — basking on log over pond; red cheek patch represented as line region.
+37 Eastern Box Turtle — walking through woodland leaves; high domed shell and sturdy legs.
+38 Common Snapping Turtle — standing at pond edge; large head, long tail, rugged shell.
+39 Galápagos Tortoise — walking on island ground; huge domed shell, thick legs, sparse cactus shapes.
+40 African Spurred Tortoise — on dry desert soil near burrow entrance; large shell and strong digging legs.
+41 Poison Dart Frog — perched on tropical leaf; compact frog body and large simple pattern regions.
+42 Green Tree Frog — clinging to branch; round toe pads and long limbs.
+43 American Bullfrog — sitting at pond edge; broad body, simple lily pad and reeds.
+44 Glass Frog — on leaf viewed from side; slim body and large eyes, transparent effect not rendered with shading.
+45 Red-Eyed Tree Frog — perched on broad leaf; large eyes, sticky toes, clean limb anatomy.
+46 Tomato Frog — sitting on forest floor; rounded body and simple leaf litter.
+47 Horned Frog — resting among leaves; very wide mouth and hornlike eye ridges.
+48 Northern Leopard Frog — crouched beside pond; large spot regions and long back legs.
+49 American Toad — sitting in garden soil; bumpy skin suggested with sparse large dots only.
+50 Cane Toad — sitting near tropical ground cover; robust body and visible parotoid glands.
+51 Fire-Bellied Toad — low crouch on wet rock; belly warning pattern shown only as simple line regions where visible.
+52 Axolotl — swimming in simple aquarium-like freshwater plants; feathery external gills prominent.
+53 Tiger Salamander — walking through damp woodland; broad head and large stripe/blotch regions.
+54 Fire Salamander — on mossy rock; yellow pattern regions represented by clean outlined shapes only.
+55 Eastern Newt — walking through forest floor; slender body and simple eft-stage orange regions as outlines only.
+56 Olm — swimming through simple cave pool; pale eel-like body, tiny limbs and external gills.
+57 Mudpuppy — resting underwater near stones; external gills and four limbs clear.
+58 Caecilian — emerging from loose soil; long limbless amphibian body with ringlike segments simplified.
+59 Greater Siren — swimming among marsh plants; eel-shaped body, tiny front legs and external gills.
+60 Hellbender — resting beneath a large stream rock; broad flat body, wrinkled side folds and four limbs clear.
