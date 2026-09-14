@@ -55,9 +55,6 @@ Broad labels still needing deliberate normalization or explicit generic approval
 - Hummingbird
 - Bluebird
 
-### Book 27 — Rainforest Birds
-- `Bowerbird` remains a broad label and requires a final naming/visual decision before approval.
-
 ### Book 28 — Sharks & Rays
 Resolved:
 
@@ -89,6 +86,7 @@ These are no longer blockers:
 - Book 24: broad labels normalized and propagated end-to-end: **North American River Otter**, **Spiny Softshell Turtle**, **Northern Map Turtle**, **Cottonmouth**, **Northern Leopard Frog**, **Green Tree Frog**, **Eastern Newt**, and **Amazon Kingfisher**.
 - Book 25: duplicate `Lammergeier`/Bearded Vulture entry replaced with **Himalayan Snowcock** and propagated.
 - Book 26: `Panda` normalized to **Giant Panda** and `Beluga` to **Beluga Whale**, including filenames and production manifests.
+- Book 27: broad `Bowerbird` entry normalized to **Vogelkop Bowerbird** and propagated through catalog, page map, B054 prompt, artwork manifest, assembly manifest, and QA.
 - Book 28: `Mako Shark` normalized to **Shortfin Mako Shark**, including filename and production manifests.
 - Book 30: `Penguin Ice Nest` renamed **Penguin Nest** with corrected nesting wording and propagated.
 
