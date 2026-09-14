@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,status,qa_status
+1,9,B009,African Lion,01_african_lion.png,Queued,Not Reviewed
+2,11,B009,African Elephant,02_african_elephant.png,Queued,Not Reviewed
+3,13,B009,Giraffe,03_giraffe.png,Queued,Not Reviewed
+4,15,B009,Plains Zebra,04_plains_zebra.png,Queued,Not Reviewed
+5,17,B009,Cheetah,05_cheetah.png,Queued,Not Reviewed
+6,19,B009,Leopard,06_leopard.png,Queued,Not Reviewed
+7,21,B009,White Rhinoceros,07_white_rhinoceros.png,Queued,Not Reviewed
+8,23,B009,Black Rhinoceros,08_black_rhinoceros.png,Queued,Not Reviewed
+9,25,B009,Hippopotamus,09_hippopotamus.png,Queued,Not Reviewed
+10,27,B009,African Buffalo,10_african_buffalo.png,Queued,Not Reviewed
+11,29,B009,Blue Wildebeest,11_blue_wildebeest.png,Queued,Not Reviewed
+12,31,B009,Thomson's Gazelle,12_thomsons_gazelle.png,Queued,Not Reviewed
+13,33,B009,Grant's Gazelle,13_grants_gazelle.png,Queued,Not Reviewed
+14,35,B009,Impala,14_impala.png,Queued,Not Reviewed
+15,37,B009,Greater Kudu,15_greater_kudu.png,Queued,Not Reviewed
+16,39,B009,Eland,16_eland.png,Queued,Not Reviewed
+17,41,B009,Gemsbok,17_gemsbok.png,Queued,Not Reviewed
+18,43,B009,Sable Antelope,18_sable_antelope.png,Queued,Not Reviewed
+19,45,B009,Waterbuck,19_waterbuck.png,Queued,Not Reviewed
+20,47,B009,Springbok,20_springbok.png,Queued,Not Reviewed
+21,49,B009,Common Warthog,21_common_warthog.png,Queued,Not Reviewed
+22,51,B009,African Wild Dog,22_african_wild_dog.png,Queued,Not Reviewed
+23,53,B009,Spotted Hyena,23_spotted_hyena.png,Queued,Not Reviewed
+24,55,B009,Striped Hyena,24_striped_hyena.png,Queued,Not Reviewed
+25,57,B009,Jackal,25_jackal.png,Queued,Not Reviewed
+26,59,B009,Meerkat,26_meerkat.png,Queued,Not Reviewed
+27,61,B009,Mongoose,27_mongoose.png,Queued,Not Reviewed
+28,63,B009,Aardvark,28_aardvark.png,Queued,Not Reviewed
+29,65,B009,Porcupine,29_porcupine.png,Queued,Not Reviewed
+30,67,B009,Baboon,30_baboon.png,Queued,Not Reviewed
+31,69,B010,Vervet Monkey,31_vervet_monkey.png,Queued,Not Reviewed
+32,71,B010,Colobus Monkey,32_colobus_monkey.png,Queued,Not Reviewed
+33,73,B010,Ostrich,33_ostrich.png,Queued,Not Reviewed
+34,75,B010,Secretary Bird,34_secretary_bird.png,Queued,Not Reviewed
+35,77,B010,Crowned Crane,35_crowned_crane.png,Queued,Not Reviewed
+36,79,B010,Marabou Stork,36_marabou_stork.png,Queued,Not Reviewed
+37,81,B010,African Fish Eagle,37_african_fish_eagle.png,Queued,Not Reviewed
+38,83,B010,Helmeted Guineafowl,38_helmeted_guineafowl.png,Queued,Not Reviewed
+39,85,B010,Shoebill,39_shoebill.png,Queued,Not Reviewed
+40,87,B010,Flamingo,40_flamingo.png,Queued,Not Reviewed
+41,89,B010,Nile Crocodile,41_nile_crocodile.png,Queued,Not Reviewed
+42,91,B010,African Rock Python,42_african_rock_python.png,Queued,Not Reviewed
+43,93,B010,Black Mamba,43_black_mamba.png,Queued,Not Reviewed
+44,95,B010,Puff Adder,44_puff_adder.png,Queued,Not Reviewed
+45,97,B010,African Spurred Tortoise,45_african_spurred_tortoise.png,Queued,Not Reviewed
+46,99,B010,Nile Monitor,46_nile_monitor.png,Queued,Not Reviewed
+47,101,B010,Chameleon,47_chameleon.png,Queued,Not Reviewed
+48,103,B010,Agama Lizard,48_agama_lizard.png,Queued,Not Reviewed
+49,105,B010,Dung Beetle,49_dung_beetle.png,Queued,Not Reviewed
+50,107,B010,Termite,50_termite.png,Queued,Not Reviewed
+51,109,B010,Tsetse Fly,51_tsetse_fly.png,Queued,Not Reviewed
+52,111,B010,Acacia Ant,52_acacia_ant.png,Queued,Not Reviewed
+53,113,B010,Honey Badger,53_honey_badger.png,Queued,Not Reviewed
+54,115,B010,Bat-Eared Fox,54_bat_eared_fox.png,Queued,Not Reviewed
+55,117,B010,Serval,55_serval.png,Queued,Not Reviewed
+56,119,B010,Caracal,56_caracal.png,Queued,Not Reviewed
+57,121,B010,Genet,57_genet.png,Queued,Not Reviewed
+58,123,B010,Okapi,58_okapi.png,Queued,Not Reviewed
+59,125,B010,Greater Flamingo,59_greater_flamingo.png,Queued,Not Reviewed
+60,127,B010,Pangolin,60_pangolin.png,Queued,Not Reviewed
