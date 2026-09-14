@@ -25,10 +25,11 @@ Every illustration must pass all checks before approval:
 - Amphibians: toe structure, gills where appropriate, and body proportions must match the named subject.
 - Wetland birds: bill shape, legs, feet, wings, and wading/perching posture must fit the listed bird.
 - Fish/invertebrates: fins, barbels, claws, shell, and body segmentation must be recognizable and simplified cleanly.
+- `Cottonmouth` is the normalized name for the former `Water Moccasin` entry; use a heavy-bodied cottonmouth/water-moccasin form in a neutral non-striking pose.
 
 ## Catalog review flags
 
-Before release, source-normalize broad labels currently used in the catalog where needed, especially `River Otter`, `Softshell Turtle`, `Map Turtle`, `Water Moccasin`, `Leopard Frog`, `Tree Frog`, `Newt`, and `River Kingfisher`. Do not silently invent a species during illustration review.
+Before release, source-normalize broad labels currently used in the catalog where needed, especially `River Otter`, `Softshell Turtle`, `Map Turtle`, `Leopard Frog`, `Tree Frog`, `Newt`, and `River Kingfisher`. Do not silently invent a species during illustration review.
 
 ## Batch gate
 
