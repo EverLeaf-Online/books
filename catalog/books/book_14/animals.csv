@@ -1,0 +1,61 @@
+number,interior_page,animal,fact
+1,9,Maine Coon,Maine coons are large cats with thick coats and bushy tails.
+2,11,Siamese,Siamese cats often have pale bodies with darker ears, faces, paws, and tails.
+3,13,Persian,Persian cats are known for long fur and round faces.
+4,15,Ragdoll,Ragdolls are large gentle cats with soft coats and blue eyes.
+5,17,Bengal,Bengal cats have spotted or marbled coats that can resemble wild cats.
+6,19,British Shorthair,British shorthairs have dense plush coats and round faces.
+7,21,Sphynx,Sphynx cats have very little fur and need help staying warm.
+8,23,Scottish Fold,Scottish folds are known for ears that can fold forward.
+9,25,Abyssinian,Abyssinians are active cats with ticked coats where each hair has bands of color.
+10,27,American Shorthair,American shorthairs are sturdy cats known for many coat colors and patterns.
+11,29,Norwegian Forest Cat,Norwegian forest cats have thick water-resistant coats suited to cold climates.
+12,31,Birman,Birmans are long-haired cats known for white paws and blue eyes.
+13,33,Russian Blue,Russian blues have short dense coats and bright green eyes.
+14,35,Oriental Shorthair,Oriental shorthairs have long bodies, large ears, and many coat colors.
+15,37,Devon Rex,Devon rex cats have short curly coats and very large ears.
+16,39,Cornish Rex,Cornish rex cats have soft wavy coats with almost no guard hairs.
+17,41,Manx,Manx cats are known for naturally short or absent tails.
+18,43,Turkish Angora,Turkish angoras are elegant cats with silky coats and long plumed tails.
+19,45,Turkish Van,Turkish vans are strong swimmers and often have color mainly on the head and tail.
+20,47,Egyptian Mau,Egyptian maus are naturally spotted domestic cats.
+21,49,Ocicat,Ocicats have wild-looking spots but are fully domestic cats.
+22,51,Savannah,Savannah cats are tall, long-legged cats descended from domestic cats and servals.
+23,53,American Curl,American curls are named for ears that curl backward.
+24,55,Selkirk Rex,Selkirk rex cats can have plush curly coats and whiskers.
+25,57,Himalayan,Himalayans combine long Persian-like coats with pointed coloring.
+26,59,Balinese,Balinese cats are long-haired relatives of Siamese cats.
+27,61,Bombay,Bombay cats were developed to have sleek black coats and copper-colored eyes.
+28,63,Burmese,Burmese cats are muscular, social cats with short glossy coats.
+29,65,Tonkinese,Tonkinese cats combine traits from Siamese and Burmese ancestors.
+30,67,Chartreux,Chartreux cats are known for blue-gray coats and copper or gold eyes.
+31,69,Ragamuffin,Ragamuffins are large affectionate cats with soft plush coats.
+32,71,Somali,Somalis are long-haired relatives of Abyssinians with fluffy tails.
+33,73,Japanese Bobtail,Japanese bobtails have naturally short tails that can look like pom-poms.
+34,75,American Bobtail,American bobtails have naturally shortened tails and sturdy bodies.
+35,77,LaPerm,LaPerm cats have curly coats that can range from loose waves to tight ringlets.
+36,79,Singapura,Singapuras are one of the smallest recognized cat breeds.
+37,81,Snowshoe,Snowshoe cats often have white paws and pointed coloring.
+38,83,Toyger,Toygers were bred for striped coats that resemble tiny tigers.
+39,85,Pixiebob,Pixiebobs are sturdy cats often seen with short tails.
+40,87,Munchkin,Munchkin cats have naturally short legs caused by a genetic trait.
+41,89,Nebelung,Nebelungs have long blue-gray coats and green eyes.
+42,91,Siberian,Siberian cats have thick triple coats suited to cold weather.
+43,93,Korat,Korats are silver-blue cats from Thailand with heart-shaped faces.
+44,95,Havana Brown,Havana browns are known for rich brown coats and green eyes.
+45,97,European Shorthair,European shorthairs are sturdy cats with many traditional coat colors.
+46,99,Exotic Shorthair,Exotic shorthairs have round Persian-like faces but short plush coats.
+47,101,Chausie,Chausies are tall athletic cats descended partly from jungle cats.
+48,103,Lykoi,Lykoi cats have sparse coats that can give them a werewolf-like appearance.
+49,105,Peterbald,Peterbald cats may be hairless or have very short fine coats.
+50,107,Burmilla,Burmillas often have silver coats with darker shading at the tips.
+51,109,Colorpoint Shorthair,Colorpoint shorthairs are closely related to Siamese cats and come in many point colors.
+52,111,Cymric,Cymrics are long-haired relatives of Manx cats and often have very short tails.
+53,113,Foldex,Foldex cats combine folded ears with a round, compact face shape.
+54,115,Khao Manee,Khao manee cats from Thailand are known for white coats and bright eyes.
+55,117,Kurilian Bobtail,Kurilian bobtails have naturally short tails and strong hind legs.
+56,119,Mekong Bobtail,Mekong bobtails are pointed cats with short kinked tails.
+57,121,Oriental Longhair,Oriental longhairs have slender bodies, large ears, and flowing coats.
+58,123,Thai Cat,Thai cats resemble the traditional rounder form of early Siamese cats.
+59,125,Tuxedo Cat,Tuxedo cats have black-and-white markings that can resemble formal clothing.
+60,127,Tabby Cat,Tabby is a coat pattern featuring stripes, spots, or swirls rather than a single breed.
