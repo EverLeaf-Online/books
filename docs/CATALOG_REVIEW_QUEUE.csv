@@ -21,14 +21,14 @@ book,item,issue,required_action,status
 28,Shortfin Mako Shark,Former Mako Shark label normalized,No further naming action; verify artwork matches shortfin mako anatomy,Resolved
 28,Great Hammerhead Shark,Former broad Hammerhead Shark label normalized,No further naming action; verify artwork matches great hammerhead anatomy,Resolved
 28,Spiny Dogfish,Former broad Dogfish Shark label normalized,No further naming action; verify artwork matches spiny dogfish anatomy,Resolved
-28,Electric Ray,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
-28,Butterfly Ray,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
-28,Guitarfish,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
-28,Shovelnose Ray,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
-28,Sawfish,Broad common label,Choose a deliberate sawfish species or explicitly approve generic representative,Open
-28,Skate,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
+28,Pacific Electric Ray,Former broad Electric Ray label normalized,No further naming action; verify artwork matches Pacific electric ray,Resolved
+28,Smooth Butterfly Ray,Former broad Butterfly Ray label normalized,No further naming action; verify artwork matches smooth butterfly ray,Resolved
+28,Common Guitarfish,Former broad Guitarfish label normalized,No further naming action; verify artwork matches common guitarfish,Resolved
+28,Shovelnose Guitarfish,Former broad Shovelnose Ray label normalized,No further naming action; verify artwork matches shovelnose guitarfish,Resolved
+28,Smalltooth Sawfish,Former broad Sawfish label normalized,No further naming action; verify artwork matches smalltooth sawfish,Resolved
+28,Clearnose Skate,Former broad Skate label normalized,No further naming action; verify artwork matches clearnose skate,Resolved
+28,Ocellate River Stingray,Former broad Freshwater Stingray label normalized,No further naming action; verify artwork matches ocellate river stingray,Resolved
 28,Devil Ray,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
 28,Mobula Ray,Broad/overlapping common label,Choose a deliberate Mobula species and keep distinct from Devil Ray entry,Open
-28,Freshwater Stingray,Broad common label,Choose a deliberate South American freshwater stingray species or explicitly approve generic representative,Open
 28,Baby Shark,Generic juvenile label,Define a parent species or explicitly approve generic shark-pup educational page,Open
 28,Ray Pup,Generic juvenile label,Define a parent species or explicitly approve generic ray-pup educational page,Open
