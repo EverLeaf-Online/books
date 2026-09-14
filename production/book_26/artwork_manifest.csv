@@ -2,7 +2,7 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 1,9,B051,Red Panda,01_red_panda.png,Queued,Not Reviewed
 2,11,B051,Quokka,02_quokka.png,Queued,Not Reviewed
 3,13,B051,Koala,03_koala.png,Queued,Not Reviewed
-4,15,B051,Panda,04_panda.png,Queued,Not Reviewed
+4,15,B051,Giant Panda,04_giant_panda.png,Queued,Not Reviewed
 5,17,B051,Fennec Fox,05_fennec_fox.png,Queued,Not Reviewed
 6,19,B051,Arctic Fox,06_arctic_fox.png,Queued,Not Reviewed
 7,21,B051,Pika,07_pika.png,Queued,Not Reviewed
@@ -52,7 +52,7 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 51,109,B052,Seahorse,51_seahorse.png,Queued,Not Reviewed
 52,111,B052,Pufferfish,52_pufferfish.png,Queued,Not Reviewed
 53,113,B052,Bottlenose Dolphin,53_bottlenose_dolphin.png,Queued,Not Reviewed
-54,115,B052,Beluga,54_beluga.png,Queued,Not Reviewed
+54,115,B052,Beluga Whale,54_beluga_whale.png,Queued,Not Reviewed
 55,117,B052,Harbor Seal,55_harbor_seal.png,Queued,Not Reviewed
 56,119,B052,Manatee,56_manatee.png,Queued,Not Reviewed
 57,121,B052,Nudibranch,57_nudibranch.png,Queued,Not Reviewed
