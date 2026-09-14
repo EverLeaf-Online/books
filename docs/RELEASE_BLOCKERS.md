@@ -40,12 +40,15 @@ After artwork approval, each book still requires:
 Before final upload, review current conservation suitability and taxonomy against recognized current sources. The current catalog intentionally avoids printing status labels on each page, but the title still requires the collection to remain defensible as an endangered/rare-animal book.
 
 ### Book 24 — River & Wetland Animals
+Resolved in this pass:
+
+- `Water Moccasin` -> **Cottonmouth**
+
 Broad labels still needing a deliberate source-normalization decision before final artwork approval:
 
 - River Otter
 - Softshell Turtle
 - Map Turtle
-- Water Moccasin
 - Leopard Frog
 - Tree Frog
 - Newt
@@ -54,7 +57,7 @@ Broad labels still needing a deliberate source-normalization decision before fin
 Do not silently invent a species during art review.
 
 ### Book 26 — Cute Animals
-Resolved in this pass:
+Resolved:
 
 - `Panda` -> **Giant Panda**
 - `Beluga` -> **Beluga Whale**
@@ -73,7 +76,7 @@ Broad labels still needing deliberate normalization or explicit generic approval
 - `Bowerbird` remains a broad label and requires a final naming/visual decision before approval.
 
 ### Book 28 — Sharks & Rays
-Resolved in this pass:
+Resolved:
 
 - `Mako Shark` -> **Shortfin Mako Shark**, matching the existing fact and prompt intent.
 
@@ -100,6 +103,7 @@ These are no longer blockers:
 - Book 15: duplicate Paso horse entry replaced with **American Bashkir Curly**.
 - Book 21: corrected to **Greater Roadrunner**.
 - Book 23: `Sidewinder Crab` mismatch replaced with **Ghost Crab** and propagated through catalog, page map, prompt pack, artwork manifest, assembly manifest, and QA.
+- Book 24: `Water Moccasin` normalized to **Cottonmouth** and propagated through catalog, page map, prompt pack, artwork manifest, assembly manifest, and QA.
 - Book 25: duplicate `Lammergeier`/Bearded Vulture entry replaced with **Himalayan Snowcock** and propagated.
 - Book 26: `Panda` normalized to **Giant Panda** and `Beluga` to **Beluga Whale**, including filenames and production manifests.
 - Book 28: `Mako Shark` normalized to **Shortfin Mako Shark**, including filename and production manifests.
