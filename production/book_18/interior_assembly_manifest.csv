@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B035,Red Kangaroo,01_red_kangaroo.png,Red kangaroos are the largest living marsupials.
+2,11,B035,Eastern Grey Kangaroo,02_eastern_grey_kangaroo.png,Eastern grey kangaroos often gather in groups called mobs.
+3,13,B035,Western Grey Kangaroo,03_western_grey_kangaroo.png,Western grey kangaroos are native to southern Australia.
+4,15,B035,Wallaroo,04_wallaroo.png,Wallaroos are medium-sized relatives of kangaroos and wallabies.
+5,17,B035,Swamp Wallaby,05_swamp_wallaby.png,Swamp wallabies browse many kinds of plants.
+6,19,B035,Quokka,06_quokka.png,Quokkas are small wallabies found mainly in Western Australia.
+7,21,B035,Koala,07_koala.png,Koalas eat mostly eucalyptus leaves.
+8,23,B035,Common Wombat,08_common_wombat.png,Common wombats dig large burrow systems.
+9,25,B035,Southern Hairy-Nosed Wombat,09_southern_hairy_nosed_wombat.png,Hairy-nosed wombats have soft fur around the nose.
+10,27,B035,Tasmanian Devil,10_tasmanian_devil.png,Tasmanian devils are the largest living carnivorous marsupials.
+11,29,B035,Numbat,11_numbat.png,Numbats mainly eat termites.
+12,31,B035,Bilby,12_bilby.png,Bilbies have long ears and dig deep burrows.
+13,33,B035,Bandicoot,13_bandicoot.png,Bandicoots use pointed snouts to search for food.
+14,35,B035,Sugar Glider,14_sugar_glider.png,Sugar gliders can glide between trees using skin flaps.
+15,37,B035,Greater Glider,15_greater_glider.png,Greater gliders are large gliding possums.
+16,39,B035,Brushtail Possum,16_brushtail_possum.png,Brushtail possums are active mostly at night.
+17,41,B035,Ringtail Possum,17_ringtail_possum.png,Ringtail possums use prehensile tails to grip branches.
+18,43,B035,Spotted-Tail Quoll,18_spotted_tail_quoll.png,Quolls are carnivorous marsupials.
+19,45,B035,Dingo,19_dingo.png,Dingoes are wild dogs found across much of Australia.
+20,47,B035,Platypus,20_platypus.png,Platypuses are mammals that lay eggs.
+21,49,B035,Short-Beaked Echidna,21_short_beaked_echidna.png,Echidnas are egg-laying mammals covered in spines.
+22,51,B035,Emu,22_emu.png,Emus are large flightless birds.
+23,53,B035,Southern Cassowary,23_southern_cassowary.png,Cassowaries help spread rainforest seeds.
+24,55,B035,Laughing Kookaburra,24_laughing_kookaburra.png,Kookaburras are famous for loud laughing calls.
+25,57,B035,Sulphur-Crested Cockatoo,25_sulphur_crested_cockatoo.png,These cockatoos have a bright movable crest.
+26,59,B035,Galah,26_galah.png,Galahs are pink-and-gray cockatoos.
+27,61,B035,Rainbow Lorikeet,27_rainbow_lorikeet.png,Rainbow lorikeets feed on nectar and pollen.
+28,63,B035,Budgerigar,28_budgerigar.png,Wild budgies often gather in large flocks.
+29,65,B035,Superb Fairywren,29_superb_fairywren.png,Male superb fairywrens can develop bright blue breeding plumage.
+30,67,B035,Australian Magpie,30_australian_magpie.png,Australian magpies are known for complex songs.
+31,69,B036,Tawny Frogmouth,31_tawny_frogmouth.png,Tawny frogmouths camouflage themselves like tree branches.
+32,71,B036,Wedge-Tailed Eagle,32_wedge_tailed_eagle.png,Wedge-tailed eagles are Australia's largest birds of prey.
+33,73,B036,Australian Pelican,33_australian_pelican.png,Australian pelicans have extremely long bills.
+34,75,B036,Black Swan,34_black_swan.png,Black swans are native to Australia.
+35,77,B036,Little Penguin,35_little_penguin.png,Little penguins are the smallest penguin species.
+36,79,B036,Australian Fur Seal,36_australian_fur_seal.png,Australian fur seals breed on rocky islands.
+37,81,B036,Australian Sea Lion,37_australian_sea_lion.png,Australian sea lions are found only around Australia.
+38,83,B036,Dugong,38_dugong.png,Dugongs graze on underwater seagrass meadows.
+39,85,B036,Humpback Whale,39_humpback_whale.png,Humpback whales migrate along the Australian coast.
+40,87,B036,Bottlenose Dolphin,40_bottlenose_dolphin.png,Bottlenose dolphins live in many Australian coastal waters.
+41,89,B036,Great White Shark,41_great_white_shark.png,Great white sharks are powerful ocean predators.
+42,91,B036,Whale Shark,42_whale_shark.png,Whale sharks are the largest fish in the world.
+43,93,B036,Port Jackson Shark,43_port_jackson_shark.png,Port Jackson sharks have blunt heads and patterned bodies.
+44,95,B036,Blue-Ringed Octopus,44_blue_ringed_octopus.png,Blue-ringed octopuses are small but highly venomous.
+45,97,B036,Giant Cuttlefish,45_giant_cuttlefish.png,Giant cuttlefish can rapidly change color and pattern.
+46,99,B036,Leafy Seadragon,46_leafy_seadragon.png,Leafy seadragons have leaf-like body extensions for camouflage.
+47,101,B036,Weedy Seadragon,47_weedy_seadragon.png,Weedy seadragons are relatives of seahorses.
+48,103,B036,Green Sea Turtle,48_green_sea_turtle.png,Green sea turtles feed heavily on seagrasses as adults.
+49,105,B036,Flatback Sea Turtle,49_flatback_sea_turtle.png,Flatback turtles nest mainly on Australian beaches.
+50,107,B036,Saltwater Crocodile,50_saltwater_crocodile.png,Saltwater crocodiles are the largest living reptiles.
+51,109,B036,Freshwater Crocodile,51_freshwater_crocodile.png,Freshwater crocodiles usually have narrower snouts than saltwater crocodiles.
+52,111,B036,Frilled Lizard,52_frilled_lizard.png,Frilled lizards can spread a large neck frill when threatened.
+53,113,B036,Thorny Devil,53_thorny_devil.png,Thorny devils have spiny skin and channels that move water toward the mouth.
+54,115,B036,Blue-Tongued Skink,54_blue_tongued_skink.png,Blue-tongued skinks display bright blue tongues when threatened.
+55,117,B036,Perentie,55_perentie.png,Perenties are Australia's largest monitor lizards.
+56,119,B036,Inland Taipan,56_inland_taipan.png,Inland taipans have extremely potent venom.
+57,121,B036,Green Tree Frog,57_green_tree_frog.png,Australian green tree frogs often shelter in cool damp places.
+58,123,B036,Corroboree Frog,58_corroboree_frog.png,Corroboree frogs have bold yellow-and-black markings.
+59,125,B036,Giant Burrowing Frog,59_giant_burrowing_frog.png,Giant burrowing frogs spend much of their time underground.
+60,127,B036,Yabby,60_yabby.png,Yabbies are freshwater crayfish found in Australian waterways.
