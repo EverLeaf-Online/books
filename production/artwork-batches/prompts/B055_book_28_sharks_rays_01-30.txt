@@ -12,7 +12,7 @@ Original black-and-white children's coloring-book line art for ages 4–8. Portr
 07 — Blacktip Reef Shark: blacktip reef shark weaving through shallow coral reef, clear dark fin-tip markings in outline.
 08 — Whitetip Reef Shark: whitetip reef shark near reef cave, slender body, pale fin-tip areas left white, coral shapes.
 09 — Lemon Shark: lemon shark over sandy lagoon, smooth body, seagrass, shells, small fish.
-10 — Mako Shark: streamlined mako racing through open water, pointed snout, crescent tail, speed lines kept minimal.
+10 — Shortfin Mako Shark: streamlined shortfin mako racing through open water, pointed snout, crescent tail, speed lines kept minimal.
 11 — Thresher Shark: thresher shark with very long upper tail lobe, open ocean, simple schooling fish.
 12 — Goblin Shark: goblin shark in deep sea, long flattened snout, protruding jaw shown gently, simple deep-water fish.
 13 — Basking Shark: large basking shark filter-feeding with wide open mouth, plankton dots simplified, ocean surface above.
