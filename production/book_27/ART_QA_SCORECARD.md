@@ -19,8 +19,12 @@ Batches: **B053 (1–30)** and **B054 (31–60)**
 ## Book-specific review
 - [ ] Macaws, parrots, cockatoos, hornbills, quetzals, birds-of-paradise, raptors, kingfishers, motmots, toucans/aracaris, tanagers, and hummingbirds remain visually distinguishable
 - [ ] Casques, crests, racket tails, long tail streamers, and specialized bills are shown when defining
-- [ ] `Bowerbird` is a broad label and receives an appropriate representative design before final approval
+- [ ] `Vogelkop Bowerbird` shows the correct bowerbird body plan and an elaborate natural-material bower on the rainforest floor; no invented human-object decorations
 - [ ] Hummingbird bills and tail ornaments are plausible and not exaggerated into fantasy shapes
+
+## Catalog review
+
+The former broad `Bowerbird` entry has been normalized to **Vogelkop Bowerbird** and propagated through the catalog, page map, B054 prompt, artwork manifest, and assembly manifest.
 
 ## Batch sign-off
 ### B053 — Subjects 1–30
