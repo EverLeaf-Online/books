@@ -1,0 +1,6 @@
+DROP APPROVED ORIGINAL ART HERE
+
+This folder is reserved for one 30-image production batch.
+Use filenames beginning with 01_ through 30_ for the batch-local sequence, or the canonical subject numbering required by the book manifest.
+Preferred master: 2550x3300 PNG, pure black line art on white, no text/watermark, important linework inside the 0.50-inch safety target.
+Do not place placeholders or unapproved art here.
