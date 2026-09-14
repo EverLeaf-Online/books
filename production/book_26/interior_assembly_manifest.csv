@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B051,Red Panda,01_red_panda.png,Red pandas use bushy tails for balance and warmth.
+2,11,B051,Quokka,02_quokka.png,Quokkas are small wallaby relatives with rounded faces.
+3,13,B051,Koala,03_koala.png,Koalas have strong claws for climbing eucalyptus trees.
+4,15,B051,Panda,04_panda.png,Giant pandas spend many hours each day eating bamboo.
+5,17,B051,Fennec Fox,05_fennec_fox.png,Fennec foxes have enormous ears that help release body heat.
+6,19,B051,Arctic Fox,06_arctic_fox.png,Arctic foxes grow thick coats for freezing climates.
+7,21,B051,Pika,07_pika.png,Pikas are small mountain mammals that gather plants for winter.
+8,23,B051,Hedgehog,08_hedgehog.png,Hedgehogs can curl into tight balls for protection.
+9,25,B051,Rabbit,09_rabbit.png,Rabbits have powerful hind legs for hopping.
+10,27,B051,Dwarf Rabbit,10_dwarf_rabbit.png,Small pet rabbits still have the same strong hind legs as larger rabbits.
+11,29,B051,Guinea Pig,11_guinea_pig.png,"Guinea pigs communicate with squeaks, whistles, and purr-like sounds."
+12,31,B051,Hamster,12_hamster.png,Hamsters use cheek pouches to carry food.
+13,33,B051,Chinchilla,13_chinchilla.png,Chinchillas have extremely dense soft fur.
+14,35,B051,Sugar Glider,14_sugar_glider.png,Sugar gliders can glide between trees using skin between their legs.
+15,37,B051,Flying Squirrel,15_flying_squirrel.png,Flying squirrels glide through forests at night.
+16,39,B051,Chipmunk,16_chipmunk.png,Chipmunks have stretchy cheek pouches for carrying seeds.
+17,41,B051,Sea Otter,17_sea_otter.png,Sea otters sometimes hold hands while resting in groups at the surface.
+18,43,B051,River Otter,18_river_otter.png,River otters are playful swimmers with streamlined bodies.
+19,45,B051,Meerkat,19_meerkat.png,Meerkats often take turns standing watch.
+20,47,B051,Sloth,20_sloth.png,Sloths move slowly and spend much of their lives in trees.
+21,49,B051,Capybara,21_capybara.png,Capybaras are the world's largest living rodents.
+22,51,B051,Pygmy Marmoset,22_pygmy_marmoset.png,Pygmy marmosets are among the smallest monkeys.
+23,53,B051,Tarsier,23_tarsier.png,Tarsiers have enormous eyes adapted for low light.
+24,55,B051,Ring-Tailed Lemur,24_ring_tailed_lemur.png,Ring-tailed lemurs use striped tails for visual signals.
+25,57,B051,Alpaca,25_alpaca.png,Alpacas have soft fleece and long necks.
+26,59,B051,Llama,26_llama.png,Llamas are social South American camel relatives.
+27,61,B051,Miniature Horse,27_miniature_horse.png,Miniature horses are bred to be very small while keeping horse-like proportions.
+28,63,B051,Shetland Pony,28_shetland_pony.png,Shetland ponies are tiny but very strong.
+29,65,B051,Highland Cow,29_highland_cow.png,Highland cattle have long shaggy coats.
+30,67,B051,Lamb,30_lamb.png,Baby sheep are called lambs.
+31,69,B052,Goat Kid,31_goat_kid.png,Baby goats are called kids.
+32,71,B052,Piglet,32_piglet.png,Piglets use a strong sense of smell from an early age.
+33,73,B052,Duckling,33_duckling.png,Ducklings can swim soon after hatching.
+34,75,B052,Chick,34_chick.png,Chicks use an egg tooth to help break out of their shells.
+35,77,B052,Gosling,35_gosling.png,Baby geese are called goslings.
+36,79,B052,Penguin Chick,36_penguin_chick.png,Penguin chicks are covered in fluffy down.
+37,81,B052,Puffin,37_puffin.png,Puffins use colorful bills to carry several fish at once.
+38,83,B052,Lovebird,38_lovebird.png,Lovebirds are small social parrots.
+39,85,B052,Budgerigar,39_budgerigar.png,Budgies are small parrots that can learn sounds.
+40,87,B052,Cockatiel,40_cockatiel.png,Cockatiels raise and lower the crests on their heads.
+41,89,B052,Hummingbird,41_hummingbird.png,Hummingbirds can hover in place while feeding.
+42,91,B052,Bluebird,42_bluebird.png,Bluebirds often nest in tree cavities or nest boxes.
+43,93,B052,Barn Owl,43_barn_owl.png,Barn owls have heart-shaped faces.
+44,95,B052,Axolotl,44_axolotl.png,Axolotls keep feathery external gills as adults.
+45,97,B052,Red-Eyed Tree Frog,45_red_eyed_tree_frog.png,Red-eyed tree frogs have sticky toe pads for climbing.
+46,99,B052,Leopard Gecko,46_leopard_gecko.png,Leopard geckos store fat in their thick tails.
+47,101,B052,Crested Gecko,47_crested_gecko.png,Crested geckos have eyelash-like ridges above their eyes.
+48,103,B052,Baby Tortoise,48_baby_tortoise.png,Tortoise hatchlings begin life with tiny but fully formed shells.
+49,105,B052,Sea Turtle Hatchling,49_sea_turtle_hatchling.png,Sea turtle hatchlings crawl toward the ocean after leaving their nests.
+50,107,B052,Clownfish,50_clownfish.png,Clownfish live safely among sea anemone tentacles.
+51,109,B052,Seahorse,51_seahorse.png,Seahorses swim upright and use tails to hold onto plants.
+52,111,B052,Pufferfish,52_pufferfish.png,Pufferfish can inflate their bodies when threatened.
+53,113,B052,Bottlenose Dolphin,53_bottlenose_dolphin.png,Dolphins communicate with whistles and clicks.
+54,115,B052,Beluga,54_beluga.png,Belugas are pale whales known for many vocal sounds.
+55,117,B052,Harbor Seal,55_harbor_seal.png,Harbor seals have round heads and spotted coats.
+56,119,B052,Manatee,56_manatee.png,Manatees are gentle plant-eating marine mammals.
+57,121,B052,Nudibranch,57_nudibranch.png,Nudibranchs are colorful sea slugs with many unusual shapes.
+58,123,B052,Ladybug,58_ladybug.png,Ladybugs are beetles that often eat aphids.
+59,125,B052,Bumblebee,59_bumblebee.png,Bumblebees can vibrate flowers to shake loose pollen.
+60,127,B052,Luna Moth,60_luna_moth.png,Luna moths have pale green wings and long tails on their hind wings.
