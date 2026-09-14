@@ -1,0 +1,36 @@
+MIST° — Book 10: Birds — Batch B020 (Subjects 31–60)
+
+MASTER ART DIRECTION
+Original black-and-white children's coloring-book line art for ages 4–8. Portrait 8.5 x 11 composition. One clear main bird, friendly and anatomically plausible. Subject should fill about 55–70% of usable drawing area. Bold smooth outer contours, simpler interior details, large enclosed coloring spaces, lots of white space. Include only 5–10 large habitat-appropriate background elements. Keep important linework inside a 0.50-inch safe-content target. Leave the lower area reasonably open for separately typeset bird name and fact. Preferred master size: 2550 x 3300 PNG. No words, letters, numbers, captions, signatures, logos, watermarks, grayscale, shading, hatching, gradients, textures, decorative borders, cropped important anatomy, duplicated anatomy, or tiny clutter.
+
+Generate one image per numbered subject:
+31 Herring Gull — standing on shoreline rock; simple waves and shells.
+32 Brown Pelican — perched on pier post above water; oversized bill pouch, simple dock and ripples.
+33 Atlantic Puffin — standing on grassy sea cliff; colorful bill represented as clean line regions, ocean below.
+34 Wandering Albatross — gliding with wings spread above simple ocean waves; full wings visible.
+35 Emperor Penguin — standing upright on ice with simple snow mounds; flippers clear.
+36 Ostrich — standing on open savanna; long legs and neck, simple grasses and acacia silhouette.
+37 Emu — standing in Australian scrub; shaggy body, long legs, simple bushes.
+38 Southern Cassowary — standing in rainforest clearing; casque and strong legs, broad tropical leaves.
+39 Kiwi — walking through forest floor leaves; long bill, round feathered body, simple ferns.
+40 Wild Turkey — standing in woodland clearing; tail partly fanned, simple trees and grasses.
+41 Chicken — standing in farmyard; comb, beak, sturdy legs, simple fence and straw.
+42 Mallard Duck — floating on pond; broad bill, simple ripples and cattails.
+43 Canada Goose — standing at lakeshore; long neck, simple water and grasses.
+44 Mute Swan — gliding on calm pond; curved neck, broad body, simple reeds.
+45 Sandhill Crane — standing in shallow wetland; long legs and neck, simple reeds and water.
+46 White Stork — standing beside nest on tall platform; long bill and legs, minimal countryside background.
+47 Great Blue Heron — standing in shallow stream; long neck, spear-shaped bill, rocks and reeds.
+48 Great Egret — standing in marsh; long neck and legs, simple water plants.
+49 Scarlet Ibis — wading in shallow tropical wetland; curved bill, mangrove roots simplified.
+50 Roseate Spoonbill — sweeping spoon-shaped bill through shallow water; simple reeds and ripples.
+51 Great Hornbill — perched on rainforest branch; large casque-topped bill, broad leaves.
+52 Hoopoe — standing on ground with crest raised; long curved bill, simple dry grass and stones.
+53 European Bee-Eater — perched on twig near meadow flowers; slender curved bill, simple flying insect shapes limited.
+54 Secretary Bird — walking on savanna; long legs, crest feathers, sparse grass and distant acacia.
+55 Laughing Kookaburra — perched on eucalyptus branch; stout kingfisher body, large bill, simple leaves.
+56 Greater Roadrunner — running through desert scrub; long tail, crest, cactus and rocks simplified.
+57 California Quail — standing among chaparral; curved head plume, rounded body, simple shrubs.
+58 Ring-Necked Pheasant — standing in field; long tail, simple grain stalks and grasses.
+59 Gray Partridge — standing in low grass; rounded body, simple meadow plants.
+60 Common Loon — floating on northern lake; sleek body, pointed bill, simple water and pine shore.
