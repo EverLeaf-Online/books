@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B005,Cow,01_cow.png,Cows are social animals and often form close friendships with other cows.
+2,11,B005,Calf,02_calf.png,A baby cow is called a calf.
+3,13,B005,Bull,03_bull.png,An adult male cow is called a bull.
+4,15,B005,Horse,04_horse.png,Horses can sleep either standing up or lying down.
+5,17,B005,Foal,05_foal.png,A baby horse is called a foal and can stand soon after birth.
+6,19,B005,Donkey,06_donkey.png,A donkey's large ears help it hear well and release body heat.
+7,21,B005,Mule,07_mule.png,A mule is usually the offspring of a donkey and a horse.
+8,23,B005,Pig,08_pig.png,Pigs have an excellent sense of smell.
+9,25,B005,Piglet,09_piglet.png,A baby pig is called a piglet.
+10,27,B005,Sheep,10_sheep.png,Sheep have rectangular pupils that give them a very wide view.
+11,29,B005,Lamb,11_lamb.png,A young sheep is called a lamb.
+12,31,B005,Goat,12_goat.png,"Goats are excellent climbers and have strong, gripping hooves."
+13,33,B005,Kid,13_kid.png,A baby goat is called a kid.
+14,35,B005,Chicken,14_chicken.png,Chickens take dust baths to help keep their feathers clean.
+15,37,B005,Rooster,15_rooster.png,A rooster often crows to announce its territory.
+16,39,B005,Chick,16_chick.png,A baby chicken is called a chick.
+17,41,B005,Turkey,17_turkey.png,Wild turkeys can fly short distances even though they spend lots of time on the ground.
+18,43,B005,Duck,18_duck.png,Ducks spread natural oil over their feathers to help keep them waterproof.
+19,45,B005,Duckling,19_duckling.png,A baby duck is called a duckling.
+20,47,B005,Goose,20_goose.png,Geese often fly in a V shape during long journeys.
+21,49,B005,Gosling,21_gosling.png,A baby goose is called a gosling.
+22,51,B005,Rabbit,22_rabbit.png,Rabbits have large ears that help them hear danger and release body heat.
+23,53,B005,Barn Cat,23_barn_cat.png,Cats use their whiskers to help judge narrow spaces.
+24,55,B005,Farm Dog,24_farm_dog.png,Dogs have an extremely strong sense of smell.
+25,57,B005,Llama,25_llama.png,"Llamas communicate with sounds, body language, and ear positions."
+26,59,B005,Alpaca,26_alpaca.png,Alpacas often hum to communicate with one another.
+27,61,B005,Pony,27_pony.png,"A pony is a small type of horse, not simply a baby horse."
+28,63,B005,Ox,28_ox.png,An ox is a trained cattle animal that can help pull heavy loads.
+29,65,B005,Yak,29_yak.png,Yaks have long shaggy coats that help protect them from cold weather.
+30,67,B005,Water Buffalo,30_water_buffalo.png,Water buffalo often cool off by resting in water or mud.
+31,69,B006,Guinea Fowl,31_guinea_fowl.png,Guinea fowl make loud calls that can alert a farm to visitors.
+32,71,B006,Quail,32_quail.png,Quail are small ground-dwelling birds that can run quickly.
+33,73,B006,Pigeon,33_pigeon.png,Pigeons are excellent navigators and can find their way home over long distances.
+34,75,B006,Barn Owl,34_barn_owl.png,Barn owls hunt mostly at night and have excellent hearing.
+35,77,B006,Peacock,35_peacock.png,Male peafowl can spread their long colorful tail feathers into a fan.
+36,79,B006,Honey Bee,36_honey_bee.png,Honey bees communicate the location of food using special dances.
+37,81,B006,Butterfly,37_butterfly.png,Butterflies taste with special sensors on their feet.
+38,83,B006,Ladybug,38_ladybug.png,"Ladybugs eat aphids, tiny insects that can damage crops and garden plants."
+39,85,B006,Earthworm,39_earthworm.png,Earthworms help mix and loosen soil as they tunnel underground.
+40,87,B006,Frog,40_frog.png,Frogs can help farms by eating many small insects.
+41,89,B006,Field Mouse,41_field_mouse.png,"Field mice build nests in grasses, burrows, or sheltered places."
+42,91,B006,Rat,42_rat.png,Rats are intelligent animals with excellent memories.
+43,93,B006,Squirrel,43_squirrel.png,Squirrels help spread trees by burying seeds and nuts that may later grow.
+44,95,B006,Hedgehog,44_hedgehog.png,Hedgehogs can curl into a tight ball when they feel threatened.
+45,97,B006,Tortoise,45_tortoise.png,Tortoises carry a hard protective shell wherever they go.
+46,99,B006,Carp,46_carp.png,Carp use sensitive barbels near their mouths to help find food.
+47,101,B006,Tilapia,47_tilapia.png,Tilapia are freshwater fish commonly raised on fish farms.
+48,103,B006,Koi,48_koi.png,Koi are colorful relatives of the common carp.
+49,105,B006,Pond Turtle,49_pond_turtle.png,Many pond turtles bask in the sun to warm their bodies.
+50,107,B006,Dragonfly,50_dragonfly.png,Dragonflies are fast-flying insects that eat mosquitoes and other small insects.
+51,109,B006,Highland Cow,51_highland_cow.png,"Highland cattle have long shaggy coats that help protect them from cold, wet weather."
+52,111,B006,Jersey Cow,52_jersey_cow.png,Jersey cows are a dairy breed known for milk that is rich in butterfat.
+53,113,B006,Clydesdale Horse,53_clydesdale_horse.png,Clydesdales are large draft horses bred for strength and pulling heavy loads.
+54,115,B006,Miniature Horse,54_miniature_horse.png,Miniature horses are small horses that still have the proportions and features of full-sized horses.
+55,117,B006,Angora Goat,55_angora_goat.png,Angora goats grow long curly fiber called mohair.
+56,119,B006,Merino Sheep,56_merino_sheep.png,Merino sheep are famous for producing very fine wool.
+57,121,B006,Pot-Bellied Pig,57_pot_bellied_pig.png,Pot-bellied pigs are smaller domestic pigs with rounded bellies and strong noses.
+58,123,B006,Silkie Chicken,58_silkie_chicken.png,Silkie chickens have soft fluffy feathers that can look almost like fur.
+59,125,B006,Muscovy Duck,59_muscovy_duck.png,Muscovy ducks are strong fliers and have red bumpy skin around their faces.
+60,127,B006,Barn Swallow,60_barn_swallow.png,Barn swallows catch flying insects while swooping through the air.
