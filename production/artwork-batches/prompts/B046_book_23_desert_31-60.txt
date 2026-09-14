@@ -25,7 +25,7 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 50 — Tarantula Hawk Wasp: Large wasp hovering near desert flowers, long legs, clear wings, cactus, rocks, no attack scene.
 51 — Desert Honey Ant: Enlarged honey ant on sandy ground, rounded abdomen, small burrow entrance, seeds, dry grass.
 52 — Deathstalker Scorpion: Pale desert scorpion standing on sand, slender pincers, arched tail, stones, dune, simple shrub.
-53 — Sidewinder Crab: Sand crab scuttling across hot shoreline sand, rounded body, raised claws, dune grass, simple water edge.
+53 — Ghost Crab: Ghost crab scuttling across sandy beach above the high-tide line, pale square body, raised claws, burrow opening, dune grass, simple water edge.
 54 — Saharan Horned Viper: Horned viper partly buried in sand, small horns above eyes, dune ripples, dry shrub, stones.
 55 — Thorny Devil: Thorny devil lizard walking over red-desert ground, spiny body simplified, low plants, pebbles, dry grass.
 56 — Perentie: Large monitor lizard standing among Australian desert rocks, long neck and tail, spinifex grass, open plain.
