@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B025,Labrador Retriever,01_labrador_retriever.png,Labradors are friendly working dogs known for swimming and retrieving.
+2,11,B025,Golden Retriever,02_golden_retriever.png,Golden retrievers were bred to carry game gently in their mouths.
+3,13,B025,German Shepherd,03_german_shepherd.png,German shepherds are intelligent working dogs used in many kinds of jobs.
+4,15,B025,French Bulldog,04_french_bulldog.png,French bulldogs are compact dogs known for their large upright ears.
+5,17,B025,Bulldog,05_bulldog.png,"Bulldogs have broad heads, sturdy bodies, and famously wrinkled faces."
+6,19,B025,Poodle,06_poodle.png,Poodles are highly intelligent dogs with curly coats that shed very little.
+7,21,B025,Beagle,07_beagle.png,Beagles have excellent noses and were bred to follow scent trails.
+8,23,B025,Rottweiler,08_rottweiler.png,Rottweilers are strong working dogs that were once used to drive cattle.
+9,25,B025,Dachshund,09_dachshund.png,Dachshunds have long bodies and short legs suited for entering burrows.
+10,27,B025,German Shorthaired Pointer,10_german_shorthaired_pointer.png,German shorthaired pointers are athletic hunting dogs with strong noses.
+11,29,B025,Pembroke Welsh Corgi,11_pembroke_welsh_corgi.png,Pembroke Welsh corgis were bred to herd cattle despite their short legs.
+12,31,B025,Australian Shepherd,12_australian_shepherd.png,Australian shepherds are energetic herding dogs known for quick learning.
+13,33,B025,Yorkshire Terrier,13_yorkshire_terrier.png,Yorkshire terriers are tiny dogs with long silky coats.
+14,35,B025,Cavalier King Charles Spaniel,14_cavalier_king_charles_spaniel.png,Cavaliers are gentle companion dogs with long feathered ears.
+15,37,B025,Doberman Pinscher,15_doberman_pinscher.png,"Dobermans are sleek, intelligent dogs originally developed for protection."
+16,39,B025,Boxer,16_boxer.png,Boxers are energetic dogs with muscular bodies and square-shaped muzzles.
+17,41,B025,Miniature Schnauzer,17_miniature_schnauzer.png,Miniature schnauzers are alert small dogs with distinctive eyebrows and beards.
+18,43,B025,Cane Corso,18_cane_corso.png,Cane corsos are large Italian working dogs with powerful builds.
+19,45,B025,Great Dane,19_great_dane.png,Great Danes are among the tallest dog breeds in the world.
+20,47,B025,Shih Tzu,20_shih_tzu.png,Shih tzus were bred as companion dogs and often have long flowing coats.
+21,49,B025,Siberian Husky,21_siberian_husky.png,Siberian huskies were bred to pull sleds across snowy landscapes.
+22,51,B025,Bernese Mountain Dog,22_bernese_mountain_dog.png,Bernese mountain dogs were bred as farm dogs in the Swiss Alps.
+23,53,B025,Pomeranian,23_pomeranian.png,Pomeranians are small spitz dogs with thick fluffy coats and plumed tails.
+24,55,B025,Boston Terrier,24_boston_terrier.png,Boston terriers are compact dogs with tuxedo-like markings and upright ears.
+25,57,B025,Havanese,25_havanese.png,Havanese are small companion dogs with soft wavy coats.
+26,59,B025,English Springer Spaniel,26_english_springer_spaniel.png,Springer spaniels are energetic dogs bred to flush birds from cover.
+27,61,B025,Shetland Sheepdog,27_shetland_sheepdog.png,Shetland sheepdogs are small herding dogs known for intelligence and agility.
+28,63,B025,Brittany,28_brittany.png,Brittanys are athletic bird dogs that are fast and eager to work.
+29,65,B025,Cocker Spaniel,29_cocker_spaniel.png,Cocker spaniels are sporting dogs known for long ears and silky coats.
+30,67,B025,Border Collie,30_border_collie.png,Border collies are famous for their herding skill and intense focus.
+31,69,B026,Chihuahua,31_chihuahua.png,Chihuahuas are one of the smallest dog breeds in the world.
+32,71,B026,Pug,32_pug.png,"Pugs have curled tails, round eyes, and wrinkled faces."
+33,73,B026,Mastiff,33_mastiff.png,Mastiffs are giant dogs with heavy bodies and calm temperaments.
+34,75,B026,Basset Hound,34_basset_hound.png,Basset hounds have very long ears and powerful scenting ability.
+35,77,B026,Belgian Malinois,35_belgian_malinois.png,Belgian malinois are agile working dogs often trained for demanding tasks.
+36,79,B026,Vizsla,36_vizsla.png,Vizslas are sleek Hungarian sporting dogs that form close bonds with people.
+37,81,B026,Newfoundland,37_newfoundland.png,Newfoundlands are giant water dogs known for strong swimming ability.
+38,83,B026,Rhodesian Ridgeback,38_rhodesian_ridgeback.png,Rhodesian ridgebacks have a line of hair along the back that grows backward.
+39,85,B026,Weimaraner,39_weimaraner.png,Weimaraners are athletic hunting dogs known for smooth gray coats.
+40,87,B026,Akita,40_akita.png,Akitas are powerful Japanese dogs with curled tails and thick coats.
+41,89,B026,Samoyed,41_samoyed.png,Samoyeds have thick white coats and upturned mouths that can look like smiles.
+42,91,B026,Alaskan Malamute,42_alaskan_malamute.png,Alaskan malamutes are strong sled dogs built for pulling heavy loads.
+43,93,B026,Whippet,43_whippet.png,"Whippets are slim, fast dogs related to greyhounds."
+44,95,B026,Greyhound,44_greyhound.png,Greyhounds are among the fastest dog breeds over short distances.
+45,97,B026,Bloodhound,45_bloodhound.png,Bloodhounds have an extraordinary sense of smell and long drooping ears.
+46,99,B026,Collie,46_collie.png,Collies are herding dogs made famous for their long coats and gentle nature.
+47,101,B026,Dalmatian,47_dalmatian.png,Dalmatians are famous for their spotted coats.
+48,103,B026,Saint Bernard,48_saint_bernard.png,Saint Bernards are giant mountain dogs historically associated with Alpine rescue.
+49,105,B026,Irish Setter,49_irish_setter.png,Irish setters are sporting dogs known for long red coats.
+50,107,B026,Great Pyrenees,50_great_pyrenees.png,Great Pyrenees are large livestock guardian dogs with thick white coats.
+51,109,B026,Papillon,51_papillon.png,Papillons are tiny spaniels with large butterfly-shaped ears.
+52,111,B026,Maltese,52_maltese.png,Maltese are small companion dogs known for long white coats.
+53,113,B026,West Highland White Terrier,53_west_highland_white_terrier.png,Westies are sturdy small terriers with bright white coats.
+54,115,B026,Scottish Terrier,54_scottish_terrier.png,Scottish terriers are compact dogs with wiry coats and strong personalities.
+55,117,B026,Jack Russell Terrier,55_jack_russell_terrier.png,Jack Russell terriers are energetic small dogs bred for fox hunting.
+56,119,B026,Shiba Inu,56_shiba_inu.png,Shiba inu are small Japanese dogs with curled tails and foxlike faces.
+57,121,B026,Bichon Frise,57_bichon_frise.png,Bichons are cheerful small dogs with soft curly white coats.
+58,123,B026,Australian Cattle Dog,58_australian_cattle_dog.png,Australian cattle dogs were bred to move cattle across long distances.
+59,125,B026,Old English Sheepdog,59_old_english_sheepdog.png,Old English sheepdogs have shaggy coats and were bred to herd livestock.
+60,127,B026,Basenji,60_basenji.png,Basenjis are African hunting dogs known for making yodel-like sounds instead of typical barks.
