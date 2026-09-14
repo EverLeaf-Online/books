@@ -3,7 +3,7 @@ number,interior_page,animal,fact
 2,11,Golden Retriever,Golden retrievers were bred to carry game gently in their mouths.
 3,13,German Shepherd,German shepherds are intelligent working dogs used in many kinds of jobs.
 4,15,French Bulldog,French bulldogs are compact dogs known for their large upright ears.
-5,17,Bulldog,Bulldogs have broad heads, sturdy bodies, and famously wrinkled faces.
+5,17,Bulldog,"Bulldogs have broad heads, sturdy bodies, and famously wrinkled faces."
 6,19,Poodle,Poodles are highly intelligent dogs with curly coats that shed very little.
 7,21,Beagle,Beagles have excellent noses and were bred to follow scent trails.
 8,23,Rottweiler,Rottweilers are strong working dogs that were once used to drive cattle.
@@ -13,7 +13,7 @@ number,interior_page,animal,fact
 12,31,Australian Shepherd,Australian shepherds are energetic herding dogs known for quick learning.
 13,33,Yorkshire Terrier,Yorkshire terriers are tiny dogs with long silky coats.
 14,35,Cavalier King Charles Spaniel,Cavaliers are gentle companion dogs with long feathered ears.
-15,37,Doberman Pinscher,Dobermans are sleek, intelligent dogs originally developed for protection.
+15,37,Doberman Pinscher,"Dobermans are sleek, intelligent dogs originally developed for protection."
 16,39,Boxer,Boxers are energetic dogs with muscular bodies and square-shaped muzzles.
 17,41,Miniature Schnauzer,Miniature schnauzers are alert small dogs with distinctive eyebrows and beards.
 18,43,Cane Corso,Cane corsos are large Italian working dogs with powerful builds.
@@ -30,7 +30,7 @@ number,interior_page,animal,fact
 29,65,Cocker Spaniel,Cocker spaniels are sporting dogs known for long ears and silky coats.
 30,67,Border Collie,Border collies are famous for their herding skill and intense focus.
 31,69,Chihuahua,Chihuahuas are one of the smallest dog breeds in the world.
-32,71,Pug,Pugs have curled tails, round eyes, and wrinkled faces.
+32,71,Pug,"Pugs have curled tails, round eyes, and wrinkled faces."
 33,73,Mastiff,Mastiffs are giant dogs with heavy bodies and calm temperaments.
 34,75,Basset Hound,Basset hounds have very long ears and powerful scenting ability.
 35,77,Belgian Malinois,Belgian malinois are agile working dogs often trained for demanding tasks.
@@ -41,7 +41,7 @@ number,interior_page,animal,fact
 40,87,Akita,Akitas are powerful Japanese dogs with curled tails and thick coats.
 41,89,Samoyed,Samoyeds have thick white coats and upturned mouths that can look like smiles.
 42,91,Alaskan Malamute,Alaskan malamutes are strong sled dogs built for pulling heavy loads.
-43,93,Whippet,Whippets are slim, fast dogs related to greyhounds.
+43,93,Whippet,"Whippets are slim, fast dogs related to greyhounds."
 44,95,Greyhound,Greyhounds are among the fastest dog breeds over short distances.
 45,97,Bloodhound,Bloodhounds have an extraordinary sense of smell and long drooping ears.
 46,99,Collie,Collies are herding dogs made famous for their long coats and gentle nature.
