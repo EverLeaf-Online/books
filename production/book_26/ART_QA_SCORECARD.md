@@ -17,7 +17,8 @@ Batches: **B051 (1–30)** and **B052 (31–60)**
 - [ ] Output is the canonical 2550×3300 PNG filename from `artwork_manifest.csv`
 
 ## Book-specific review
-- [ ] Broad labels such as Panda, Pika, Rabbit, Sloth, Hummingbird, Bluebird, Beluga, and Dwarf Rabbit are checked for a visually appropriate representative form before approval
+- [ ] `Giant Panda` and `Beluga Whale` labels have been normalized and must match those exact subjects.
+- [ ] Remaining broad labels such as Pika, Rabbit, Sloth, Hummingbird, Bluebird, Dwarf Rabbit, and River Otter are checked for a visually appropriate representative form before approval; do not silently invent a species-specific label.
 - [ ] Baby/juvenile subjects remain anatomically plausible rather than toy-like
 - [ ] Marine, bird, mammal, reptile, amphibian, and insect body plans remain distinct
 - [ ] Cute styling does not erase defining markings or proportions
