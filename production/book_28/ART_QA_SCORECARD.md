@@ -28,10 +28,16 @@ All 60 illustrations must pass before interior assembly is approved.
 - Preserve clear shark-vs-ray body plans, fin counts, tails, gill placement, and head shapes.
 - Manta/stingray/skate silhouettes must remain distinct and readable.
 - Sawfish are rays; sawsharks are sharks. Do not swap their body plans.
-- `Shortfin Mako Shark` has been normalized from the former broad `Mako Shark` label; the illustration must match shortfin mako anatomy.
-- `Great Hammerhead Shark` has been normalized from the former broad `Hammerhead Shark` label; show the species' very wide hammer-shaped head and tall first dorsal fin.
-- `Spiny Dogfish` has been normalized from the former broad `Dogfish Shark` label; show the slender body and dorsal spines characteristic of the species.
-- Remaining broad catalog labels requiring final species-level visual review before release: Electric Ray, Butterfly Ray, Guitarfish, Shovelnose Ray, Sawfish, Skate, Devil Ray, Mobula Ray, Freshwater Stingray, Baby Shark, and Ray Pup.
+- `Shortfin Mako Shark` must match shortfin mako anatomy.
+- `Great Hammerhead Shark` must show the species' very wide hammer-shaped head and tall first dorsal fin.
+- `Spiny Dogfish` must show a slender body and dorsal spines.
+- `Pacific Electric Ray` should have a rounded disc and stout tail typical of torpedo rays.
+- `Smooth Butterfly Ray` should have an extremely broad disc and very short tail.
+- `Common Guitarfish` and `Shovelnose Guitarfish` must retain the flattened ray-like front plus shark-like tail, while remaining visually distinct from each other.
+- `Smalltooth Sawfish` must have a long saw-like rostrum while retaining a ray body plan.
+- `Clearnose Skate` must read as a skate with a broad diamond-shaped disc and clear snout area.
+- `Ocellate River Stingray` must show a rounded river-stingray disc with simplified eye-like spot markings.
+- Remaining broad catalog labels requiring final species-level visual review before release: Devil Ray, Mobula Ray, Baby Shark, and Ray Pup.
 - `Manta Ray Pup`, `Baby Shark`, and `Ray Pup` should read clearly as juvenile animals without becoming cartoonishly infant-like.
 
 ## Status rules
