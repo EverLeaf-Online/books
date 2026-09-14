@@ -1,7 +1,7 @@
 number,interior_page,batch,subject,expected_filename,status,qa_status
 1,9,B055,Great White Shark,01_great_white_shark.png,Queued,Not Reviewed
 2,11,B055,Whale Shark,02_whale_shark.png,Queued,Not Reviewed
-3,13,B055,Hammerhead Shark,03_hammerhead_shark.png,Queued,Not Reviewed
+3,13,B055,Great Hammerhead Shark,03_great_hammerhead_shark.png,Queued,Not Reviewed
 4,15,B055,Tiger Shark,04_tiger_shark.png,Queued,Not Reviewed
 5,17,B055,Bull Shark,05_bull_shark.png,Queued,Not Reviewed
 6,19,B055,Nurse Shark,06_nurse_shark.png,Queued,Not Reviewed
@@ -22,7 +22,7 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 21,49,B055,Horn Shark,21_horn_shark.png,Queued,Not Reviewed
 22,51,B055,Angel Shark,22_angel_shark.png,Queued,Not Reviewed
 23,53,B055,Sawshark,23_sawshark.png,Queued,Not Reviewed
-24,55,B055,Dogfish Shark,24_dogfish_shark.png,Queued,Not Reviewed
+24,55,B055,Spiny Dogfish,24_spiny_dogfish.png,Queued,Not Reviewed
 25,57,B055,Bonnethead Shark,25_bonnethead_shark.png,Queued,Not Reviewed
 26,59,B055,Silky Shark,26_silky_shark.png,Queued,Not Reviewed
 27,61,B055,Oceanic Whitetip Shark,27_oceanic_whitetip_shark.png,Queued,Not Reviewed
