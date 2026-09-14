@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B059,Bird Nest,01_bird_nest.png,Many birds build nests to hold eggs and protect chicks.
+2,11,B059,Eagle Nest,02_eagle_nest.png,Eagles build large nests of sticks called eyries.
+3,13,B059,Hummingbird Nest,03_hummingbird_nest.png,Hummingbirds build tiny cup nests using plant fibers and spider silk.
+4,15,B059,Weaver Bird Nest,04_weaver_bird_nest.png,Weaver birds knot grass into hanging woven nests.
+5,17,B059,Penguin Colony,05_penguin_colony.png,Many penguins raise chicks in large groups called colonies.
+6,19,B059,Rabbit Burrow,06_rabbit_burrow.png,Rabbits dig underground burrows for shelter and raising young.
+7,21,B059,Prairie Dog Town,07_prairie_dog_town.png,Prairie dogs live in connected underground burrow systems called towns.
+8,23,B059,Fox Den,08_fox_den.png,Foxes use dens for resting and raising kits.
+9,25,B059,Wolf Den,09_wolf_den.png,Wolf pups are often born in sheltered dens.
+10,27,B059,Bear Den,10_bear_den.png,Bears use dens for winter shelter and to raise newborn cubs.
+11,29,B059,Badger Sett,11_badger_sett.png,Badgers live in underground homes called setts.
+12,31,B059,Meerkat Burrow,12_meerkat_burrow.png,Meerkats dig complex burrows with many entrances.
+13,33,B059,Mole Tunnel,13_mole_tunnel.png,Moles dig underground tunnels while searching for food.
+14,35,B059,Groundhog Burrow,14_groundhog_burrow.png,Groundhogs build burrows with separate chambers.
+15,37,B059,Ant Colony,15_ant_colony.png,Ants build colonies with tunnels and chambers underground or in wood.
+16,39,B059,Termite Mound,16_termite_mound.png,Some termites build tall mounds that help control temperature inside.
+17,41,B059,Bee Hive,17_bee_hive.png,Honey bees live together in hives filled with wax comb.
+18,43,B059,Wasp Nest,18_wasp_nest.png,Paper wasps build nests from chewed wood fibers.
+19,45,B059,Spider Web,19_spider_web.png,Many spiders spin silk webs to catch food or protect eggs.
+20,47,B059,Silkworm Cocoon,20_silkworm_cocoon.png,Silkworm caterpillars spin silk cocoons before becoming moths.
+21,49,B059,Butterfly Chrysalis,21_butterfly_chrysalis.png,Many butterflies transform inside a chrysalis.
+22,51,B059,Snail Shell,22_snail_shell.png,A snail carries a hard shell that protects its soft body.
+23,53,B059,Hermit Crab Shell,23_hermit_crab_shell.png,Hermit crabs move into empty shells for protection.
+24,55,B059,Turtle Shell,24_turtle_shell.png,A turtle's shell is part of its skeleton.
+25,57,B059,Armadillo Burrow,25_armadillo_burrow.png,Armadillos dig burrows to rest and escape heat.
+26,59,B059,Beaver Lodge,26_beaver_lodge.png,Beavers build lodges from sticks mud and vegetation.
+27,61,B059,Muskrat Lodge,27_muskrat_lodge.png,Muskrats build dome-shaped lodges in wetlands.
+28,63,B059,Otter Holt,28_otter_holt.png,An otter's resting den can be called a holt.
+29,65,B059,Platypus Burrow,29_platypus_burrow.png,Platypuses dig riverbank burrows for resting and nesting.
+30,67,B059,Crocodile Nest,30_crocodile_nest.png,Crocodiles lay eggs in nests made of sand or vegetation.
+31,69,B060,Alligator Nest,31_alligator_nest.png,Alligators build mound nests from plants and mud.
+32,71,B060,Sea Turtle Nest,32_sea_turtle_nest.png,Sea turtles bury their eggs in sandy beach nests.
+33,73,B060,Frog Pond,33_frog_pond.png,Many frogs lay eggs in ponds or other freshwater habitats.
+34,75,B060,Salamander Log,34_salamander_log.png,Many salamanders shelter under damp logs and rocks.
+35,77,B060,Fish Reef,35_fish_reef.png,Coral reefs provide hiding places and food for many fish.
+36,79,B060,Clownfish Anemone,36_clownfish_anemone.png,Clownfish shelter among the tentacles of sea anemones.
+37,81,B060,Octopus Den,37_octopus_den.png,Octopuses hide in rocky dens and may decorate the entrance with shells.
+38,83,B060,Moray Eel Crevice,38_moray_eel_crevice.png,Moray eels often rest in narrow cracks in coral reefs.
+39,85,B060,Lobster Crevice,39_lobster_crevice.png,Lobsters shelter in rocky crevices during the day.
+40,87,B060,Seahorse Seagrass,40_seahorse_seagrass.png,Seahorses use their tails to grip seagrass and coral.
+41,89,B060,Polar Bear Snow Den,41_polar_bear_snow_den.png,Pregnant polar bears dig snow dens where cubs are born.
+42,91,B060,Arctic Fox Den,42_arctic_fox_den.png,Arctic fox families may reuse the same den for many years.
+43,93,B060,Penguin Ice Nest,43_penguin_ice_nest.png,Some penguins use stones or sheltered ice-free ground for nesting.
+44,95,B060,Seal Ice Hole,44_seal_ice_hole.png,Some seals keep breathing holes open in sea ice.
+45,97,B060,Walrus Haul-Out,45_walrus_haul_out.png,Walruses rest together on beaches or floating ice called haul-outs.
+46,99,B060,Bat Cave,46_bat_cave.png,Many bats roost in caves trees or buildings.
+47,101,B060,Owl Tree Hollow,47_owl_tree_hollow.png,Some owls nest in natural hollows inside trees.
+48,103,B060,Squirrel Drey,48_squirrel_drey.png,A squirrel's leafy tree nest is called a drey.
+49,105,B060,Woodpecker Cavity,49_woodpecker_cavity.png,Woodpeckers carve nest cavities into tree trunks.
+50,107,B060,Raccoon Tree Den,50_raccoon_tree_den.png,Raccoons often sleep in hollow trees or sheltered dens.
+51,109,B060,Koala Eucalyptus Tree,51_koala_eucalyptus_tree.png,Koalas spend much of their lives resting and feeding in eucalyptus trees.
+52,111,B060,Orangutan Tree Nest,52_orangutan_tree_nest.png,Orangutans build new sleeping nests from branches and leaves.
+53,113,B060,Gorilla Ground Nest,53_gorilla_ground_nest.png,Gorillas make simple sleeping nests from leaves and branches.
+54,115,B060,Chimpanzee Tree Nest,54_chimpanzee_tree_nest.png,Chimpanzees often build sleeping nests high in trees.
+55,117,B060,Lion Pride Territory,55_lion_pride_territory.png,Lions rest in shaded grassland areas within their pride's territory.
+56,119,B060,Elephant Water Hole,56_elephant_water_hole.png,Elephants travel to water holes to drink bathe and cool off.
+57,121,B060,Giraffe Savanna,57_giraffe_savanna.png,Giraffes live in open savannas and woodlands where tall trees grow.
+58,123,B060,Camel Desert Shelter,58_camel_desert_shelter.png,Camels rest in desert shade and are adapted to hot dry habitats.
+59,125,B060,Mountain Goat Cliff,59_mountain_goat_cliff.png,Mountain goats live on steep rocky slopes that help protect them from predators.
+60,127,B060,Puffin Burrow,60_puffin_burrow.png,Puffins often nest in burrows or rocky crevices near the sea.
