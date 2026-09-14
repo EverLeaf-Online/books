@@ -1,0 +1,36 @@
+MIST° — Book 10: Birds — Batch B019 (Subjects 01–30)
+
+MASTER ART DIRECTION
+Original black-and-white children's coloring-book line art for ages 4–8. Portrait 8.5 x 11 composition. One clear main bird, friendly and anatomically plausible. Subject should fill about 55–70% of usable drawing area. Bold smooth outer contours, simpler interior details, large enclosed coloring spaces, lots of white space. Include only 5–10 large habitat-appropriate background elements. Keep important linework inside a 0.50-inch safe-content target. Leave the lower area reasonably open for separately typeset bird name and fact. Preferred master size: 2550 x 3300 PNG. No words, letters, numbers, captions, signatures, logos, watermarks, grayscale, shading, hatching, gradients, textures, decorative borders, cropped important anatomy, duplicated anatomy, or tiny clutter.
+
+Generate one image per numbered subject:
+01 Bald Eagle — perched on sturdy branch above simple river valley; clear hooked beak and broad wings folded.
+02 Golden Eagle — standing on rocky ledge with mountain shapes behind; strong talons and hooked beak.
+03 Peregrine Falcon — poised on cliff edge with open sky; sleek pointed-wing falcon anatomy.
+04 Red-Tailed Hawk — perched on fence post with simple field grasses; broad chest and rounded hawk silhouette.
+05 Osprey — perched near lake holding no prey; long wings folded, strong feet, simple reeds and water.
+06 Barn Owl — perched in barn opening; heart-shaped facial disk, simple hay bales and beams.
+07 Snowy Owl — sitting on snowy mound; rounded body, feathered feet, sparse tundra grasses.
+08 Great Horned Owl — perched on woodland branch; obvious feather tufts and large round eyes.
+09 Flamingo — standing in shallow lagoon on one leg; long curved neck, simple ripples and reeds.
+10 Peacock — standing with tail fan partly open; large simple feather-eye shapes, garden foliage kept uncluttered.
+11 Scarlet Macaw — perched on tropical branch; large curved beak, long tail, broad leaf shapes.
+12 Blue-and-Yellow Macaw — perched among simple rainforest leaves; strong beak and long tail.
+13 Toco Toucan — perched sideways on branch; oversized bill, simple tropical leaves and fruit shapes.
+14 Amazon Parrot — perched on branch in rainforest clearing; sturdy parrot body and curved beak.
+15 Cockatoo — perched with crest raised; simple branch and a few tropical leaves.
+16 African Grey Parrot — perched on natural branch; compact parrot form, smooth feather groupings.
+17 Ruby-Throated Hummingbird — hovering beside one large trumpet flower; tiny body, long bill, wings simplified.
+18 Belted Kingfisher — perched over a stream; shaggy crest, long pointed bill, simple water and stones.
+19 Pileated Woodpecker — clinging vertically to tree trunk; tall crest and strong chisel beak, a few bark holes.
+20 American Robin — standing on lawn near one earthworm hole; round body and simple garden grass.
+21 Blue Jay — perched on oak branch; crest, medium tail, several large leaves and acorns.
+22 Northern Cardinal — perched on winter twig; tall crest, thick seed-cracking beak, simple berries.
+23 House Sparrow — perched on fence rail near simple garden; compact body and short conical beak.
+24 American Goldfinch — perched on sunflower stem; small finch body, simple seed head and leaves.
+25 Canary — perched on simple cage-free natural branch with a few leaves; rounded finch proportions.
+26 American Crow — standing on meadow rock; sturdy blackbird silhouette, simple grass and distant trees.
+27 Common Raven — perched on rocky outcrop; heavier beak, shaggy throat, mountain background kept simple.
+28 Black-Billed Magpie — standing beside woodland path; long tail, black-and-white pattern indicated only with line regions.
+29 Rock Pigeon — standing on simple city ledge; rounded body, short beak, minimal skyline shapes.
+30 Mourning Dove — perched on slender branch; small head, long tapered tail, simple leaves.
