@@ -1,12 +1,12 @@
 book,item,issue,required_action,status
 20,Entire catalog,Current endangered/rare suitability and taxonomy can change,Verify against current recognized conservation/taxonomy sources before final upload,Open
-24,River Otter,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
-24,Softshell Turtle,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
-24,Map Turtle,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
-24,Leopard Frog,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
-24,Tree Frog,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
-24,Newt,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
-24,River Kingfisher,Nonstandard broad label,Choose a specific kingfisher species appropriate to river/wetland habitat and propagate through all production files,Open
+24,North American River Otter,Former broad River Otter label normalized,No further naming action; verify artwork matches North American river otter,Resolved
+24,Spiny Softshell Turtle,Former broad Softshell Turtle label normalized,No further naming action; verify artwork matches spiny softshell anatomy,Resolved
+24,Northern Map Turtle,Former broad Map Turtle label normalized,No further naming action; verify artwork matches northern map turtle,Resolved
+24,Northern Leopard Frog,Former broad Leopard Frog label normalized,No further naming action; verify artwork matches northern leopard frog,Resolved
+24,Green Tree Frog,Former broad Tree Frog label normalized,No further naming action; verify artwork matches green tree frog,Resolved
+24,Eastern Newt,Former broad Newt label normalized,No further naming action; verify artwork matches eastern newt,Resolved
+24,Amazon Kingfisher,Former nonstandard River Kingfisher label normalized,No further naming action; verify artwork matches Amazon kingfisher,Resolved
 24,Cottonmouth,Former Water Moccasin label normalized,No further naming action; verify artwork matches cottonmouth anatomy,Resolved
 26,Giant Panda,Former Panda label normalized,No further naming action; verify artwork matches giant panda,Resolved
 26,Beluga Whale,Former Beluga label normalized,No further naming action; verify artwork matches beluga whale,Resolved
