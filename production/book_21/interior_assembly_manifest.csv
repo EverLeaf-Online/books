@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B041,American Bison,01_american_bison.png,American bison are the largest land mammals in North America.
+2,11,B041,Moose,02_moose.png,Moose are the largest members of the deer family.
+3,13,B041,Elk,03_elk.png,Male elk grow large antlers that are shed and regrown each year.
+4,15,B041,White-Tailed Deer,04_white_tailed_deer.png,White-tailed deer raise their white tails like flags when alarmed.
+5,17,B041,Mule Deer,05_mule_deer.png,Mule deer have especially large ears that resemble a mule's ears.
+6,19,B041,Caribou,06_caribou.png,Both male and female caribou can grow antlers.
+7,21,B041,Pronghorn,07_pronghorn.png,Pronghorns are among the fastest land animals in North America.
+8,23,B041,Bighorn Sheep,08_bighorn_sheep.png,Bighorn sheep have special hooves that help them grip steep rocky slopes.
+9,25,B041,Mountain Goat,09_mountain_goat.png,Mountain goats are strong climbers with rough hoof pads for rocky terrain.
+10,27,B041,Musk Ox,10_musk_ox.png,Musk oxen have extremely warm underfur called qiviut.
+11,29,B041,Grizzly Bear,11_grizzly_bear.png,Grizzly bears have powerful shoulder muscles that help them dig.
+12,31,B041,American Black Bear,12_american_black_bear.png,"American black bears can be black, brown, cinnamon, or even nearly white."
+13,33,B041,Polar Bear,13_polar_bear.png,Polar bears have black skin beneath their thick fur.
+14,35,B041,Gray Wolf,14_gray_wolf.png,Gray wolves live and hunt in family groups called packs.
+15,37,B041,Coyote,15_coyote.png,"Coyotes communicate with howls, yips, and barks."
+16,39,B041,Red Fox,16_red_fox.png,Red foxes use large ears to pinpoint small animals hidden under grass or snow.
+17,41,B041,Arctic Fox,17_arctic_fox.png,Arctic foxes have fur-covered foot pads that help insulate them from cold ground.
+18,43,B041,Bobcat,18_bobcat.png,Bobcats are named for their short bobbed tails.
+19,45,B041,Canada Lynx,19_canada_lynx.png,Canada lynx have large furry paws that act like snowshoes.
+20,47,B041,Cougar,20_cougar.png,Cougars can leap great distances and climb trees easily.
+21,49,B041,Wolverine,21_wolverine.png,Wolverines have strong jaws and broad paws for traveling over snow.
+22,51,B041,American Badger,22_american_badger.png,American badgers have powerful forelimbs and long claws for digging.
+23,53,B041,Striped Skunk,23_striped_skunk.png,Striped skunks can spray a strong-smelling liquid when threatened.
+24,55,B041,North American River Otter,24_north_american_river_otter.png,River otters are playful swimmers with webbed feet and streamlined bodies.
+25,57,B041,Sea Otter,25_sea_otter.png,Sea otters use rocks as tools to open hard-shelled food.
+26,59,B041,American Beaver,26_american_beaver.png,Beavers build dams that can create ponds and wetlands.
+27,61,B041,North American Porcupine,27_north_american_porcupine.png,Porcupines are covered with thousands of sharp quills made from modified hairs.
+28,63,B041,Raccoon,28_raccoon.png,Raccoons have very sensitive front paws that help them explore objects and food.
+29,65,B041,Virginia Opossum,29_virginia_opossum.png,Virginia opossums are North America's only native marsupials north of Mexico.
+30,67,B041,Nine-Banded Armadillo,30_nine_banded_armadillo.png,Nine-banded armadillos can jump straight upward when startled.
+31,69,B042,Eastern Cottontail,31_eastern_cottontail.png,Cottontail rabbits are named for the fluffy white underside of their tails.
+32,71,B042,Snowshoe Hare,32_snowshoe_hare.png,Snowshoe hares have large furry feet that help them move over snow.
+33,73,B042,Black-Tailed Prairie Dog,33_black_tailed_prairie_dog.png,Prairie dogs live in large burrow systems sometimes called towns.
+34,75,B042,American Pika,34_american_pika.png,Pikas collect grasses and flowers into hay piles for winter food.
+35,77,B042,Eastern Gray Squirrel,35_eastern_gray_squirrel.png,"Gray squirrels bury nuts and sometimes forget them, helping new trees grow."
+36,79,B042,American Red Squirrel,36_american_red_squirrel.png,Red squirrels often store cones in piles called middens.
+37,81,B042,Groundhog,37_groundhog.png,Groundhogs are large squirrels that dig deep burrows.
+38,83,B042,American Marten,38_american_marten.png,American martens are agile forest mammals that climb trees well.
+39,85,B042,Fisher,39_fisher.png,Fishers are forest-dwelling relatives of weasels and are excellent climbers.
+40,87,B042,Ringtail,40_ringtail.png,Ringtails have long striped tails and are nimble climbers of rocky cliffs and trees.
+41,89,B042,Bald Eagle,41_bald_eagle.png,Bald eagles build some of the largest bird nests in North America.
+42,91,B042,Golden Eagle,42_golden_eagle.png,Golden eagles use powerful talons to catch prey.
+43,93,B042,Great Horned Owl,43_great_horned_owl.png,Great horned owls have feather tufts that look like ears.
+44,95,B042,Snowy Owl,44_snowy_owl.png,Snowy owls have thick feathers that cover even their legs and feet.
+45,97,B042,Wild Turkey,45_wild_turkey.png,Wild turkeys can fly short distances despite spending much of their time on the ground.
+46,99,B042,Sandhill Crane,46_sandhill_crane.png,Sandhill cranes perform energetic dancing displays with jumps and bows.
+47,101,B042,Whooping Crane,47_whooping_crane.png,Whooping cranes are among the tallest birds in North America.
+48,103,B042,American Flamingo,48_american_flamingo.png,American flamingos get their pink color from pigments in the food they eat.
+49,105,B042,Brown Pelican,49_brown_pelican.png,Brown pelicans often plunge-dive from the air to catch fish.
+50,107,B042,Atlantic Puffin,50_atlantic_puffin.png,Puffins use their wings to swim underwater.
+51,109,B042,Common Loon,51_common_loon.png,Loons are excellent divers with legs set far back on their bodies.
+52,111,B042,Greater Roadrunner,52_greater_roadrunner.png,"Greater roadrunners can run quickly and often hunt lizards, insects, and small snakes."
+53,113,B042,American Alligator,53_american_alligator.png,Alligators use powerful tails to swim through water.
+54,115,B042,Gila Monster,54_gila_monster.png,Gila monsters are venomous lizards with bead-like scales.
+55,117,B042,Desert Tortoise,55_desert_tortoise.png,Desert tortoises spend much of their lives in underground burrows.
+56,119,B042,Common Snapping Turtle,56_common_snapping_turtle.png,Snapping turtles have strong jaws and long tails.
+57,121,B042,Bullfrog,57_bullfrog.png,American bullfrogs are large frogs with deep booming calls.
+58,123,B042,Hellbender,58_hellbender.png,Hellbenders are giant salamanders that live in cool fast-moving streams.
+59,125,B042,Monarch Butterfly,59_monarch_butterfly.png,Monarch butterflies can migrate thousands of miles between North America and Mexico.
+60,127,B042,American Lobster,60_american_lobster.png,American lobsters have large claws and live on the rocky seafloor of the North Atlantic.
