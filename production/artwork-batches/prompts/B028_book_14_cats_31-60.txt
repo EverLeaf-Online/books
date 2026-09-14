@@ -1,0 +1,47 @@
+MIST° ORIGINAL COLORING BOOK ART BRIEF
+Book 14: Cats
+Batch B028: subjects 31-60
+
+Shared art direction for every prompt:
+- Original black-and-white children's coloring-book line art for ages 4-8.
+- Portrait 8.5 x 11 composition; preferred master 2550 x 3300 PNG.
+- One clear main cat, friendly and anatomically plausible, filling about 55-70% of usable page area.
+- Bold smooth outer contours, simple enclosed shapes, generous white space.
+- Use breed-appropriate head shape, ears, coat/hairless features, body proportions, tail, and markings where relevant.
+- Add only 5-10 large, simple setting elements such as cushion, rug, window, scratching post, plant, grass, or toy.
+- Keep important linework inside the 0.50-inch safe-content target; leave lower area reasonably open for separately typeset name and fact.
+- Pure black line art on pure white only; no color, grayscale, shading, hatching, gradients, textures, text, letters, numbers, captions, signatures, logos, watermarks, borders, clutter, cropped anatomy, duplicate limbs, or malformed features.
+
+Prompts:
+31. Ragamuffin — Large affectionate long-haired cat with broad chest, soft rounded face, and full fluffy tail.
+32. Somali — Long-haired Abyssinian-type cat with large ears, foxlike fluffy tail, and graceful body.
+33. Japanese Bobtail — Slender cat with naturally short pom-pom tail and alert upright posture.
+34. American Bobtail — Sturdy cat with naturally shortened tail, broad body, and friendly rugged look.
+35. LaPerm — Medium cat with curly coat shown as broad loose ringlets and waves, not tiny texture.
+36. Singapura — Very small fine-boned cat with oversized ears, large eyes, and compact graceful pose.
+37. Snowshoe — Medium cat with white paws and pointed-color regions indicated by simple clean line boundaries.
+38. Toyger — Athletic cat with bold tiger-like stripes simplified into large colorable shapes.
+39. Pixiebob — Sturdy broad cat with short tail, tufted ears, and slightly wild-looking face while remaining friendly.
+40. Munchkin — Cat with naturally short legs, normal body length, and playful standing pose; keep anatomy plausible.
+41. Nebelung — Slender long-haired blue-gray type cat with green-eyed expression and flowing tail plume.
+42. Siberian — Powerful medium-large cat with thick triple-coat silhouette, neck ruff, and bushy tail.
+43. Korat — Sleek silver-blue type cat with heart-shaped face, large ears, and compact muscular body.
+44. Havana Brown — Medium short-haired cat with rich-brown type silhouette, long muzzle, and large ears.
+45. European Shorthair — Balanced sturdy domestic cat with traditional proportions and simple tabby-style markings.
+46. Exotic Shorthair — Round Persian-like face with short plush coat, compact body, and calm expression.
+47. Chausie — Tall athletic cat with long legs, large ears, and sleek jungle-cat-inspired silhouette.
+48. Lykoi — Sparse-coated cat with distinct face and patchy coat areas simplified into large clean shapes; avoid creepy styling.
+49. Peterbald — Hairless or nearly hairless elegant cat with long limbs, large ears, and simple skin-fold detail.
+50. Burmilla — Medium elegant cat with rounded face and simple tipped-coat pattern indicated by broad regions only.
+51. Colorpoint Shorthair — Slender Siamese-type cat with large ears and simple point-color regions.
+52. Cymric — Long-haired Manx-type cat with rounded body, fluffy coat, strong hindquarters, and very short tail.
+53. Foldex — Compact round-faced cat with folded ears and plush short-to-medium coat.
+54. Khao Manee — Sleek white-coated type cat with bright expressive eyes and elegant compact body.
+55. Kurilian Bobtail — Strong cat with naturally short pom-pom tail, sturdy hind legs, and semi-long coat.
+56. Mekong Bobtail — Slender pointed cat with short kinked tail and clear simple point markings.
+57. Oriental Longhair — Very slender cat with huge ears, long limbs, and flowing semi-long coat.
+58. Thai Cat — Traditional rounder Siamese-type cat with moderate body and simple pointed-color regions.
+59. Tuxedo Cat — Friendly domestic cat with clear black-and-white tuxedo marking regions shown as large enclosed shapes.
+60. Tabby Cat — Friendly domestic cat with broad simple stripes, spots, or swirl pattern; avoid tiny repeated marks.
+
+For every subject, keep breed recognition clear but simplify coat detail into large colorable shapes and use a cozy or garden setting with only a few large elements.
