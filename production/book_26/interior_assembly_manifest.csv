@@ -2,7 +2,7 @@ number,interior_page,batch,subject,expected_filename,fact
 1,9,B051,Red Panda,01_red_panda.png,Red pandas use bushy tails for balance and warmth.
 2,11,B051,Quokka,02_quokka.png,Quokkas are small wallaby relatives with rounded faces.
 3,13,B051,Koala,03_koala.png,Koalas have strong claws for climbing eucalyptus trees.
-4,15,B051,Panda,04_panda.png,Giant pandas spend many hours each day eating bamboo.
+4,15,B051,Giant Panda,04_giant_panda.png,Giant pandas spend many hours each day eating bamboo.
 5,17,B051,Fennec Fox,05_fennec_fox.png,Fennec foxes have enormous ears that help release body heat.
 6,19,B051,Arctic Fox,06_arctic_fox.png,Arctic foxes grow thick coats for freezing climates.
 7,21,B051,Pika,07_pika.png,Pikas are small mountain mammals that gather plants for winter.
@@ -52,7 +52,7 @@ number,interior_page,batch,subject,expected_filename,fact
 51,109,B052,Seahorse,51_seahorse.png,Seahorses swim upright and use tails to hold onto plants.
 52,111,B052,Pufferfish,52_pufferfish.png,Pufferfish can inflate their bodies when threatened.
 53,113,B052,Bottlenose Dolphin,53_bottlenose_dolphin.png,Dolphins communicate with whistles and clicks.
-54,115,B052,Beluga,54_beluga.png,Belugas are pale whales known for many vocal sounds.
+54,115,B052,Beluga Whale,54_beluga_whale.png,Belugas are pale whales known for many vocal sounds.
 55,117,B052,Harbor Seal,55_harbor_seal.png,Harbor seals have round heads and spotted coats.
 56,119,B052,Manatee,56_manatee.png,Manatees are gentle plant-eating marine mammals.
 57,121,B052,Nudibranch,57_nudibranch.png,Nudibranchs are colorful sea slugs with many unusual shapes.
