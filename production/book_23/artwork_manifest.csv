@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,status,qa_status
+1,9,B045,Fennec Fox,01_fennec_fox.png,Queued,Not Reviewed
+2,11,B045,Kit Fox,02_kit_fox.png,Queued,Not Reviewed
+3,13,B045,Coyote,03_coyote.png,Queued,Not Reviewed
+4,15,B045,Bobcat,04_bobcat.png,Queued,Not Reviewed
+5,17,B045,Mountain Lion,05_mountain_lion.png,Queued,Not Reviewed
+6,19,B045,Desert Bighorn Sheep,06_desert_bighorn_sheep.png,Queued,Not Reviewed
+7,21,B045,Pronghorn,07_pronghorn.png,Queued,Not Reviewed
+8,23,B045,Black-Tailed Jackrabbit,08_black_tailed_jackrabbit.png,Queued,Not Reviewed
+9,25,B045,Desert Cottontail,09_desert_cottontail.png,Queued,Not Reviewed
+10,27,B045,Kangaroo Rat,10_kangaroo_rat.png,Queued,Not Reviewed
+11,29,B045,Desert Woodrat,11_desert_woodrat.png,Queued,Not Reviewed
+12,31,B045,Antelope Ground Squirrel,12_antelope_ground_squirrel.png,Queued,Not Reviewed
+13,33,B045,Meerkat,13_meerkat.png,Queued,Not Reviewed
+14,35,B045,Dromedary Camel,14_dromedary_camel.png,Queued,Not Reviewed
+15,37,B045,Bactrian Camel,15_bactrian_camel.png,Queued,Not Reviewed
+16,39,B045,Addax,16_addax.png,Queued,Not Reviewed
+17,41,B045,Oryx,17_oryx.png,Queued,Not Reviewed
+18,43,B045,Jerboa,18_jerboa.png,Queued,Not Reviewed
+19,45,B045,Desert Hedgehog,19_desert_hedgehog.png,Queued,Not Reviewed
+20,47,B045,Fat-Tailed Gerbil,20_fat_tailed_gerbil.png,Queued,Not Reviewed
+21,49,B045,Greater Roadrunner,21_greater_roadrunner.png,Queued,Not Reviewed
+22,51,B045,Burrowing Owl,22_burrowing_owl.png,Queued,Not Reviewed
+23,53,B045,Cactus Wren,23_cactus_wren.png,Queued,Not Reviewed
+24,55,B045,Gambel's Quail,24_gambels_quail.png,Queued,Not Reviewed
+25,57,B045,Greater Sage-Grouse,25_greater_sage_grouse.png,Queued,Not Reviewed
+26,59,B045,Gila Woodpecker,26_gila_woodpecker.png,Queued,Not Reviewed
+27,61,B045,Verdin,27_verdin.png,Queued,Not Reviewed
+28,63,B045,Elf Owl,28_elf_owl.png,Queued,Not Reviewed
+29,65,B045,Turkey Vulture,29_turkey_vulture.png,Queued,Not Reviewed
+30,67,B045,Golden Eagle,30_golden_eagle.png,Queued,Not Reviewed
+31,69,B046,Gila Monster,31_gila_monster.png,Queued,Not Reviewed
+32,71,B046,Desert Iguana,32_desert_iguana.png,Queued,Not Reviewed
+33,73,B046,Chuckwalla,33_chuckwalla.png,Queued,Not Reviewed
+34,75,B046,Collared Lizard,34_collared_lizard.png,Queued,Not Reviewed
+35,77,B046,Horned Lizard,35_horned_lizard.png,Queued,Not Reviewed
+36,79,B046,Fringe-Toed Lizard,36_fringe_toed_lizard.png,Queued,Not Reviewed
+37,81,B046,Sidewinder,37_sidewinder.png,Queued,Not Reviewed
+38,83,B046,Western Diamondback Rattlesnake,38_western_diamondback_rattlesnake.png,Queued,Not Reviewed
+39,85,B046,Coachwhip Snake,39_coachwhip_snake.png,Queued,Not Reviewed
+40,87,B046,Desert Tortoise,40_desert_tortoise.png,Queued,Not Reviewed
+41,89,B046,Spadefoot Toad,41_spadefoot_toad.png,Queued,Not Reviewed
+42,91,B046,Sonoran Desert Toad,42_sonoran_desert_toad.png,Queued,Not Reviewed
+43,93,B046,Desert Rain Frog,43_desert_rain_frog.png,Queued,Not Reviewed
+44,95,B046,Scorpion,44_scorpion.png,Queued,Not Reviewed
+45,97,B046,Desert Tarantula,45_desert_tarantula.png,Queued,Not Reviewed
+46,99,B046,Sun Spider,46_sun_spider.png,Queued,Not Reviewed
+47,101,B046,Darkling Beetle,47_darkling_beetle.png,Queued,Not Reviewed
+48,103,B046,Sahara Silver Ant,48_sahara_silver_ant.png,Queued,Not Reviewed
+49,105,B046,Desert Locust,49_desert_locust.png,Queued,Not Reviewed
+50,107,B046,Tarantula Hawk Wasp,50_tarantula_hawk_wasp.png,Queued,Not Reviewed
+51,109,B046,Desert Honey Ant,51_desert_honey_ant.png,Queued,Not Reviewed
+52,111,B046,Deathstalker Scorpion,52_deathstalker_scorpion.png,Queued,Not Reviewed
+53,113,B046,Sidewinder Crab,53_sidewinder_crab.png,Queued,Not Reviewed
+54,115,B046,Saharan Horned Viper,54_saharan_horned_viper.png,Queued,Not Reviewed
+55,117,B046,Thorny Devil,55_thorny_devil.png,Queued,Not Reviewed
+56,119,B046,Perentie,56_perentie.png,Queued,Not Reviewed
+57,121,B046,Bilby,57_bilby.png,Queued,Not Reviewed
+58,123,B046,Red Kangaroo,58_red_kangaroo.png,Queued,Not Reviewed
+59,125,B046,Emu,59_emu.png,Queued,Not Reviewed
+60,127,B046,Arabian Sand Gazelle,60_arabian_sand_gazelle.png,Queued,Not Reviewed
