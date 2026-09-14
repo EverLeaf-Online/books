@@ -13,8 +13,8 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 38 — Lovebird: Pair-like pose avoided; single lovebird perched on branch, rounded head, leaves, simple blossoms.
 39 — Budgerigar: Budgie perched on swing-like natural branch, compact body, simple leaves, no cage text.
 40 — Cockatiel: Cockatiel perched with crest raised, long tail, branch, simple leafy background.
-41 — Hummingbird: Hummingbird hovering beside large flower, tiny body, long bill, simple leaves.
-42 — Bluebird: Bluebird perched at nest-box-free natural branch, round body, blossoms, meadow background.
+41 — Ruby-Throated Hummingbird: Ruby-throated hummingbird hovering beside trumpet-shaped flower, tiny body, long slender bill, throat patch defined as a clean enclosed coloring area, simple leaves.
+42 — Eastern Bluebird: Eastern bluebird perched on natural branch near meadow, rounded body, short straight bill, simple blossoms, no nest box required.
 43 — Barn Owl: Barn owl perched on wooden beam, heart-shaped face, moon-free simple barn rafters.
 44 — Axolotl: Axolotl swimming gently, feathery gills, rounded face, aquatic plants, pebbles.
 45 — Red-Eyed Tree Frog: Tree frog clinging to broad leaf, big eyes, sticky toes, simple rainforest leaves.
