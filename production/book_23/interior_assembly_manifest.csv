@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B045,Fennec Fox,01_fennec_fox.png,Fennec foxes have very large ears that help release body heat.
+2,11,B045,Kit Fox,02_kit_fox.png,Kit foxes are small desert foxes with large ears and quick movements.
+3,13,B045,Coyote,03_coyote.png,"Coyotes can live in deserts, grasslands, forests, and even cities."
+4,15,B045,Bobcat,04_bobcat.png,Bobcats have short tails with dark tips and tufted ears.
+5,17,B045,Mountain Lion,05_mountain_lion.png,Mountain lions can leap long distances with their powerful hind legs.
+6,19,B045,Desert Bighorn Sheep,06_desert_bighorn_sheep.png,Desert bighorn sheep can travel across steep rocky slopes with strong hooves.
+7,21,B045,Pronghorn,07_pronghorn.png,Pronghorns are among the fastest land mammals in North America.
+8,23,B045,Black-Tailed Jackrabbit,08_black_tailed_jackrabbit.png,Jackrabbits use their long ears to help release heat.
+9,25,B045,Desert Cottontail,09_desert_cottontail.png,Desert cottontails rest in shade during the hottest parts of the day.
+10,27,B045,Kangaroo Rat,10_kangaroo_rat.png,Kangaroo rats can survive with very little free water by getting moisture from seeds.
+11,29,B045,Desert Woodrat,11_desert_woodrat.png,Desert woodrats build large nests from sticks and plant material.
+12,31,B045,Antelope Ground Squirrel,12_antelope_ground_squirrel.png,Antelope ground squirrels can hold their tails over their backs like tiny sunshades.
+13,33,B045,Meerkat,13_meerkat.png,Meerkats take turns watching for danger while the group searches for food.
+14,35,B045,Dromedary Camel,14_dromedary_camel.png,Dromedary camels have one hump that stores fat.
+15,37,B045,Bactrian Camel,15_bactrian_camel.png,Bactrian camels have two humps and can handle very cold deserts.
+16,39,B045,Addax,16_addax.png,Addax antelope are adapted to hot dry deserts and can go long periods without drinking.
+17,41,B045,Oryx,17_oryx.png,Oryx have long straight horns and can tolerate high desert temperatures.
+18,43,B045,Jerboa,18_jerboa.png,Jerboas hop on long hind legs and live in sandy deserts.
+19,45,B045,Desert Hedgehog,19_desert_hedgehog.png,Desert hedgehogs curl into a spiny ball when threatened.
+20,47,B045,Fat-Tailed Gerbil,20_fat_tailed_gerbil.png,Fat-tailed gerbils store extra fat in their thick tails.
+21,49,B045,Greater Roadrunner,21_greater_roadrunner.png,Roadrunners can run quickly on the ground and hunt small desert animals.
+22,51,B045,Burrowing Owl,22_burrowing_owl.png,Burrowing owls often live in underground burrows made by other animals.
+23,53,B045,Cactus Wren,23_cactus_wren.png,Cactus wrens build bulky nests among thorny desert plants.
+24,55,B045,Gambel's Quail,24_gambels_quail.png,Gambel's quail have a curved plume on top of their heads.
+25,57,B045,Greater Sage-Grouse,25_greater_sage_grouse.png,Male sage-grouse perform special dances at gathering places called leks.
+26,59,B045,Gila Woodpecker,26_gila_woodpecker.png,Gila woodpeckers sometimes carve nest holes into giant saguaro cacti.
+27,61,B045,Verdin,27_verdin.png,Verdins build round nests with side entrances in desert shrubs.
+28,63,B045,Elf Owl,28_elf_owl.png,Elf owls are among the smallest owls in the world.
+29,65,B045,Turkey Vulture,29_turkey_vulture.png,Turkey vultures can find carrion partly by using a strong sense of smell.
+30,67,B045,Golden Eagle,30_golden_eagle.png,Golden eagles use powerful talons to catch prey.
+31,69,B046,Gila Monster,31_gila_monster.png,Gila monsters are venomous lizards that spend much of their time underground.
+32,71,B046,Desert Iguana,32_desert_iguana.png,Desert iguanas can stay active during very hot weather.
+33,73,B046,Chuckwalla,33_chuckwalla.png,Chuckwallas wedge themselves into rock cracks and inflate their bodies when threatened.
+34,75,B046,Collared Lizard,34_collared_lizard.png,Collared lizards can run on their hind legs for short distances.
+35,77,B046,Horned Lizard,35_horned_lizard.png,Horned lizards have broad flat bodies covered with pointed scales.
+36,79,B046,Fringe-Toed Lizard,36_fringe_toed_lizard.png,Fringe-toed lizards have special scales on their toes that help them move across loose sand.
+37,81,B046,Sidewinder,37_sidewinder.png,Sidewinders move sideways across loose sand and leave J-shaped tracks.
+38,83,B046,Western Diamondback Rattlesnake,38_western_diamondback_rattlesnake.png,Rattlesnakes warn threats by shaking special segments at the ends of their tails.
+39,85,B046,Coachwhip Snake,39_coachwhip_snake.png,Coachwhips are fast nonvenomous snakes found in dry open habitats.
+40,87,B046,Desert Tortoise,40_desert_tortoise.png,Desert tortoises spend much of the year in burrows to avoid extreme heat and cold.
+41,89,B046,Spadefoot Toad,41_spadefoot_toad.png,Spadefoot toads can remain underground for long dry periods and emerge after heavy rains.
+42,91,B046,Sonoran Desert Toad,42_sonoran_desert_toad.png,Sonoran desert toads are large toads that become active during warm rainy weather.
+43,93,B046,Desert Rain Frog,43_desert_rain_frog.png,Desert rain frogs have rounded bodies and live in sandy coastal deserts.
+44,95,B046,Scorpion,44_scorpion.png,Scorpions use pincers and a curved stinger to capture prey and defend themselves.
+45,97,B046,Desert Tarantula,45_desert_tarantula.png,Desert tarantulas spend much of their time in burrows.
+46,99,B046,Sun Spider,46_sun_spider.png,Sun spiders are fast arachnids with large jaws but no venomous stinger.
+47,101,B046,Darkling Beetle,47_darkling_beetle.png,Some desert darkling beetles collect moisture from fog on their bodies.
+48,103,B046,Sahara Silver Ant,48_sahara_silver_ant.png,Sahara silver ants can forage briefly during extremely hot daytime conditions.
+49,105,B046,Desert Locust,49_desert_locust.png,Desert locusts can form enormous traveling swarms when conditions are right.
+50,107,B046,Tarantula Hawk Wasp,50_tarantula_hawk_wasp.png,Tarantula hawk wasps hunt tarantulas to provide food for their young.
+51,109,B046,Desert Honey Ant,51_desert_honey_ant.png,Some honey ants store sweet liquid in the swollen abdomens of special workers.
+52,111,B046,Deathstalker Scorpion,52_deathstalker_scorpion.png,Deathstalker scorpions are pale desert scorpions adapted to dry regions.
+53,113,B046,Sidewinder Crab,53_sidewinder_crab.png,Some ghost and sand crabs move quickly across hot sandy shorelines in desert regions.
+54,115,B046,Saharan Horned Viper,54_saharan_horned_viper.png,Saharan horned vipers can bury themselves in sand with only their eyes exposed.
+55,117,B046,Thorny Devil,55_thorny_devil.png,Thorny devils have grooved skin that can channel water toward their mouths.
+56,119,B046,Perentie,56_perentie.png,Perenties are large monitor lizards found in arid parts of Australia.
+57,121,B046,Bilby,57_bilby.png,Bilbies have long ears and dig deep spiral burrows in dry Australian habitats.
+58,123,B046,Red Kangaroo,58_red_kangaroo.png,Red kangaroos are well adapted to Australia's dry interior.
+59,125,B046,Emu,59_emu.png,Emus can travel long distances in search of food and water.
+60,127,B046,Arabian Sand Gazelle,60_arabian_sand_gazelle.png,Arabian sand gazelles are slender desert antelope adapted to dry open landscapes.
