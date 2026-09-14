@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B011,Red Fox,01_red_fox.png,Red foxes use their large ears to help locate small animals moving under leaves or snow.
+2,11,B011,Gray Wolf,02_gray_wolf.png,Wolves live and hunt in family groups called packs.
+3,13,B011,American Black Bear,03_american_black_bear.png,Black bears are excellent climbers and can run surprisingly fast.
+4,15,B011,Brown Bear,04_brown_bear.png,Brown bears can spend many hours searching for berries roots fish and other foods.
+5,17,B011,White-Tailed Deer,05_white_tailed_deer.png,A white-tailed deer lifts its bright tail as a warning signal when startled.
+6,19,B011,Moose,06_moose.png,Moose are the largest members of the deer family.
+7,21,B011,Elk,07_elk.png,Elk can make loud bugling calls that carry across forests and valleys.
+8,23,B011,Wild Boar,08_wild_boar.png,Wild boars use their strong snouts to dig for roots insects and other food.
+9,25,B011,Raccoon,09_raccoon.png,Raccoons have very sensitive front paws that help them explore objects and find food.
+10,27,B011,Striped Skunk,10_striped_skunk.png,Striped skunks can spray a strong-smelling liquid to defend themselves.
+11,29,B011,Virginia Opossum,11_virginia_opossum.png,Virginia opossums can use their prehensile tails to help steady themselves while climbing.
+12,31,B011,North American Porcupine,12_north_american_porcupine.png,Porcupines are covered with sharp quills that help protect them from predators.
+13,33,B011,Beaver,13_beaver.png,Beavers build dams and lodges using branches mud and stones.
+14,35,B011,North American River Otter,14_north_american_river_otter.png,River otters are playful swimmers with streamlined bodies and strong tails.
+15,37,B011,American Badger,15_american_badger.png,Badgers have powerful front claws for digging burrows and searching for prey.
+16,39,B011,Wolverine,16_wolverine.png,Wolverines are strong members of the weasel family that live in cold northern forests.
+17,41,B011,Bobcat,17_bobcat.png,Bobcats have short tails and tufted ears that help make them easy to recognize.
+18,43,B011,Canada Lynx,18_canada_lynx.png,Canada lynx have large furry paws that act like snowshoes.
+19,45,B011,Coyote,19_coyote.png,Coyotes are adaptable animals that can live in forests grasslands deserts and even near cities.
+20,47,B011,Red Squirrel,20_red_squirrel.png,Red squirrels often store seeds and cones to eat later.
+21,49,B011,Eastern Gray Squirrel,21_eastern_gray_squirrel.png,Gray squirrels help spread trees when forgotten buried nuts begin to grow.
+22,51,B011,Flying Squirrel,22_flying_squirrel.png,Flying squirrels glide between trees using a flap of skin stretched between their legs.
+23,53,B011,Eastern Chipmunk,23_eastern_chipmunk.png,Chipmunks collect seeds in stretchy cheek pouches and carry them back to their burrows.
+24,55,B011,Snowshoe Hare,24_snowshoe_hare.png,Snowshoe hares have large feet that help them move across deep snow.
+25,57,B011,Eastern Cottontail,25_eastern_cottontail.png,Cottontail rabbits often freeze in place before suddenly dashing away from danger.
+26,59,B011,European Hedgehog,26_european_hedgehog.png,Hedgehogs roll into a tight ball so their spines face outward when threatened.
+27,61,B011,Common Dormouse,27_common_dormouse.png,Dormice can spend long periods sleeping during cold weather.
+28,63,B011,Pine Marten,28_pine_marten.png,Pine martens are agile tree climbers that hunt and forage in woodland habitats.
+29,65,B011,Stoat,29_stoat.png,A stoat's coat can turn white in winter in colder parts of its range.
+30,67,B011,European Badger,30_european_badger.png,European badgers live in underground tunnel systems called setts.
+31,69,B012,Great Horned Owl,31_great_horned_owl.png,Great horned owls have large ear-like feather tufts and powerful talons.
+32,71,B012,Barred Owl,32_barred_owl.png,Barred owls are known for a call that sounds like a repeated question.
+33,73,B012,Great Gray Owl,33_great_gray_owl.png,Great gray owls have broad round faces that help direct sound toward their ears.
+34,75,B012,Woodpecker,34_woodpecker.png,Woodpeckers use strong beaks to drill into wood and find insects.
+35,77,B012,Blue Jay,35_blue_jay.png,Blue jays can mimic the calls of some hawks.
+36,79,B012,Cardinal,36_cardinal.png,Male northern cardinals are famous for their bright red feathers.
+37,81,B012,Chickadee,37_chickadee.png,Chickadees hide seeds in many places and can remember where they stored them.
+38,83,B012,Nuthatch,38_nuthatch.png,Nuthatches can climb headfirst down tree trunks while searching for insects.
+39,85,B012,Wild Turkey,39_wild_turkey.png,Wild turkeys sleep in trees at night to stay safer from many ground predators.
+40,87,B012,Ruffed Grouse,40_ruffed_grouse.png,Ruffed grouse can beat their wings to make a low drumming sound.
+41,89,B012,Wood Frog,41_wood_frog.png,Wood frogs can survive part of their body freezing during winter.
+42,91,B012,Spotted Salamander,42_spotted_salamander.png,Spotted salamanders spend much of the year hidden under logs leaves or soil.
+43,93,B012,Box Turtle,43_box_turtle.png,Box turtles have hinged shells that can close tightly for protection.
+44,95,B012,Garter Snake,44_garter_snake.png,Garter snakes use their tongues to collect scent particles from the air.
+45,97,B012,Green Anole,45_green_anole.png,Green anoles can change between shades of green and brown.
+46,99,B012,Luna Moth,46_luna_moth.png,Luna moths have pale green wings and long tails on their hindwings.
+47,101,B012,Monarch Butterfly,47_monarch_butterfly.png,Monarch butterflies can travel very long distances during migration.
+48,103,B012,Stag Beetle,48_stag_beetle.png,Stag beetles have large jaws that can look like the antlers of a deer.
+49,105,B012,Firefly,49_firefly.png,Fireflies make light inside their bodies through a chemical reaction.
+50,107,B012,Praying Mantis,50_praying_mantis.png,Praying mantises hold their front legs folded and use them to quickly grab prey.
+51,109,B012,Banana Slug,51_banana_slug.png,Banana slugs move by gliding on a layer of slime that helps protect their soft bodies.
+52,111,B012,Snail,52_snail.png,Land snails carry spiral shells and move using a muscular foot.
+53,113,B012,Earthworm,53_earthworm.png,Earthworms help improve soil by tunneling and mixing organic material into it.
+54,115,B012,Red-Eared Bat,54_red_eared_bat.png,Bats use echolocation to navigate and find insects in the dark.
+55,117,B012,Little Brown Bat,55_little_brown_bat.png,Little brown bats can eat many flying insects in a single night.
+56,119,B012,Wood Mouse,56_wood_mouse.png,Wood mice gather seeds berries and nuts on the forest floor.
+57,121,B012,Field Vole,57_field_vole.png,Voles make runways through grass and leaves close to the ground.
+58,123,B012,Forest Snail,58_forest_snail.png,Forest snails prefer damp shady places where they can avoid drying out.
+59,125,B012,Spring Peeper,59_spring_peeper.png,Spring peepers are tiny frogs whose loud calls are often heard near woodland ponds.
+60,127,B012,Forest Raven,60_forest_raven.png,Ravens are intelligent birds that can solve problems and remember useful places.
