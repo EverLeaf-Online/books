@@ -1,0 +1,36 @@
+MIST° — Book 11: Bugs & Butterflies — Batch B022 (Subjects 31–60)
+
+MASTER ART DIRECTION
+Original black-and-white children's coloring-book line art for ages 4–8. Portrait 8.5 x 11 composition. One clear main insect or tiny creature, friendly and anatomically plausible. Main subject about 55–70% of usable drawing area. Bold smooth outer contours, simple interior line regions, large enclosed coloring spaces, generous white space. Use only 5–10 large habitat elements. Keep important linework inside a 0.50-inch safe-content target. Leave lower area reasonably open for separately typeset name and fact. Preferred master: 2550 x 3300 PNG. No words, letters, numbers, captions, signatures, logos, watermarks, grayscale, shading, hatching, gradients, textures, decorative borders, cropped anatomy, duplicated limbs/wings, or tiny clutter.
+
+Generate one image per numbered subject:
+31 Leafcutter Ant — oversized close-up carrying a leaf piece along a simple trail.
+32 Termite — educational close-up beside a simple wood tunnel cross-section.
+33 Mosquito — oversized close-up perched on leaf; long legs and proboscis clear.
+34 Housefly — enlarged fly on tabletop edge; big compound eyes and two wings clear.
+35 Fruit Fly — enlarged fly beside one simple fruit slice; compact body.
+36 Horsefly — enlarged fly on leaf; large compound eyes and stout body.
+37 Green Lacewing — perched on leaf; delicate long wings simplified with broad veins.
+38 Mayfly — perched beside stream; upright wings and long tail filaments clear.
+39 Caddisfly — adult perched near stream rock; simple wing shape and antennae.
+40 Earwig — on garden soil; rear pincers prominent.
+41 Silverfish — on simple floorboard edge; tapered body and three tail bristles.
+42 Flea — enlarged educational close-up; arched body and powerful hind legs.
+43 Water Strider — skating on pond surface; long legs touching simple ripple rings.
+44 Water Boatman — swimming underwater; oar-like hind legs clear.
+45 Diving Beetle — swimming among simple pond plants; streamlined oval body.
+46 Whirligig Beetle — one enlarged beetle circling on water surface with simple ripples.
+47 Spittlebug — perched on plant stem beside one cluster of bubbly foam shapes.
+48 Shield Bug — on broad leaf; shield-shaped back prominent.
+49 Assassin Bug — standing on twig; long body and pointed beak clear, no prey shown.
+50 Stink Bug — on garden leaf; broad shield body and simple plant setting.
+51 Lanternfly — perched on tree bark; striking wing regions simplified in line art.
+52 Dobsonfly — resting on branch; large wings, long jaws on male form clearly visible.
+53 Mole Cricket — partly above loose soil; shovel-like front legs emphasized.
+54 Jerusalem Cricket — on sandy soil near rock; large head and striped abdomen regions.
+55 Jumping Spider — enlarged on leaf; big forward-facing eyes and eight legs clear.
+56 Orb-Weaver Spider — centered in simple wheel-shaped web; rounded abdomen and eight legs.
+57 Tarantula — walking on forest floor; large fuzzy body indicated only by sparse contour tufts.
+58 Scorpion — standing on desert rock; pincers and curved stinger tail clear.
+59 Centipede — enlarged on leaf litter; long segmented body with one leg pair per segment simplified.
+60 Millipede — partly curled on forest floor; many segments and paired legs simplified into large readable forms.
