@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,status,qa_status
+1,9,B005,Cow,01_cow.png,Queued,Not Reviewed
+2,11,B005,Calf,02_calf.png,Queued,Not Reviewed
+3,13,B005,Bull,03_bull.png,Queued,Not Reviewed
+4,15,B005,Horse,04_horse.png,Queued,Not Reviewed
+5,17,B005,Foal,05_foal.png,Queued,Not Reviewed
+6,19,B005,Donkey,06_donkey.png,Queued,Not Reviewed
+7,21,B005,Mule,07_mule.png,Queued,Not Reviewed
+8,23,B005,Pig,08_pig.png,Queued,Not Reviewed
+9,25,B005,Piglet,09_piglet.png,Queued,Not Reviewed
+10,27,B005,Sheep,10_sheep.png,Queued,Not Reviewed
+11,29,B005,Lamb,11_lamb.png,Queued,Not Reviewed
+12,31,B005,Goat,12_goat.png,Queued,Not Reviewed
+13,33,B005,Kid,13_kid.png,Queued,Not Reviewed
+14,35,B005,Chicken,14_chicken.png,Queued,Not Reviewed
+15,37,B005,Rooster,15_rooster.png,Queued,Not Reviewed
+16,39,B005,Chick,16_chick.png,Queued,Not Reviewed
+17,41,B005,Turkey,17_turkey.png,Queued,Not Reviewed
+18,43,B005,Duck,18_duck.png,Queued,Not Reviewed
+19,45,B005,Duckling,19_duckling.png,Queued,Not Reviewed
+20,47,B005,Goose,20_goose.png,Queued,Not Reviewed
+21,49,B005,Gosling,21_gosling.png,Queued,Not Reviewed
+22,51,B005,Rabbit,22_rabbit.png,Queued,Not Reviewed
+23,53,B005,Barn Cat,23_barn_cat.png,Queued,Not Reviewed
+24,55,B005,Farm Dog,24_farm_dog.png,Queued,Not Reviewed
+25,57,B005,Llama,25_llama.png,Queued,Not Reviewed
+26,59,B005,Alpaca,26_alpaca.png,Queued,Not Reviewed
+27,61,B005,Pony,27_pony.png,Queued,Not Reviewed
+28,63,B005,Ox,28_ox.png,Queued,Not Reviewed
+29,65,B005,Yak,29_yak.png,Queued,Not Reviewed
+30,67,B005,Water Buffalo,30_water_buffalo.png,Queued,Not Reviewed
+31,69,B006,Guinea Fowl,31_guinea_fowl.png,Queued,Not Reviewed
+32,71,B006,Quail,32_quail.png,Queued,Not Reviewed
+33,73,B006,Pigeon,33_pigeon.png,Queued,Not Reviewed
+34,75,B006,Barn Owl,34_barn_owl.png,Queued,Not Reviewed
+35,77,B006,Peacock,35_peacock.png,Queued,Not Reviewed
+36,79,B006,Honey Bee,36_honey_bee.png,Queued,Not Reviewed
+37,81,B006,Butterfly,37_butterfly.png,Queued,Not Reviewed
+38,83,B006,Ladybug,38_ladybug.png,Queued,Not Reviewed
+39,85,B006,Earthworm,39_earthworm.png,Queued,Not Reviewed
+40,87,B006,Frog,40_frog.png,Queued,Not Reviewed
+41,89,B006,Field Mouse,41_field_mouse.png,Queued,Not Reviewed
+42,91,B006,Rat,42_rat.png,Queued,Not Reviewed
+43,93,B006,Squirrel,43_squirrel.png,Queued,Not Reviewed
+44,95,B006,Hedgehog,44_hedgehog.png,Queued,Not Reviewed
+45,97,B006,Tortoise,45_tortoise.png,Queued,Not Reviewed
+46,99,B006,Carp,46_carp.png,Queued,Not Reviewed
+47,101,B006,Tilapia,47_tilapia.png,Queued,Not Reviewed
+48,103,B006,Koi,48_koi.png,Queued,Not Reviewed
+49,105,B006,Pond Turtle,49_pond_turtle.png,Queued,Not Reviewed
+50,107,B006,Dragonfly,50_dragonfly.png,Queued,Not Reviewed
+51,109,B006,Highland Cow,51_highland_cow.png,Queued,Not Reviewed
+52,111,B006,Jersey Cow,52_jersey_cow.png,Queued,Not Reviewed
+53,113,B006,Clydesdale Horse,53_clydesdale_horse.png,Queued,Not Reviewed
+54,115,B006,Miniature Horse,54_miniature_horse.png,Queued,Not Reviewed
+55,117,B006,Angora Goat,55_angora_goat.png,Queued,Not Reviewed
+56,119,B006,Merino Sheep,56_merino_sheep.png,Queued,Not Reviewed
+57,121,B006,Pot-Bellied Pig,57_pot_bellied_pig.png,Queued,Not Reviewed
+58,123,B006,Silkie Chicken,58_silkie_chicken.png,Queued,Not Reviewed
+59,125,B006,Muscovy Duck,59_muscovy_duck.png,Queued,Not Reviewed
+60,127,B006,Barn Swallow,60_barn_swallow.png,Queued,Not Reviewed
