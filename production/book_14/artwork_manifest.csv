@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,status,qa_status
+1,9,B027,Maine Coon,01_maine_coon.png,Queued,Not Reviewed
+2,11,B027,Siamese,02_siamese.png,Queued,Not Reviewed
+3,13,B027,Persian,03_persian.png,Queued,Not Reviewed
+4,15,B027,Ragdoll,04_ragdoll.png,Queued,Not Reviewed
+5,17,B027,Bengal,05_bengal.png,Queued,Not Reviewed
+6,19,B027,British Shorthair,06_british_shorthair.png,Queued,Not Reviewed
+7,21,B027,Sphynx,07_sphynx.png,Queued,Not Reviewed
+8,23,B027,Scottish Fold,08_scottish_fold.png,Queued,Not Reviewed
+9,25,B027,Abyssinian,09_abyssinian.png,Queued,Not Reviewed
+10,27,B027,American Shorthair,10_american_shorthair.png,Queued,Not Reviewed
+11,29,B027,Norwegian Forest Cat,11_norwegian_forest_cat.png,Queued,Not Reviewed
+12,31,B027,Birman,12_birman.png,Queued,Not Reviewed
+13,33,B027,Russian Blue,13_russian_blue.png,Queued,Not Reviewed
+14,35,B027,Oriental Shorthair,14_oriental_shorthair.png,Queued,Not Reviewed
+15,37,B027,Devon Rex,15_devon_rex.png,Queued,Not Reviewed
+16,39,B027,Cornish Rex,16_cornish_rex.png,Queued,Not Reviewed
+17,41,B027,Manx,17_manx.png,Queued,Not Reviewed
+18,43,B027,Turkish Angora,18_turkish_angora.png,Queued,Not Reviewed
+19,45,B027,Turkish Van,19_turkish_van.png,Queued,Not Reviewed
+20,47,B027,Egyptian Mau,20_egyptian_mau.png,Queued,Not Reviewed
+21,49,B027,Ocicat,21_ocicat.png,Queued,Not Reviewed
+22,51,B027,Savannah,22_savannah.png,Queued,Not Reviewed
+23,53,B027,American Curl,23_american_curl.png,Queued,Not Reviewed
+24,55,B027,Selkirk Rex,24_selkirk_rex.png,Queued,Not Reviewed
+25,57,B027,Himalayan,25_himalayan.png,Queued,Not Reviewed
+26,59,B027,Balinese,26_balinese.png,Queued,Not Reviewed
+27,61,B027,Bombay,27_bombay.png,Queued,Not Reviewed
+28,63,B027,Burmese,28_burmese.png,Queued,Not Reviewed
+29,65,B027,Tonkinese,29_tonkinese.png,Queued,Not Reviewed
+30,67,B027,Chartreux,30_chartreux.png,Queued,Not Reviewed
+31,69,B028,Ragamuffin,31_ragamuffin.png,Queued,Not Reviewed
+32,71,B028,Somali,32_somali.png,Queued,Not Reviewed
+33,73,B028,Japanese Bobtail,33_japanese_bobtail.png,Queued,Not Reviewed
+34,75,B028,American Bobtail,34_american_bobtail.png,Queued,Not Reviewed
+35,77,B028,LaPerm,35_laperm.png,Queued,Not Reviewed
+36,79,B028,Singapura,36_singapura.png,Queued,Not Reviewed
+37,81,B028,Snowshoe,37_snowshoe.png,Queued,Not Reviewed
+38,83,B028,Toyger,38_toyger.png,Queued,Not Reviewed
+39,85,B028,Pixiebob,39_pixiebob.png,Queued,Not Reviewed
+40,87,B028,Munchkin,40_munchkin.png,Queued,Not Reviewed
+41,89,B028,Nebelung,41_nebelung.png,Queued,Not Reviewed
+42,91,B028,Siberian,42_siberian.png,Queued,Not Reviewed
+43,93,B028,Korat,43_korat.png,Queued,Not Reviewed
+44,95,B028,Havana Brown,44_havana_brown.png,Queued,Not Reviewed
+45,97,B028,European Shorthair,45_european_shorthair.png,Queued,Not Reviewed
+46,99,B028,Exotic Shorthair,46_exotic_shorthair.png,Queued,Not Reviewed
+47,101,B028,Chausie,47_chausie.png,Queued,Not Reviewed
+48,103,B028,Lykoi,48_lykoi.png,Queued,Not Reviewed
+49,105,B028,Peterbald,49_peterbald.png,Queued,Not Reviewed
+50,107,B028,Burmilla,50_burmilla.png,Queued,Not Reviewed
+51,109,B028,Colorpoint Shorthair,51_colorpoint_shorthair.png,Queued,Not Reviewed
+52,111,B028,Cymric,52_cymric.png,Queued,Not Reviewed
+53,113,B028,Foldex,53_foldex.png,Queued,Not Reviewed
+54,115,B028,Khao Manee,54_khao_manee.png,Queued,Not Reviewed
+55,117,B028,Kurilian Bobtail,55_kurilian_bobtail.png,Queued,Not Reviewed
+56,119,B028,Mekong Bobtail,56_mekong_bobtail.png,Queued,Not Reviewed
+57,121,B028,Oriental Longhair,57_oriental_longhair.png,Queued,Not Reviewed
+58,123,B028,Thai Cat,58_thai_cat.png,Queued,Not Reviewed
+59,125,B028,Tuxedo Cat,59_tuxedo_cat.png,Queued,Not Reviewed
+60,127,B028,Tabby Cat,60_tabby_cat.png,Queued,Not Reviewed
