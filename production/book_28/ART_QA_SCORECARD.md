@@ -29,7 +29,9 @@ All 60 illustrations must pass before interior assembly is approved.
 - Manta/stingray/skate silhouettes must remain distinct and readable.
 - Sawfish are rays; sawsharks are sharks. Do not swap their body plans.
 - `Shortfin Mako Shark` has been normalized from the former broad `Mako Shark` label; the illustration must match shortfin mako anatomy.
-- Remaining broad catalog labels requiring final species-level visual review before release: Dogfish Shark, Hammerhead Shark, Electric Ray, Butterfly Ray, Guitarfish, Shovelnose Ray, Sawfish, Skate, Devil Ray, Mobula Ray, Freshwater Stingray, Baby Shark, and Ray Pup.
+- `Great Hammerhead Shark` has been normalized from the former broad `Hammerhead Shark` label; show the species' very wide hammer-shaped head and tall first dorsal fin.
+- `Spiny Dogfish` has been normalized from the former broad `Dogfish Shark` label; show the slender body and dorsal spines characteristic of the species.
+- Remaining broad catalog labels requiring final species-level visual review before release: Electric Ray, Butterfly Ray, Guitarfish, Shovelnose Ray, Sawfish, Skate, Devil Ray, Mobula Ray, Freshwater Stingray, Baby Shark, and Ray Pup.
 - `Manta Ray Pup`, `Baby Shark`, and `Ray Pup` should read clearly as juvenile animals without becoming cartoonishly infant-like.
 
 ## Status rules
