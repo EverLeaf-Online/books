@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B023,Green Iguana,01_green_iguana.png,Green iguanas are strong climbers and have long tails that help with balance.
+2,11,B023,Marine Iguana,02_marine_iguana.png,Marine iguanas are the only modern lizards that regularly feed in the ocean.
+3,13,B023,Veiled Chameleon,03_veiled_chameleon.png,Chameleons can move their eyes independently and shoot out long sticky tongues.
+4,15,B023,Panther Chameleon,04_panther_chameleon.png,Panther chameleons can display many bright color patterns.
+5,17,B023,Bearded Dragon,05_bearded_dragon.png,Bearded dragons can puff up the spiny skin under their throats.
+6,19,B023,Komodo Dragon,06_komodo_dragon.png,Komodo dragons are the largest living lizards.
+7,21,B023,Gila Monster,07_gila_monster.png,Gila monsters are venomous lizards that store fat in their thick tails.
+8,23,B023,Leopard Gecko,08_leopard_gecko.png,Leopard geckos have movable eyelids and can shed their tails to escape danger.
+9,25,B023,Crested Gecko,09_crested_gecko.png,Crested geckos have ridges above their eyes that look like tiny eyelashes.
+10,27,B023,Tokay Gecko,10_tokay_gecko.png,Tokay geckos are large colorful geckos known for loud calls.
+11,29,B023,Blue-Tongued Skink,11_blue_tongued_skink.png,Blue-tongued skinks flash their bright blue tongues when threatened.
+12,31,B023,Green Anole,12_green_anole.png,Green anoles can change between green and brown shades.
+13,33,B023,Frilled Lizard,13_frilled_lizard.png,Frilled lizards can spread a large skin frill around their necks.
+14,35,B023,Common Basilisk,14_common_basilisk.png,Basilisk lizards can sprint across the surface of water for short distances.
+15,37,B023,Thorny Devil,15_thorny_devil.png,Thorny devils are covered in spikes and collect moisture between the scales of their skin.
+16,39,B023,Nile Monitor,16_nile_monitor.png,"Monitor lizards are active hunters with long necks, strong tails, and forked tongues."
+17,41,B023,Corn Snake,17_corn_snake.png,Corn snakes are nonvenomous snakes that kill prey by constriction.
+18,43,B023,Ball Python,18_ball_python.png,Ball pythons may curl into a tight ball when frightened.
+19,45,B023,King Cobra,19_king_cobra.png,King cobras are the longest venomous snakes in the world.
+20,47,B023,Western Diamondback Rattlesnake,20_western_diamondback_rattlesnake.png,Rattlesnakes shake special tail segments to make a warning buzz.
+21,49,B023,Boa Constrictor,21_boa_constrictor.png,Boa constrictors wrap their muscular bodies around prey.
+22,51,B023,Green Anaconda,22_green_anaconda.png,Green anacondas are among the heaviest snakes in the world.
+23,53,B023,Garter Snake,23_garter_snake.png,Garter snakes are widespread snakes that often live near gardens and wetlands.
+24,55,B023,Milk Snake,24_milk_snake.png,"Milk snakes are nonvenomous and often have bold bands of red, black, and pale colors."
+25,57,B023,Hognose Snake,25_hognose_snake.png,Hognose snakes have upturned snouts that help them dig in loose soil.
+26,59,B023,Black Mamba,26_black_mamba.png,Black mambas are fast venomous snakes native to parts of Africa.
+27,61,B023,Reticulated Python,27_reticulated_python.png,Reticulated pythons are among the longest snakes in the world.
+28,63,B023,Yellow-Bellied Sea Snake,28_yellow_bellied_sea_snake.png,Sea snakes have flattened tails that help them swim.
+29,65,B023,Nile Crocodile,29_nile_crocodile.png,Nile crocodiles are powerful predators that live in African rivers and lakes.
+30,67,B023,American Alligator,30_american_alligator.png,American alligators build nests from plants and mud.
+31,69,B024,Gharial,31_gharial.png,Gharials have very long narrow snouts adapted for catching fish.
+32,71,B024,Spectacled Caiman,32_spectacled_caiman.png,Spectacled caimans get their name from a raised ridge between their eyes.
+33,73,B024,Green Sea Turtle,33_green_sea_turtle.png,Green sea turtles migrate long distances between feeding and nesting areas.
+34,75,B024,Loggerhead Sea Turtle,34_loggerhead_sea_turtle.png,Loggerheads have large heads and strong jaws that can crush hard-shelled prey.
+35,77,B024,Leatherback Sea Turtle,35_leatherback_sea_turtle.png,Leatherbacks are the largest sea turtles and have flexible leathery shells.
+36,79,B024,Red-Eared Slider,36_red_eared_slider.png,Red-eared sliders are named for the red patches behind their eyes.
+37,81,B024,Eastern Box Turtle,37_eastern_box_turtle.png,Box turtles can close their hinged lower shells tightly for protection.
+38,83,B024,Common Snapping Turtle,38_common_snapping_turtle.png,Snapping turtles have strong jaws and long tails.
+39,85,B024,Galápagos Tortoise,39_galapagos_tortoise.png,Galápagos tortoises can live for well over a century.
+40,87,B024,African Spurred Tortoise,40_african_spurred_tortoise.png,African spurred tortoises are large desert tortoises that dig deep burrows.
+41,89,B024,Poison Dart Frog,41_poison_dart_frog.png,Some poison dart frogs get defensive chemicals from the foods they eat in the wild.
+42,91,B024,Green Tree Frog,42_green_tree_frog.png,Tree frogs have toe pads that help them cling to leaves and branches.
+43,93,B024,American Bullfrog,43_american_bullfrog.png,Bullfrogs are large frogs with deep calls that can carry across ponds.
+44,95,B024,Glass Frog,44_glass_frog.png,Many glass frogs have partly transparent skin on their undersides.
+45,97,B024,Red-Eyed Tree Frog,45_red_eyed_tree_frog.png,Red-eyed tree frogs have bright red eyes and sticky toe pads.
+46,99,B024,Tomato Frog,46_tomato_frog.png,Tomato frogs can puff up their round bodies when threatened.
+47,101,B024,Horned Frog,47_horned_frog.png,Horned frogs have wide mouths and sit quietly while waiting for prey.
+48,103,B024,Northern Leopard Frog,48_northern_leopard_frog.png,Leopard frogs are named for the dark spots across their backs and legs.
+49,105,B024,American Toad,49_american_toad.png,Toads have bumpy skin and produce defensive chemicals from glands behind their eyes.
+50,107,B024,Cane Toad,50_cane_toad.png,Cane toads are large toads with strong defensive glands.
+51,109,B024,Fire-Bellied Toad,51_fire_bellied_toad.png,Fire-bellied toads show bright belly colors as a warning to predators.
+52,111,B024,Axolotl,52_axolotl.png,Axolotls keep their feathery external gills as adults.
+53,113,B024,Tiger Salamander,53_tiger_salamander.png,Tiger salamanders spend much of their lives hidden underground.
+54,115,B024,Fire Salamander,54_fire_salamander.png,Fire salamanders have striking yellow markings on dark skin.
+55,117,B024,Eastern Newt,55_eastern_newt.png,Eastern newts have a bright orange juvenile stage called a red eft.
+56,119,B024,Olm,56_olm.png,Olms are pale cave-dwelling amphibians that can live in complete darkness.
+57,121,B024,Mudpuppy,57_mudpuppy.png,Mudpuppies are aquatic salamanders that keep external gills throughout life.
+58,123,B024,Caecilian,58_caecilian.png,Caecilians are limbless amphibians that look a little like large worms.
+59,125,B024,Greater Siren,59_greater_siren.png,Sirens are eel-shaped amphibians with tiny front legs and no hind legs.
+60,127,B024,Hellbender,60_hellbender.png,Hellbenders are giant aquatic salamanders that hide beneath rocks in cool streams.
