@@ -1,5 +1,5 @@
 number,interior_page,animal,fact
-1,9,River Otter,River otters are excellent swimmers and can close their ears and nostrils underwater.
+1,9,North American River Otter,North American river otters are excellent swimmers and can close their ears and nostrils underwater.
 2,11,Beaver,Beavers build dams that can create ponds and wetland habitats.
 3,13,Muskrat,Muskrats build homes from mud and wetland plants.
 4,15,American Mink,Minks are strong swimmers that often hunt near streams and wetlands.
@@ -20,17 +20,17 @@ number,interior_page,animal,fact
 19,45,Gharial,Gharials have long narrow snouts that are well suited for catching fish.
 20,47,Common Snapping Turtle,Snapping turtles have powerful jaws and spend much of their lives in water.
 21,49,Painted Turtle,Painted turtles often bask together on logs in the sun.
-22,51,Softshell Turtle,Softshell turtles have flattened shells covered by leathery skin.
-23,53,Map Turtle,Map turtles have fine shell markings that can look like lines on a map.
+22,51,Spiny Softshell Turtle,Spiny softshell turtles have flattened shells covered by leathery skin.
+23,53,Northern Map Turtle,Northern map turtles have fine shell markings that can look like lines on a map.
 24,55,Red-Eared Slider,Red-eared sliders are named for the red markings behind their eyes.
 25,57,Green Anaconda,Green anacondas are heavy-bodied snakes that spend lots of time in water.
 26,59,Cottonmouth,Cottonmouths are venomous snakes often found around southeastern wetlands.
 27,61,Northern Water Snake,Northern water snakes are nonvenomous and often swim with their bodies near the surface.
 28,63,Green Frog,Green frogs live around ponds, streams, and marshes.
 29,65,Bullfrog,Bullfrogs are large frogs with deep calls that can sound like a low bellow.
-30,67,Leopard Frog,Leopard frogs have dark spots on their backs and strong jumping legs.
-31,69,Tree Frog,Many tree frogs have sticky toe pads that help them climb vegetation.
-32,71,Newt,Newts are amphibians that often spend part of their lives in water.
+30,67,Northern Leopard Frog,Northern leopard frogs have dark spots on their backs and strong jumping legs.
+31,69,Green Tree Frog,Green tree frogs have sticky toe pads that help them climb vegetation.
+32,71,Eastern Newt,Eastern newts often spend part of their lives in water.
 33,73,Mudpuppy,Mudpuppies are fully aquatic salamanders with feathery external gills.
 34,75,Axolotl,Axolotls keep their larval features and external gills as adults.
 35,77,Great Blue Heron,Great blue herons stand still in shallow water before striking at prey.
@@ -47,7 +47,7 @@ number,interior_page,animal,fact
 46,99,Belted Kingfisher,Kingfishers dive headfirst into water to catch fish.
 47,101,Osprey,Ospreys have special gripping feet that help them hold slippery fish.
 48,103,Bald Eagle,Bald eagles often hunt fish near rivers and lakes.
-49,105,River Kingfisher,Many kingfishers perch above water and watch for fish before diving.
+49,105,Amazon Kingfisher,Amazon kingfishers perch above rivers and dive into the water to catch fish.
 50,107,Common Loon,Loons are powerful divers with legs positioned far back on their bodies.
 51,109,Bluegill,Bluegills are freshwater sunfish commonly found in ponds and slow rivers.
 52,111,Largemouth Bass,Largemouth bass are ambush predators with very large mouths.
