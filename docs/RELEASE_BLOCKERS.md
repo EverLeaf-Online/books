@@ -39,22 +39,6 @@ After artwork approval, each book still requires:
 ### Book 20 — Endangered Animals
 Before final upload, review current conservation suitability and taxonomy against recognized current sources. The current catalog intentionally avoids printing status labels on each page, but the title still requires the collection to remain defensible as an endangered/rare-animal book.
 
-### Book 26 — Cute Animals
-Resolved:
-
-- `Panda` -> **Giant Panda**
-- `Beluga` -> **Beluga Whale**
-
-Broad labels still needing deliberate normalization or explicit generic approval before final artwork approval:
-
-- Pika
-- Rabbit
-- Dwarf Rabbit
-- River Otter
-- Sloth
-- Hummingbird
-- Bluebird
-
 ### Book 28 — Sharks & Rays
 Resolved:
 
@@ -85,7 +69,7 @@ These are no longer blockers:
 - Book 23: `Sidewinder Crab` mismatch replaced with **Ghost Crab** and propagated through catalog, page map, prompt pack, artwork manifest, assembly manifest, and QA.
 - Book 24: broad labels normalized and propagated end-to-end: **North American River Otter**, **Spiny Softshell Turtle**, **Northern Map Turtle**, **Cottonmouth**, **Northern Leopard Frog**, **Green Tree Frog**, **Eastern Newt**, and **Amazon Kingfisher**.
 - Book 25: duplicate `Lammergeier`/Bearded Vulture entry replaced with **Himalayan Snowcock** and propagated.
-- Book 26: `Panda` normalized to **Giant Panda** and `Beluga` to **Beluga Whale**, including filenames and production manifests.
+- Book 26: all former broad labels normalized and propagated end-to-end: **Giant Panda**, **American Pika**, **Eastern Cottontail**, **Netherland Dwarf Rabbit**, **North American River Otter**, **Brown-Throated Three-Toed Sloth**, **Ruby-Throated Hummingbird**, **Eastern Bluebird**, and **Beluga Whale**.
 - Book 27: broad `Bowerbird` entry normalized to **Vogelkop Bowerbird** and propagated through catalog, page map, B054 prompt, artwork manifest, assembly manifest, and QA.
 - Book 28: `Mako Shark` normalized to **Shortfin Mako Shark**, including filename and production manifests.
 - Book 30: `Penguin Ice Nest` renamed **Penguin Nest** with corrected nesting wording and propagated.
