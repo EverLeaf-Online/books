@@ -3,8 +3,8 @@ MIST° BOOK 24 — RIVER & WETLAND ANIMALS — B048 — SUBJECTS 31–60
 GLOBAL ART DIRECTION
 Original black-and-white children’s coloring-book line art for ages 4–8. Portrait 8.5×11 composition. One clear main animal occupying roughly 55–70% of the usable drawing area. Bold smooth outer contours, thinner simple interior lines, large enclosed coloring spaces, white background, simple habitat with about 5–10 large recognizable elements. Keep important linework inside a 0.50-inch safe-content zone. Leave the lower page reasonably open for separately typeset animal name and fun fact. No words, letters, numbers, captions, signatures, logos, watermarks, grayscale, shading, hatching, gradients, textures, decorative borders, tiny clutter, cropped important anatomy, duplicated limbs, or malformed features. Friendly and anatomically plausible. Preferred master: 2550×3300 PNG.
 
-31 — Tree Frog: Tree frog clinging to tall marsh reed, sticky toe pads visible, leaves, pond water, simple grasses.
-32 — Newt: Newt walking through shallow wetland water, smooth body, reeds, pebbles, aquatic leaves, ripples.
+31 — Green Tree Frog: Green tree frog clinging to tall marsh reed, sticky toe pads visible, smooth body, leaves, pond water, simple grasses.
+32 — Eastern Newt: Eastern newt walking through shallow wetland water, slender body, small limbs, reeds, pebbles, aquatic leaves, ripples.
 33 — Mudpuppy: Aquatic mudpuppy resting on stream bottom, external feathery gills, stones, water plants, simple bubbles.
 34 — Axolotl: Axolotl swimming in calm freshwater habitat, feathery external gills, aquatic plants, pebbles, bubbles.
 35 — Great Blue Heron: Great blue heron standing in shallow marsh, long neck and bill, reeds, fish silhouette, water ripples.
@@ -21,7 +21,7 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 46 — Belted Kingfisher: Kingfisher diving toward stream, crest raised, wings spread, fish below water, rocks, reeds.
 47 — Osprey: Osprey flying over river with talons extended toward fish, broad wings, river surface, reeds, distant trees.
 48 — Bald Eagle: Bald eagle perched above river on strong branch, folded wings, river bends, pine trees, fish below.
-49 — River Kingfisher: Small kingfisher perched on branch above stream, long bill, fish below, reeds, river rocks.
+49 — Amazon Kingfisher: Amazon kingfisher perched above tropical river, long heavy bill, slight crest, fish below, reeds and riverbank plants.
 50 — Common Loon: Loon swimming on quiet lake or river backwater, low body, water ripples, reeds, distant pine shoreline.
 51 — Bluegill: Bluegill swimming among freshwater plants, rounded body, large clear fins, rocks, bubbles, reeds.
 52 — Largemouth Bass: Bass swimming near submerged log, very large mouth, water plants, stones, bubbles.
