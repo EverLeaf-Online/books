@@ -1,5 +1,5 @@
 number,interior_page,batch,subject,expected_filename,fact
-1,9,B047,River Otter,01_river_otter.png,River otters are excellent swimmers and can close their ears and nostrils underwater.
+1,9,B047,North American River Otter,01_north_american_river_otter.png,North American river otters are excellent swimmers and can close their ears and nostrils underwater.
 2,11,B047,Beaver,02_beaver.png,Beavers build dams that can create ponds and wetland habitats.
 3,13,B047,Muskrat,03_muskrat.png,Muskrats build homes from mud and wetland plants.
 4,15,B047,American Mink,04_american_mink.png,Minks are strong swimmers that often hunt near streams and wetlands.
@@ -20,17 +20,17 @@ number,interior_page,batch,subject,expected_filename,fact
 19,45,B047,Gharial,19_gharial.png,Gharials have long narrow snouts that are well suited for catching fish.
 20,47,B047,Common Snapping Turtle,20_common_snapping_turtle.png,Snapping turtles have powerful jaws and spend much of their lives in water.
 21,49,B047,Painted Turtle,21_painted_turtle.png,Painted turtles often bask together on logs in the sun.
-22,51,B047,Softshell Turtle,22_softshell_turtle.png,Softshell turtles have flattened shells covered by leathery skin.
-23,53,B047,Map Turtle,23_map_turtle.png,Map turtles have fine shell markings that can look like lines on a map.
+22,51,B047,Spiny Softshell Turtle,22_spiny_softshell_turtle.png,Spiny softshell turtles have flattened shells covered by leathery skin.
+23,53,B047,Northern Map Turtle,23_northern_map_turtle.png,Northern map turtles have fine shell markings that can look like lines on a map.
 24,55,B047,Red-Eared Slider,24_red_eared_slider.png,Red-eared sliders are named for the red markings behind their eyes.
 25,57,B047,Green Anaconda,25_green_anaconda.png,Green anacondas are heavy-bodied snakes that spend lots of time in water.
 26,59,B047,Cottonmouth,26_cottonmouth.png,Cottonmouths are venomous snakes often found around southeastern wetlands.
 27,61,B047,Northern Water Snake,27_northern_water_snake.png,Northern water snakes are nonvenomous and often swim with their bodies near the surface.
 28,63,B047,Green Frog,28_green_frog.png,"Green frogs live around ponds, streams, and marshes."
 29,65,B047,Bullfrog,29_bullfrog.png,Bullfrogs are large frogs with deep calls that can sound like a low bellow.
-30,67,B047,Leopard Frog,30_leopard_frog.png,Leopard frogs have dark spots on their backs and strong jumping legs.
-31,69,B048,Tree Frog,31_tree_frog.png,Many tree frogs have sticky toe pads that help them climb vegetation.
-32,71,B048,Newt,32_newt.png,Newts are amphibians that often spend part of their lives in water.
+30,67,B047,Northern Leopard Frog,30_northern_leopard_frog.png,Northern leopard frogs have dark spots on their backs and strong jumping legs.
+31,69,B048,Green Tree Frog,31_green_tree_frog.png,Green tree frogs have sticky toe pads that help them climb vegetation.
+32,71,B048,Eastern Newt,32_eastern_newt.png,Eastern newts often spend part of their lives in water.
 33,73,B048,Mudpuppy,33_mudpuppy.png,Mudpuppies are fully aquatic salamanders with feathery external gills.
 34,75,B048,Axolotl,34_axolotl.png,Axolotls keep their larval features and external gills as adults.
 35,77,B048,Great Blue Heron,35_great_blue_heron.png,Great blue herons stand still in shallow water before striking at prey.
@@ -47,7 +47,7 @@ number,interior_page,batch,subject,expected_filename,fact
 46,99,B048,Belted Kingfisher,46_belted_kingfisher.png,Kingfishers dive headfirst into water to catch fish.
 47,101,B048,Osprey,47_osprey.png,Ospreys have special gripping feet that help them hold slippery fish.
 48,103,B048,Bald Eagle,48_bald_eagle.png,Bald eagles often hunt fish near rivers and lakes.
-49,105,B048,River Kingfisher,49_river_kingfisher.png,Many kingfishers perch above water and watch for fish before diving.
+49,105,B048,Amazon Kingfisher,49_amazon_kingfisher.png,Amazon kingfishers perch above rivers and dive into the water to catch fish.
 50,107,B048,Common Loon,50_common_loon.png,Loons are powerful divers with legs positioned far back on their bodies.
 51,109,B048,Bluegill,51_bluegill.png,Bluegills are freshwater sunfish commonly found in ponds and slow rivers.
 52,111,B048,Largemouth Bass,52_largemouth_bass.png,Largemouth bass are ambush predators with very large mouths.
