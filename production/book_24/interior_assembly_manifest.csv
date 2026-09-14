@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B047,River Otter,01_river_otter.png,River otters are excellent swimmers and can close their ears and nostrils underwater.
+2,11,B047,Beaver,02_beaver.png,Beavers build dams that can create ponds and wetland habitats.
+3,13,B047,Muskrat,03_muskrat.png,Muskrats build homes from mud and wetland plants.
+4,15,B047,American Mink,04_american_mink.png,Minks are strong swimmers that often hunt near streams and wetlands.
+5,17,B047,Capybara,05_capybara.png,Capybaras are the world's largest rodents and spend lots of time near water.
+6,19,B047,Nutria,06_nutria.png,Nutria are large semi-aquatic rodents with orange front teeth.
+7,21,B047,Water Vole,07_water_vole.png,"Water voles live along slow-moving streams, ponds, and riverbanks."
+8,23,B047,Marsh Rabbit,08_marsh_rabbit.png,Marsh rabbits are strong swimmers that live around wetlands.
+9,25,B047,Hippopotamus,09_hippopotamus.png,Hippos spend much of the day in water to stay cool.
+10,27,B047,Pygmy Hippo,10_pygmy_hippo.png,Pygmy hippos live around forest streams and swamps in West Africa.
+11,29,B047,Manatee,11_manatee.png,Manatees are gentle plant-eating mammals that graze on aquatic vegetation.
+12,31,B047,Amazon River Dolphin,12_amazon_river_dolphin.png,Amazon river dolphins can turn their necks more than ocean dolphins can.
+13,33,B047,Ganges River Dolphin,13_ganges_river_dolphin.png,Ganges river dolphins use echolocation to navigate muddy river water.
+14,35,B047,Giant Otter,14_giant_otter.png,Giant otters live in family groups and communicate with many different calls.
+15,37,B047,Platypus,15_platypus.png,Platypuses use sensitive bills to find food underwater.
+16,39,B047,American Alligator,16_american_alligator.png,Alligators can create water-filled holes that help other wetland animals during dry periods.
+17,41,B047,American Crocodile,17_american_crocodile.png,American crocodiles can live in both fresh and salty water habitats.
+18,43,B047,Freshwater Crocodile,18_freshwater_crocodile.png,Freshwater crocodiles are smaller and slimmer than saltwater crocodiles.
+19,45,B047,Gharial,19_gharial.png,Gharials have long narrow snouts that are well suited for catching fish.
+20,47,B047,Common Snapping Turtle,20_common_snapping_turtle.png,Snapping turtles have powerful jaws and spend much of their lives in water.
+21,49,B047,Painted Turtle,21_painted_turtle.png,Painted turtles often bask together on logs in the sun.
+22,51,B047,Softshell Turtle,22_softshell_turtle.png,Softshell turtles have flattened shells covered by leathery skin.
+23,53,B047,Map Turtle,23_map_turtle.png,Map turtles have fine shell markings that can look like lines on a map.
+24,55,B047,Red-Eared Slider,24_red_eared_slider.png,Red-eared sliders are named for the red markings behind their eyes.
+25,57,B047,Green Anaconda,25_green_anaconda.png,Green anacondas are heavy-bodied snakes that spend lots of time in water.
+26,59,B047,Water Moccasin,26_water_moccasin.png,Water moccasins are venomous snakes often found around southeastern wetlands.
+27,61,B047,Northern Water Snake,27_northern_water_snake.png,Northern water snakes are nonvenomous and often swim with their bodies near the surface.
+28,63,B047,Green Frog,28_green_frog.png,"Green frogs live around ponds, streams, and marshes."
+29,65,B047,Bullfrog,29_bullfrog.png,Bullfrogs are large frogs with deep calls that can sound like a low bellow.
+30,67,B047,Leopard Frog,30_leopard_frog.png,Leopard frogs have dark spots on their backs and strong jumping legs.
+31,69,B048,Tree Frog,31_tree_frog.png,Many tree frogs have sticky toe pads that help them climb vegetation.
+32,71,B048,Newt,32_newt.png,Newts are amphibians that often spend part of their lives in water.
+33,73,B048,Mudpuppy,33_mudpuppy.png,Mudpuppies are fully aquatic salamanders with feathery external gills.
+34,75,B048,Axolotl,34_axolotl.png,Axolotls keep their larval features and external gills as adults.
+35,77,B048,Great Blue Heron,35_great_blue_heron.png,Great blue herons stand still in shallow water before striking at prey.
+36,79,B048,Great Egret,36_great_egret.png,Great egrets use long necks and sharp bills to catch fish and other small animals.
+37,81,B048,Green Heron,37_green_heron.png,Green herons sometimes drop small objects on water as bait to attract fish.
+38,83,B048,Roseate Spoonbill,38_roseate_spoonbill.png,Roseate spoonbills sweep their spoon-shaped bills side to side through shallow water.
+39,85,B048,Wood Stork,39_wood_stork.png,Wood storks find prey by touch as they move their open bills through the water.
+40,87,B048,Sandhill Crane,40_sandhill_crane.png,Sandhill cranes perform elaborate dances with jumps and wing flaps.
+41,89,B048,Common Moorhen,41_common_moorhen.png,Moorhens use long toes to walk over floating vegetation.
+42,91,B048,Purple Gallinule,42_purple_gallinule.png,Purple gallinules have very long toes for walking on lily pads and marsh plants.
+43,93,B048,Mallard,43_mallard.png,Mallards tip forward in shallow water to reach plants and small animals below the surface.
+44,95,B048,Wood Duck,44_wood_duck.png,Wood ducks often nest in tree cavities near water.
+45,97,B048,Canada Goose,45_canada_goose.png,"Canada geese commonly rest and feed around lakes, rivers, and wetlands."
+46,99,B048,Belted Kingfisher,46_belted_kingfisher.png,Kingfishers dive headfirst into water to catch fish.
+47,101,B048,Osprey,47_osprey.png,Ospreys have special gripping feet that help them hold slippery fish.
+48,103,B048,Bald Eagle,48_bald_eagle.png,Bald eagles often hunt fish near rivers and lakes.
+49,105,B048,River Kingfisher,49_river_kingfisher.png,Many kingfishers perch above water and watch for fish before diving.
+50,107,B048,Common Loon,50_common_loon.png,Loons are powerful divers with legs positioned far back on their bodies.
+51,109,B048,Bluegill,51_bluegill.png,Bluegills are freshwater sunfish commonly found in ponds and slow rivers.
+52,111,B048,Largemouth Bass,52_largemouth_bass.png,Largemouth bass are ambush predators with very large mouths.
+53,113,B048,Channel Catfish,53_channel_catfish.png,Channel catfish use whisker-like barbels to sense food in murky water.
+54,115,B048,Common Carp,54_common_carp.png,Carp use sensitive barbels near their mouths to help search for food.
+55,117,B048,Alligator Gar,55_alligator_gar.png,"Alligator gar have long bodies, armored scales, and broad toothy jaws."
+56,119,B048,Fallfish,56_fallfish.png,Fallfish are large minnows that live in clear rivers and streams.
+57,121,B048,Crayfish,57_crayfish.png,Crayfish use claws to grab food and defend themselves.
+58,123,B048,Freshwater Mussel,58_freshwater_mussel.png,Freshwater mussels help filter tiny particles from water as they feed.
+59,125,B048,Dragonfly Nymph,59_dragonfly_nymph.png,Dragonfly nymphs live underwater before changing into flying adults.
+60,127,B048,Water Strider,60_water_strider.png,Water striders use surface tension to skate across the top of ponds and streams.
