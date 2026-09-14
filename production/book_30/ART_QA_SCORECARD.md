@@ -28,9 +28,13 @@ All 60 illustrations must pass before interior assembly is approved.
 - The home/habitat must be as visually recognizable as the animal and must match the named subject.
 - Distinguish built structures (nest, lodge, web, hive, mound) from general habitats (savanna, reef, water hole, cliff).
 - Show entrances/openings and structural form clearly where the subject is a burrow, den, cavity, sett, holt, or crevice.
-- `Penguin Ice Nest` is a wording nuance: many penguins nest with stones or on ice-free ground. Follow the current fact and avoid depicting a universal literal nest made of ice.
+- `Penguin Nest` (#43): depict a plausible stone nest or sheltered ice-free nesting ground; never draw a nest constructed from ice.
 - Habitat pages should remain simple enough for ages 4–8; do not turn the background into dense scenery.
 - Keep environmental context biologically plausible and avoid mixing incompatible species or habitat elements.
+
+## Catalog review
+
+The former `Penguin Ice Nest` wording has been resolved as `Penguin Nest` throughout the catalog, page map, B060 prompt, artwork manifest, and assembly manifest.
 
 ## Status rules
 
