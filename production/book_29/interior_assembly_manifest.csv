@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B057,Lion Family,01_lion_family.png,Lion cubs grow up in social groups called prides.
+2,11,B057,Elephant Family,02_elephant_family.png,Elephant calves stay close to their mothers and other herd members.
+3,13,B057,Giraffe Family,03_giraffe_family.png,Newborn giraffe calves can stand and walk soon after birth.
+4,15,B057,Zebra Family,04_zebra_family.png,Zebra foals learn their mother's stripe pattern and scent.
+5,17,B057,Gorilla Family,05_gorilla_family.png,Young gorillas ride on their mothers as they travel.
+6,19,B057,Chimpanzee Family,06_chimpanzee_family.png,Chimpanzee youngsters spend years learning from their mothers.
+7,21,B057,Orangutan Family,07_orangutan_family.png,Orangutan babies stay with their mothers for many years.
+8,23,B057,Tiger Family,08_tiger_family.png,Tiger cubs learn hunting skills from their mothers.
+9,25,B057,Cheetah Family,09_cheetah_family.png,Cheetah cubs stay with their mother while learning to hunt.
+10,27,B057,Leopard Family,10_leopard_family.png,Leopard cubs are born with spotted coats.
+11,29,B057,Wolf Family,11_wolf_family.png,Wolf pups are raised by a family group called a pack.
+12,31,B057,Fox Family,12_fox_family.png,Fox kits often play together near their den.
+13,33,B057,Bear Family,13_bear_family.png,Bear cubs stay with their mother while learning where to find food.
+14,35,B057,Polar Bear Family,14_polar_bear_family.png,Polar bear cubs are born in snow dens and remain with their mother.
+15,37,B057,Panda Family,15_panda_family.png,Giant panda cubs are tiny compared with their mothers at birth.
+16,39,B057,Kangaroo Family,16_kangaroo_family.png,A baby kangaroo is called a joey and develops inside its mother's pouch.
+17,41,B057,Koala Family,17_koala_family.png,Koala joeys ride on their mother's back after leaving the pouch.
+18,43,B057,Wombat Family,18_wombat_family.png,Wombat joeys grow inside a backward-facing pouch.
+19,45,B057,Wallaby Family,19_wallaby_family.png,Wallaby joeys develop in a pouch just like kangaroos.
+20,47,B057,Meerkat Family,20_meerkat_family.png,Meerkat groups help watch over and protect young pups.
+21,49,B057,Otter Family,21_otter_family.png,Otter pups learn to swim from their mothers.
+22,51,B057,Beaver Family,22_beaver_family.png,Young beavers called kits live with their family in a lodge.
+23,53,B057,Raccoon Family,23_raccoon_family.png,Raccoon kits stay with their mother while learning to forage.
+24,55,B057,Skunk Family,24_skunk_family.png,Skunk kits follow their mother in a line while exploring.
+25,57,B057,Deer Family,25_deer_family.png,A young deer is called a fawn and often has spots for camouflage.
+26,59,B057,Moose Family,26_moose_family.png,Moose calves can walk soon after they are born.
+27,61,B057,Bison Family,27_bison_family.png,Bison calves are sometimes called red dogs because of their reddish coats.
+28,63,B057,Horse Family,28_horse_family.png,A baby horse is called a foal.
+29,65,B057,Donkey Family,29_donkey_family.png,A baby donkey is called a foal and stays close to its mother.
+30,67,B057,Cow Family,30_cow_family.png,A baby cow is called a calf.
+31,69,B058,Sheep Family,31_sheep_family.png,A baby sheep is called a lamb.
+32,71,B058,Goat Family,32_goat_family.png,A baby goat is called a kid.
+33,73,B058,Pig Family,33_pig_family.png,A baby pig is called a piglet.
+34,75,B058,Rabbit Family,34_rabbit_family.png,Baby rabbits are called kits or kittens.
+35,77,B058,Dog Family,35_dog_family.png,Puppies are born with their eyes and ears closed.
+36,79,B058,Cat Family,36_cat_family.png,Kittens depend on their mother for warmth and food when very young.
+37,81,B058,Dolphin Family,37_dolphin_family.png,Dolphin calves swim beside their mothers and learn social skills.
+38,83,B058,Orca Family,38_orca_family.png,Orca calves often stay with their mother's family group for life.
+39,85,B058,Humpback Whale Family,39_humpback_whale_family.png,Humpback calves drink rich milk from their mothers.
+40,87,B058,Manatee Family,40_manatee_family.png,Manatee calves stay close to their mothers and learn where to feed.
+41,89,B058,Seal Family,41_seal_family.png,Seal pups are born with coats suited to their cold or coastal habitats.
+42,91,B058,Sea Lion Family,42_sea_lion_family.png,Sea lion pups recognize their mothers by calls and smell.
+43,93,B058,Walrus Family,43_walrus_family.png,Walrus calves stay very close to their mothers in the water.
+44,95,B058,Penguin Family,44_penguin_family.png,Many penguin parents take turns caring for eggs and chicks.
+45,97,B058,Emperor Penguin Family,45_emperor_penguin_family.png,Emperor penguin fathers balance eggs on their feet during winter.
+46,99,B058,Albatross Family,46_albatross_family.png,Albatross parents may travel long distances to bring food back to their chicks.
+47,101,B058,Owl Family,47_owl_family.png,Owlets stay in the nest while their parents bring food.
+48,103,B058,Eagle Family,48_eagle_family.png,Eaglets grow quickly and practice flapping before their first flight.
+49,105,B058,Duck Family,49_duck_family.png,Ducklings can follow their mother soon after hatching.
+50,107,B058,Goose Family,50_goose_family.png,Goslings can walk and swim shortly after hatching.
+51,109,B058,Chicken Family,51_chicken_family.png,Chicks communicate with their mother even before hatching.
+52,111,B058,Crocodile Family,52_crocodile_family.png,Mother crocodiles may carry hatchlings gently in their mouths.
+53,113,B058,Alligator Family,53_alligator_family.png,Female alligators guard nests and help protect hatchlings.
+54,115,B058,Sea Turtle Family,54_sea_turtle_family.png,Sea turtle hatchlings dig out of sandy nests and head toward the sea.
+55,117,B058,Frog Family,55_frog_family.png,Frog eggs hatch into tadpoles before changing into frogs.
+56,119,B058,Seahorse Family,56_seahorse_family.png,Male seahorses carry developing babies in a special pouch.
+57,121,B058,Octopus Family,57_octopus_family.png,Female octopuses guard their eggs until they hatch.
+58,123,B058,Clownfish Family,58_clownfish_family.png,Clownfish parents clean and guard their eggs.
+59,125,B058,Elephant Seal Family,59_elephant_seal_family.png,Elephant seal pups grow quickly by drinking rich milk.
+60,127,B058,Prairie Dog Family,60_prairie_dog_family.png,Prairie dog pups live in underground family burrows called coteries.
