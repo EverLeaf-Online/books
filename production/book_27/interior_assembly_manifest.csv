@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B053,Toco Toucan,01_toco_toucan.png,Toco toucans have huge bills that are surprisingly lightweight.
+2,11,B053,Keel-Billed Toucan,02_keel_billed_toucan.png,Keel-billed toucans have rainbow-colored bills.
+3,13,B053,Channel-Billed Toucan,03_channel_billed_toucan.png,Channel-billed toucans live in tropical forests of South America.
+4,15,B053,Scarlet Macaw,04_scarlet_macaw.png,Scarlet macaws use strong curved beaks to crack nuts and seeds.
+5,17,B053,Blue-and-Yellow Macaw,05_blue_and_yellow_macaw.png,Blue-and-yellow macaws are large social parrots.
+6,19,B053,Green-Winged Macaw,06_green_winged_macaw.png,Green-winged macaws have red bodies with green-and-blue wings.
+7,21,B053,Hyacinth Macaw,07_hyacinth_macaw.png,Hyacinth macaws are the largest flying parrots by length.
+8,23,B053,Military Macaw,08_military_macaw.png,Military macaws are mostly green with colorful wing feathers.
+9,25,B053,Great Green Macaw,09_great_green_macaw.png,Great green macaws depend on tropical forests with large old trees.
+10,27,B053,African Grey Parrot,10_african_grey_parrot.png,African grey parrots are famous for copying sounds.
+11,29,B053,Yellow-Headed Amazon,11_yellow_headed_amazon.png,Amazon parrots are strong-flying birds with powerful voices.
+12,31,B053,Eclectus Parrot,12_eclectus_parrot.png,Male and female eclectus parrots have dramatically different colors.
+13,33,B053,Sun Conure,13_sun_conure.png,Sun conures are small parrots with bright yellow and orange feathers.
+14,35,B053,Green-Cheeked Conure,14_green_cheeked_conure.png,Green-cheeked conures are playful parrots with long tails.
+15,37,B053,Rainbow Lorikeet,15_rainbow_lorikeet.png,Lorikeets use brush-tipped tongues to drink nectar.
+16,39,B053,Red Lory,16_red_lory.png,Red lories are nectar-feeding parrots from tropical islands.
+17,41,B053,Palm Cockatoo,17_palm_cockatoo.png,Palm cockatoos have huge bills and tall crests.
+18,43,B053,Sulphur-Crested Cockatoo,18_sulphur_crested_cockatoo.png,Cockatoos can raise and lower their crests.
+19,45,B053,Pesquet's Parrot,19_pesquets_parrot.png,Pesquet's parrots have dark feathers and bright red bellies.
+20,47,B053,Great Hornbill,20_great_hornbill.png,Great hornbills have large bills topped by a casque.
+21,49,B053,Rhinoceros Hornbill,21_rhinoceros_hornbill.png,Rhinoceros hornbills have large upcurved casques on their bills.
+22,51,B053,Helmeted Hornbill,22_helmeted_hornbill.png,Helmeted hornbills have unusually solid casques.
+23,53,B053,Wreathed Hornbill,23_wreathed_hornbill.png,Wreathed hornbills live in forests across parts of Southeast Asia.
+24,55,B053,Southern Ground Hornbill,24_southern_ground_hornbill.png,Ground hornbills spend much of their time walking on the forest floor.
+25,57,B053,Resplendent Quetzal,25_resplendent_quetzal.png,Resplendent quetzals have brilliant green plumage and long tail feathers.
+26,59,B053,Golden-Headed Quetzal,26_golden_headed_quetzal.png,Quetzals are fruit-eating birds of Central and South American forests.
+27,61,B053,Andean Cock-of-the-Rock,27_andean_cock_of_the_rock.png,Males gather at display areas to show bright orange plumage.
+28,63,B053,Guianan Cock-of-the-Rock,28_guianan_cock_of_the_rock.png,These birds nest near rocky forest cliffs and caves.
+29,65,B053,King Bird-of-Paradise,29_king_bird_of_paradise.png,Male king birds-of-paradise have elaborate display feathers.
+30,67,B053,Raggiana Bird-of-Paradise,30_raggiana_bird_of_paradise.png,Birds-of-paradise are famous for spectacular courtship displays.
+31,69,B054,Wilson's Bird-of-Paradise,31_wilsons_bird_of_paradise.png,Males have vivid colors and curly tail feathers.
+32,71,B054,Blue Bird-of-Paradise,32_blue_bird_of_paradise.png,This species has shimmering blue and black feathers.
+33,73,B054,Victoria's Riflebird,33_victorias_riflebird.png,Male riflebirds spread dark glossy wings during courtship displays.
+34,75,B054,Bowerbird,34_bowerbird.png,Male bowerbirds build decorated display structures called bowers.
+35,77,B054,Harpy Eagle,35_harpy_eagle.png,Harpy eagles are powerful rainforest raptors with huge talons.
+36,79,B054,Crested Eagle,36_crested_eagle.png,Crested eagles hunt in tropical forests of Central and South America.
+37,81,B054,Ornate Hawk-Eagle,37_ornate_hawk_eagle.png,Ornate hawk-eagles have striking crests and patterned plumage.
+38,83,B054,Black-and-White Hawk-Eagle,38_black_and_white_hawk_eagle.png,These forest raptors have contrasting black-and-white feathers.
+39,85,B054,Great Potoo,39_great_potoo.png,Potoos use bark-like camouflage while resting on branches.
+40,87,B054,Oilbird,40_oilbird.png,Oilbirds navigate dark caves with simple echolocation clicks.
+41,89,B054,Hoatzin,41_hoatzin.png,Hoatzin chicks have claws on their wings when young.
+42,91,B054,Sunbittern,42_sunbittern.png,Sunbitterns can spread wings to reveal large eye-like patterns.
+43,93,B054,Amazon Kingfisher,43_amazon_kingfisher.png,Amazon kingfishers dive into rivers to catch fish.
+44,95,B054,Green Kingfisher,44_green_kingfisher.png,Green kingfishers perch low over tropical streams.
+45,97,B054,Rufous-Tailed Jacamar,45_rufous_tailed_jacamar.png,Jacamars catch flying insects from exposed perches.
+46,99,B054,Blue-Crowned Motmot,46_blue_crowned_motmot.png,Motmots have long tails with racket-shaped feather tips.
+47,101,B054,Turquoise-Browed Motmot,47_turquoise_browed_motmot.png,This motmot has bright turquoise markings over its eyes.
+48,103,B054,Collared Aracari,48_collared_aracari.png,Aracaris are smaller relatives of toucans.
+49,105,B054,Curl-Crested Aracari,49_curl_crested_aracari.png,This aracari has unusual curled feathers on top of its head.
+50,107,B054,Red-Legged Honeycreeper,50_red_legged_honeycreeper.png,Honeycreepers are small tropical birds that feed on fruit and nectar.
+51,109,B054,Green Honeycreeper,51_green_honeycreeper.png,Green honeycreepers have slender bills for fruit and nectar.
+52,111,B054,Purple Honeycreeper,52_purple_honeycreeper.png,Males have vivid purple-blue feathers and yellow legs.
+53,113,B054,Scarlet Tanager,53_scarlet_tanager.png,Scarlet tanagers migrate between North America and tropical forests.
+54,115,B054,Paradise Tanager,54_paradise_tanager.png,Paradise tanagers have several bright colors across their bodies.
+55,117,B054,Blue-Gray Tanager,55_blue_gray_tanager.png,Blue-gray tanagers are common in tropical woodland and gardens.
+56,119,B054,Violet-Crowned Woodnymph,56_violet_crowned_woodnymph.png,This hummingbird has shimmering violet and green plumage.
+57,121,B054,Long-Tailed Sylph,57_long_tailed_sylph.png,Long-tailed sylph hummingbirds have dramatic flowing tail feathers.
+58,123,B054,Sword-Billed Hummingbird,58_sword_billed_hummingbird.png,Sword-billed hummingbirds have bills longer than their bodies.
+59,125,B054,Booted Racket-Tail,59_booted_racket_tail.png,Racket-tail hummingbirds have unusual tail feathers with paddle-shaped tips.
+60,127,B054,Fiery-Throated Hummingbird,60_fiery_throated_hummingbird.png,This hummingbird shows brilliant rainbow colors when light hits its feathers.
