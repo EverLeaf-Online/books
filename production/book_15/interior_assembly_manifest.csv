@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B029,Arabian,01_arabian.png,Arabian horses are known for endurance and a distinctive dished face.
+2,11,B029,Thoroughbred,02_thoroughbred.png,Thoroughbreds are athletic horses famous for racing speed.
+3,13,B029,American Quarter Horse,03_american_quarter_horse.png,Quarter horses are powerful sprinters and versatile ranch horses.
+4,15,B029,Appaloosa,04_appaloosa.png,Appaloosas are known for spotted coat patterns and striped hooves.
+5,17,B029,Paint Horse,05_paint_horse.png,American Paint Horses have large patches of white and darker color.
+6,19,B029,Mustang,06_mustang.png,Mustangs are free-roaming horses descended from domestic horses brought to the Americas.
+7,21,B029,Clydesdale,07_clydesdale.png,Clydesdales are large draft horses with feathering around their lower legs.
+8,23,B029,Percheron,08_percheron.png,Percherons are strong draft horses that originated in France.
+9,25,B029,Belgian Draft Horse,09_belgian_draft_horse.png,Belgian draft horses are among the strongest heavy horse breeds.
+10,27,B029,Shire,10_shire.png,Shires are very tall draft horses developed in Britain.
+11,29,B029,Friesian,11_friesian.png,"Friesians are known for black coats, flowing manes, and feathered legs."
+12,31,B029,Andalusian,12_andalusian.png,Andalusians are elegant Spanish horses known for agility and collected movement.
+13,33,B029,Lipizzaner,13_lipizzaner.png,Lipizzaners are famous for classical dressage and often turn gray as they mature.
+14,35,B029,Morgan,14_morgan.png,"Morgan horses are compact, versatile American horses."
+15,37,B029,Tennessee Walking Horse,15_tennessee_walking_horse.png,Tennessee walking horses are known for a smooth running-walk gait.
+16,39,B029,Standardbred,16_standardbred.png,Standardbreds are best known for harness racing at the trot or pace.
+17,41,B029,American Saddlebred,17_american_saddlebred.png,American saddlebreds are elegant show horses known for high-stepping action.
+18,43,B029,Missouri Fox Trotter,18_missouri_fox_trotter.png,Missouri fox trotters are known for a smooth four-beat gait.
+19,45,B029,Paso Fino,19_paso_fino.png,"Paso finos are famous for naturally smooth, rapid four-beat gaits."
+20,47,B029,Icelandic Horse,20_icelandic_horse.png,Icelandic horses are small sturdy horses that can perform a special gait called the tölt.
+21,49,B029,Fjord Horse,21_fjord_horse.png,Norwegian fjord horses are strong small horses with upright two-toned manes.
+22,51,B029,Haflinger,22_haflinger.png,Haflingers are compact mountain horses with chestnut coats and pale manes.
+23,53,B029,Gypsy Vanner,23_gypsy_vanner.png,Gypsy Vanners are cob-type horses known for heavy leg feathering and flowing manes.
+24,55,B029,Connemara Pony,24_connemara_pony.png,Connemara ponies are athletic Irish ponies known for jumping ability.
+25,57,B029,Welsh Pony,25_welsh_pony.png,"Welsh ponies are hardy, energetic ponies from Wales."
+26,59,B029,Shetland Pony,26_shetland_pony.png,"Shetland ponies are small, strong ponies from Scotland's Shetland Islands."
+27,61,B029,Dartmoor Pony,27_dartmoor_pony.png,Dartmoor ponies are hardy native ponies from southwest England.
+28,63,B029,Exmoor Pony,28_exmoor_pony.png,Exmoor ponies are an ancient British breed adapted to rough moorland.
+29,65,B029,New Forest Pony,29_new_forest_pony.png,New Forest ponies are versatile British ponies that live semi-wild in the New Forest.
+30,67,B029,Fell Pony,30_fell_pony.png,Fell ponies are sturdy British ponies historically used as pack animals.
+31,69,B030,Dales Pony,31_dales_pony.png,Dales ponies are strong northern English ponies with thick manes and tails.
+32,71,B030,Highland Pony,32_highland_pony.png,Highland ponies are hardy Scottish ponies built for rough terrain and cold weather.
+33,73,B030,Miniature Horse,33_miniature_horse.png,Miniature horses are selectively bred to be very small while keeping horse-like proportions.
+34,75,B030,Falabella,34_falabella.png,Falabellas are one of the smallest horse breeds in the world.
+35,77,B030,Akhal-Teke,35_akhal_teke.png,Akhal-Tekes are slender horses from Central Asia known for metallic-looking coats.
+36,79,B030,Marwari,36_marwari.png,Marwari horses from India are known for inward-curving ear tips.
+37,81,B030,Kathiawari,37_kathiawari.png,Kathiawari horses from India also have distinctive curved ears.
+38,83,B030,Criollo,38_criollo.png,Criollo horses of South America are known for toughness and endurance.
+39,85,B030,Mangalarga Marchador,39_mangalarga_marchador.png,Mangalarga Marchadors are Brazilian gaited horses known for smooth travel.
+40,87,B030,Peruvian Paso,40_peruvian_paso.png,Peruvian Pasos are naturally gaited horses with a smooth ride.
+41,89,B030,American Bashkir Curly,41_american_bashkir_curly.png,American Bashkir Curly horses are known for naturally curly winter coats.
+42,91,B030,Rocky Mountain Horse,42_rocky_mountain_horse.png,Rocky Mountain horses are gaited horses often seen with chocolate coats and flaxen manes.
+43,93,B030,Kentucky Mountain Saddle Horse,43_kentucky_mountain_saddle_horse.png,Kentucky Mountain Saddle Horses are calm gaited horses developed for mountain travel.
+44,95,B030,Canadian Horse,44_canadian_horse.png,"Canadian horses are hardy, strong horses developed in Canada."
+45,97,B030,Dutch Warmblood,45_dutch_warmblood.png,Dutch warmbloods are athletic sport horses often used in jumping and dressage.
+46,99,B030,Hanoverian,46_hanoverian.png,Hanoverians are German warmbloods known for success in sport horse events.
+47,101,B030,Holsteiner,47_holsteiner.png,Holsteiners are German sport horses especially known for jumping.
+48,103,B030,Oldenburg,48_oldenburg.png,Oldenburgs are powerful German warmbloods bred for riding sports.
+49,105,B030,Trakehner,49_trakehner.png,Trakehners are refined warmblood horses known for athleticism and endurance.
+50,107,B030,Selle Français,50_selle_francais.png,Selle Français horses are French sport horses famous for jumping ability.
+51,109,B030,Irish Sport Horse,51_irish_sport_horse.png,Irish sport horses are versatile athletes often used in eventing and jumping.
+52,111,B030,Irish Draught,52_irish_draught.png,"Irish Draught horses are strong, sensible horses developed for farm and riding work."
+53,113,B030,Cleveland Bay,53_cleveland_bay.png,Cleveland Bays are an old British breed known for solid bay coloring.
+54,115,B030,Suffolk Punch,54_suffolk_punch.png,Suffolk Punch horses are chestnut draft horses developed for farm work.
+55,117,B030,American Cream Draft,55_american_cream_draft.png,American Cream Draft horses are known for cream coats and amber eyes.
+56,119,B030,Noriker,56_noriker.png,Noriker horses are sturdy Alpine draft horses that can have spotted coats.
+57,121,B030,Comtois,57_comtois.png,Comtois horses are compact French draft horses from mountain regions.
+58,123,B030,Ardennes,58_ardennes.png,Ardennes horses are powerful draft horses from the Ardennes region of Europe.
+59,125,B030,Breton,59_breton.png,Breton horses are strong French draft horses with compact builds.
+60,127,B030,Hackney Horse,60_hackney_horse.png,Hackney horses are known for stylish high-stepping movement in harness.
