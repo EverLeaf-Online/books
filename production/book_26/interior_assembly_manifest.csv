@@ -5,10 +5,10 @@ number,interior_page,batch,subject,expected_filename,fact
 4,15,B051,Giant Panda,04_giant_panda.png,Giant pandas spend many hours each day eating bamboo.
 5,17,B051,Fennec Fox,05_fennec_fox.png,Fennec foxes have enormous ears that help release body heat.
 6,19,B051,Arctic Fox,06_arctic_fox.png,Arctic foxes grow thick coats for freezing climates.
-7,21,B051,Pika,07_pika.png,Pikas are small mountain mammals that gather plants for winter.
+7,21,B051,American Pika,07_american_pika.png,American pikas gather grasses and flowers into haypiles for later eating.
 8,23,B051,Hedgehog,08_hedgehog.png,Hedgehogs can curl into tight balls for protection.
-9,25,B051,Rabbit,09_rabbit.png,Rabbits have powerful hind legs for hopping.
-10,27,B051,Dwarf Rabbit,10_dwarf_rabbit.png,Small pet rabbits still have the same strong hind legs as larger rabbits.
+9,25,B051,Eastern Cottontail,09_eastern_cottontail.png,Eastern cottontails are named for the fluffy white underside of their tails.
+10,27,B051,Netherland Dwarf Rabbit,10_netherland_dwarf_rabbit.png,Netherland Dwarf rabbits are a very small domestic rabbit breed with compact bodies and short upright ears.
 11,29,B051,Guinea Pig,11_guinea_pig.png,"Guinea pigs communicate with squeaks, whistles, and purr-like sounds."
 12,31,B051,Hamster,12_hamster.png,Hamsters use cheek pouches to carry food.
 13,33,B051,Chinchilla,13_chinchilla.png,Chinchillas have extremely dense soft fur.
@@ -16,9 +16,9 @@ number,interior_page,batch,subject,expected_filename,fact
 15,37,B051,Flying Squirrel,15_flying_squirrel.png,Flying squirrels glide through forests at night.
 16,39,B051,Chipmunk,16_chipmunk.png,Chipmunks have stretchy cheek pouches for carrying seeds.
 17,41,B051,Sea Otter,17_sea_otter.png,Sea otters sometimes hold hands while resting in groups at the surface.
-18,43,B051,River Otter,18_river_otter.png,River otters are playful swimmers with streamlined bodies.
+18,43,B051,North American River Otter,18_north_american_river_otter.png,North American river otters have streamlined bodies and strong tails that help them swim.
 19,45,B051,Meerkat,19_meerkat.png,Meerkats often take turns standing watch.
-20,47,B051,Sloth,20_sloth.png,Sloths move slowly and spend much of their lives in trees.
+20,47,B051,Brown-Throated Three-Toed Sloth,20_brown_throated_three_toed_sloth.png,Brown-throated three-toed sloths spend much of their lives hanging and moving slowly through trees.
 21,49,B051,Capybara,21_capybara.png,Capybaras are the world's largest living rodents.
 22,51,B051,Pygmy Marmoset,22_pygmy_marmoset.png,Pygmy marmosets are among the smallest monkeys.
 23,53,B051,Tarsier,23_tarsier.png,Tarsiers have enormous eyes adapted for low light.
@@ -39,8 +39,8 @@ number,interior_page,batch,subject,expected_filename,fact
 38,83,B052,Lovebird,38_lovebird.png,Lovebirds are small social parrots.
 39,85,B052,Budgerigar,39_budgerigar.png,Budgies are small parrots that can learn sounds.
 40,87,B052,Cockatiel,40_cockatiel.png,Cockatiels raise and lower the crests on their heads.
-41,89,B052,Hummingbird,41_hummingbird.png,Hummingbirds can hover in place while feeding.
-42,91,B052,Bluebird,42_bluebird.png,Bluebirds often nest in tree cavities or nest boxes.
+41,89,B052,Ruby-Throated Hummingbird,41_ruby_throated_hummingbird.png,Ruby-throated hummingbirds can hover in place while feeding from flowers.
+42,91,B052,Eastern Bluebird,42_eastern_bluebird.png,Eastern bluebirds often nest in tree cavities or nest boxes.
 43,93,B052,Barn Owl,43_barn_owl.png,Barn owls have heart-shaped faces.
 44,95,B052,Axolotl,44_axolotl.png,Axolotls keep feathery external gills as adults.
 45,97,B052,Red-Eyed Tree Frog,45_red_eyed_tree_frog.png,Red-eyed tree frogs have sticky toe pads for climbing.
