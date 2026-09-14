@@ -1,8 +1,8 @@
 Batch ID,Book #,Book,Part,Illustrations,Animal Range,Interior Page Range,Priority,Status,Prompt Pack,Output Folder,Notes
 B001,1,Animal Coloring Book for Kids Ages 4-8,1,30,Red Panda -> Chameleon,9-67,HIGH - Book 1 replacement,Queued,B001_Book_01_Part_1_Prompts.txt,artwork/book_01/b001,Replace current Book 1 shortcut-derived art.
 B002,1,Animal Coloring Book for Kids Ages 4-8,2,30,Cow -> Mountain Goat,69-127,HIGH - Book 1 replacement,Queued,B002_Book_01_Part_2_Prompts.txt,artwork/book_01/b002,Replace current Book 1 shortcut-derived art.
-B003,2,Ocean Animals Coloring Book for Kids Ages 4-8,1,30,Bottlenose Dolphin -> Blue Tang,9-67,HIGH - first release wave,Queued,B003_Book_02_Part_1_Prompts.txt,artwork/book_02/b003,
-B004,2,Ocean Animals Coloring Book for Kids Ages 4-8,2,30,Angelfish -> Albatross,69-127,HIGH - first release wave,Queued,B004_Book_02_Part_2_Prompts.txt,artwork/book_02/b004,
+B003,2,Ocean Animals Coloring Book for Kids Ages 4-8,1,30,Bottlenose Dolphin -> Blue Tang,9-67,HIGH - first release wave,Queued,B003_book_02_ocean_01-30.txt,production/artwork-workspace/book_02/B003,
+B004,2,Ocean Animals Coloring Book for Kids Ages 4-8,2,30,Angelfish -> Albatross,69-127,HIGH - first release wave,Queued,B004_book_02_ocean_31-60.txt,production/artwork-workspace/book_02/B004,
 B005,3,Farm Animals Coloring Book for Kids Ages 4-8,1,30,Cow -> Water Buffalo,9-67,Normal,Queued,B005_book_03_farm_01-30.txt,production/artwork-workspace/book_03/B005,
 B006,3,Farm Animals Coloring Book for Kids Ages 4-8,2,30,Guinea Fowl -> Barn Swallow,69-127,Normal,Queued,B006_book_03_farm_31-60.txt,production/artwork-workspace/book_03/B006,
 B007,4,Jungle Animals Coloring Book for Kids Ages 4-8,1,30,Tiger -> Poison Dart Frog,9-67,Normal,Queued,B007_book_04_jungle_01-30.txt,production/artwork-workspace/book_04/B007,
