@@ -5,7 +5,7 @@ Original black-and-white children's coloring-book line art for ages 4–8. Portr
 
 01 — Great White Shark: powerful great white swimming through open ocean, triangular dorsal fin, gill slits, simple fish and bubbles.
 02 — Whale Shark: huge spotted whale shark gliding near surface, broad head, small fish, sun rays, bubbles.
-03 — Hammerhead Shark: hammerhead cruising above reef, wide hammer-shaped head, coral shapes, fish, bubbles.
+03 — Great Hammerhead Shark: great hammerhead cruising above reef, very wide nearly straight hammer-shaped head with central notch, tall first dorsal fin, coral shapes, fish, bubbles.
 04 — Tiger Shark: tiger shark over sandy seafloor, broad body, subtle stripe pattern in linework, shells and sea grass.
 05 — Bull Shark: bull shark swimming in river-mouth estuary, sturdy body, mangrove roots, fish, ripples.
 06 — Nurse Shark: nurse shark resting on sandy reef bottom, rounded barbels, coral rocks, starfish.
@@ -26,7 +26,7 @@ Original black-and-white children's coloring-book line art for ages 4–8. Portr
 21 — Horn Shark: horn shark near rocky reef, short blunt head, dorsal spines, kelp and stones.
 22 — Angel Shark: flattened angel shark partly resting on sand, broad pectoral fins, shells and sea grass.
 23 — Sawshark: sawshark with long toothed snout, swimming above sandy bottom, small fish and rocks.
-24 — Dogfish Shark: small dogfish shark swimming with a few companions, simple kelp, rocks, bubbles.
+24 — Spiny Dogfish: small spiny dogfish swimming over cool coastal seafloor, slender body, clear spine before each dorsal fin, a few companions, kelp, rocks, bubbles.
 25 — Bonnethead Shark: bonnethead with shovel-shaped head cruising in shallow seagrass bed.
 26 — Silky Shark: sleek silky shark in bluewater scene, long fins, small tuna-like fish, bubbles.
 27 — Oceanic Whitetip Shark: broad-finned oceanic whitetip in open sea, rounded pectoral fins, pilot fish nearby.
