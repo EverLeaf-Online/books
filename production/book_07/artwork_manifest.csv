@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,status,qa_status
+1,9,B013,Polar Bear,01_polar_bear.png,Queued,Not Reviewed
+2,11,B013,Arctic Fox,02_arctic_fox.png,Queued,Not Reviewed
+3,13,B013,Arctic Wolf,03_arctic_wolf.png,Queued,Not Reviewed
+4,15,B013,Reindeer,04_reindeer.png,Queued,Not Reviewed
+5,17,B013,Musk Ox,05_musk_ox.png,Queued,Not Reviewed
+6,19,B013,Arctic Hare,06_arctic_hare.png,Queued,Not Reviewed
+7,21,B013,Lemming,07_lemming.png,Queued,Not Reviewed
+8,23,B013,Wolverine,08_wolverine.png,Queued,Not Reviewed
+9,25,B013,Ermine,09_ermine.png,Queued,Not Reviewed
+10,27,B013,Snowy Owl,10_snowy_owl.png,Queued,Not Reviewed
+11,29,B013,Rock Ptarmigan,11_rock_ptarmigan.png,Queued,Not Reviewed
+12,31,B013,Gyrfalcon,12_gyrfalcon.png,Queued,Not Reviewed
+13,33,B013,Atlantic Puffin,13_atlantic_puffin.png,Queued,Not Reviewed
+14,35,B013,Guillemot,14_guillemot.png,Queued,Not Reviewed
+15,37,B013,Arctic Tern,15_arctic_tern.png,Queued,Not Reviewed
+16,39,B013,Ivory Gull,16_ivory_gull.png,Queued,Not Reviewed
+17,41,B013,Walrus,17_walrus.png,Queued,Not Reviewed
+18,43,B013,Ringed Seal,18_ringed_seal.png,Queued,Not Reviewed
+19,45,B013,Harp Seal,19_harp_seal.png,Queued,Not Reviewed
+20,47,B013,Bearded Seal,20_bearded_seal.png,Queued,Not Reviewed
+21,49,B013,Hooded Seal,21_hooded_seal.png,Queued,Not Reviewed
+22,51,B013,Northern Elephant Seal,22_northern_elephant_seal.png,Queued,Not Reviewed
+23,53,B013,Antarctic Fur Seal,23_antarctic_fur_seal.png,Queued,Not Reviewed
+24,55,B013,Narwhal,24_narwhal.png,Queued,Not Reviewed
+25,57,B013,Beluga Whale,25_beluga_whale.png,Queued,Not Reviewed
+26,59,B013,Bowhead Whale,26_bowhead_whale.png,Queued,Not Reviewed
+27,61,B013,Humpback Whale,27_humpback_whale.png,Queued,Not Reviewed
+28,63,B013,Orca,28_orca.png,Queued,Not Reviewed
+29,65,B013,Blue Whale,29_blue_whale.png,Queued,Not Reviewed
+30,67,B013,Minke Whale,30_minke_whale.png,Queued,Not Reviewed
+31,69,B014,Greenland Shark,31_greenland_shark.png,Queued,Not Reviewed
+32,71,B014,Arctic Char,32_arctic_char.png,Queued,Not Reviewed
+33,73,B014,Polar Cod,33_polar_cod.png,Queued,Not Reviewed
+34,75,B014,Antarctic Krill,34_antarctic_krill.png,Queued,Not Reviewed
+35,77,B014,Emperor Penguin,35_emperor_penguin.png,Queued,Not Reviewed
+36,79,B014,Adelie Penguin,36_adelie_penguin.png,Queued,Not Reviewed
+37,81,B014,Chinstrap Penguin,37_chinstrap_penguin.png,Queued,Not Reviewed
+38,83,B014,Gentoo Penguin,38_gentoo_penguin.png,Queued,Not Reviewed
+39,85,B014,Macaroni Penguin,39_macaroni_penguin.png,Queued,Not Reviewed
+40,87,B014,King Penguin,40_king_penguin.png,Queued,Not Reviewed
+41,89,B014,Rockhopper Penguin,41_rockhopper_penguin.png,Queued,Not Reviewed
+42,91,B014,Leopard Seal,42_leopard_seal.png,Queued,Not Reviewed
+43,93,B014,Weddell Seal,43_weddell_seal.png,Queued,Not Reviewed
+44,95,B014,Crabeater Seal,44_crabeater_seal.png,Queued,Not Reviewed
+45,97,B014,Snow Petrel,45_snow_petrel.png,Queued,Not Reviewed
+46,99,B014,Wandering Albatross,46_wandering_albatross.png,Queued,Not Reviewed
+47,101,B014,South Polar Skua,47_south_polar_skua.png,Queued,Not Reviewed
+48,103,B014,Antarctic Petrel,48_antarctic_petrel.png,Queued,Not Reviewed
+49,105,B014,Arctic Bumblebee,49_arctic_bumblebee.png,Queued,Not Reviewed
+50,107,B014,Polar Bear Moth,50_polar_bear_moth.png,Queued,Not Reviewed
+51,109,B014,Arctic Ground Squirrel,51_arctic_ground_squirrel.png,Queued,Not Reviewed
+52,111,B014,Peary Caribou,52_peary_caribou.png,Queued,Not Reviewed
+53,113,B014,Dall Sheep,53_dall_sheep.png,Queued,Not Reviewed
+54,115,B014,King Eider,54_king_eider.png,Queued,Not Reviewed
+55,117,B014,Common Eider,55_common_eider.png,Queued,Not Reviewed
+56,119,B014,Snow Goose,56_snow_goose.png,Queued,Not Reviewed
+57,121,B014,Colossal Squid,57_colossal_squid.png,Queued,Not Reviewed
+58,123,B014,Antarctic Toothfish,58_antarctic_toothfish.png,Queued,Not Reviewed
+59,125,B014,Snowy Sheathbill,59_snowy_sheathbill.png,Queued,Not Reviewed
+60,127,B014,Antarctic Midge,60_antarctic_midge.png,Queued,Not Reviewed
