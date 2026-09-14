@@ -11,12 +11,12 @@ Original black-and-white children's coloring-book line art for ages 4–8. Portr
 36 — Blue-Spotted Ribbontail Ray: compact ray with bright-spot pattern represented as open circles, reef rocks and coral.
 37 — Cownose Ray: cownose ray swimming with two companions in open water, distinctive forehead lobes, bubbles.
 38 — Bat Ray: bat ray over clam-filled sandy seafloor, broad pointed fins, shells, kelp.
-39 — Electric Ray: rounded electric ray resting on sand, thick tail, small fish, sea grass, simple wave patterns.
-40 — Butterfly Ray: butterfly ray with extremely broad wing-like disc, very short tail, sandy lagoon habitat.
-41 — Guitarfish: guitarfish showing flattened ray-like front and shark-like tail, sandy bottom, shells and coral rubble.
-42 — Shovelnose Ray: long narrow shovelnose ray over shallow seafloor, pointed snout, sea grass and stones.
-43 — Sawfish: sawfish swimming above river-estuary bottom, long toothed rostrum, mangrove roots and fish.
-44 — Skate: skate gliding over cool seafloor, broad diamond body, one mermaid's-purse egg case nearby.
+39 — Pacific Electric Ray: rounded Pacific electric ray resting on sandy seafloor, thick tail, small fish, sea grass, simple wave patterns.
+40 — Smooth Butterfly Ray: smooth butterfly ray with extremely broad wing-like disc and very short tail, sandy lagoon habitat.
+41 — Common Guitarfish: common guitarfish showing flattened ray-like front and shark-like tail, sandy bottom, shells and coral rubble.
+42 — Shovelnose Guitarfish: long narrow shovelnose guitarfish over shallow seafloor, pointed snout, sea grass and stones.
+43 — Smalltooth Sawfish: smalltooth sawfish swimming above river-estuary bottom, long toothed rostrum, mangrove roots and fish.
+44 — Clearnose Skate: clearnose skate gliding over cool seafloor, broad diamond body, translucent-looking snout area kept as clean outline shapes, one mermaid's-purse egg case nearby.
 45 — Thornback Skate: thornback skate on rocky bottom, rough spines simplified, seaweed and shells.
 46 — Little Skate: small skate on sandy seabed, rounded diamond body, pebbles and tiny shells.
 47 — Devil Ray: devil ray gliding in open ocean, horn-like cephalic lobes, small fish, bubbles.
@@ -24,7 +24,7 @@ Original black-and-white children's coloring-book line art for ages 4–8. Portr
 49 — Pelagic Stingray: pelagic stingray swimming in open bluewater scene, long tail, few fish and bubbles.
 50 — Yellow Stingray: round yellow stingray resting in shallow reef sand, mottled spot pattern in simple outlines.
 51 — Atlantic Stingray: Atlantic stingray in brackish estuary, mangrove roots, sandy bottom, small fish.
-52 — Freshwater Stingray: freshwater stingray over riverbed, round spotted disc, river plants, pebbles.
+52 — Ocellate River Stingray: ocellate river stingray over South American riverbed, round disc with large eye-like spot pattern simplified into clean circles, river plants and pebbles.
 53 — Porcupine Ray: rough-skinned porcupine ray over sand, thorn-like bumps simplified, sea grass and shells.
 54 — Sixgill Stingray: unusual sixgill stingray gliding over deep seafloor, broad disc, simple deep-water plants.
 55 — Shark Ray: shark ray with broad flattened head and strong shark-like tail, coral reef backdrop.
