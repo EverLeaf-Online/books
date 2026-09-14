@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,status,qa_status
+1,9,B019,Bald Eagle,01_bald_eagle.png,Queued,Not Reviewed
+2,11,B019,Golden Eagle,02_golden_eagle.png,Queued,Not Reviewed
+3,13,B019,Peregrine Falcon,03_peregrine_falcon.png,Queued,Not Reviewed
+4,15,B019,Red-Tailed Hawk,04_red_tailed_hawk.png,Queued,Not Reviewed
+5,17,B019,Osprey,05_osprey.png,Queued,Not Reviewed
+6,19,B019,Barn Owl,06_barn_owl.png,Queued,Not Reviewed
+7,21,B019,Snowy Owl,07_snowy_owl.png,Queued,Not Reviewed
+8,23,B019,Great Horned Owl,08_great_horned_owl.png,Queued,Not Reviewed
+9,25,B019,Flamingo,09_flamingo.png,Queued,Not Reviewed
+10,27,B019,Peacock,10_peacock.png,Queued,Not Reviewed
+11,29,B019,Scarlet Macaw,11_scarlet_macaw.png,Queued,Not Reviewed
+12,31,B019,Blue-and-Yellow Macaw,12_blue_and_yellow_macaw.png,Queued,Not Reviewed
+13,33,B019,Toco Toucan,13_toco_toucan.png,Queued,Not Reviewed
+14,35,B019,Amazon Parrot,14_amazon_parrot.png,Queued,Not Reviewed
+15,37,B019,Cockatoo,15_cockatoo.png,Queued,Not Reviewed
+16,39,B019,African Grey Parrot,16_african_grey_parrot.png,Queued,Not Reviewed
+17,41,B019,Ruby-Throated Hummingbird,17_ruby_throated_hummingbird.png,Queued,Not Reviewed
+18,43,B019,Belted Kingfisher,18_belted_kingfisher.png,Queued,Not Reviewed
+19,45,B019,Pileated Woodpecker,19_pileated_woodpecker.png,Queued,Not Reviewed
+20,47,B019,American Robin,20_american_robin.png,Queued,Not Reviewed
+21,49,B019,Blue Jay,21_blue_jay.png,Queued,Not Reviewed
+22,51,B019,Northern Cardinal,22_northern_cardinal.png,Queued,Not Reviewed
+23,53,B019,House Sparrow,23_house_sparrow.png,Queued,Not Reviewed
+24,55,B019,American Goldfinch,24_american_goldfinch.png,Queued,Not Reviewed
+25,57,B019,Canary,25_canary.png,Queued,Not Reviewed
+26,59,B019,American Crow,26_american_crow.png,Queued,Not Reviewed
+27,61,B019,Common Raven,27_common_raven.png,Queued,Not Reviewed
+28,63,B019,Black-Billed Magpie,28_black_billed_magpie.png,Queued,Not Reviewed
+29,65,B019,Rock Pigeon,29_rock_pigeon.png,Queued,Not Reviewed
+30,67,B019,Mourning Dove,30_mourning_dove.png,Queued,Not Reviewed
+31,69,B020,Herring Gull,31_herring_gull.png,Queued,Not Reviewed
+32,71,B020,Brown Pelican,32_brown_pelican.png,Queued,Not Reviewed
+33,73,B020,Atlantic Puffin,33_atlantic_puffin.png,Queued,Not Reviewed
+34,75,B020,Wandering Albatross,34_wandering_albatross.png,Queued,Not Reviewed
+35,77,B020,Emperor Penguin,35_emperor_penguin.png,Queued,Not Reviewed
+36,79,B020,Ostrich,36_ostrich.png,Queued,Not Reviewed
+37,81,B020,Emu,37_emu.png,Queued,Not Reviewed
+38,83,B020,Southern Cassowary,38_southern_cassowary.png,Queued,Not Reviewed
+39,85,B020,Kiwi,39_kiwi.png,Queued,Not Reviewed
+40,87,B020,Wild Turkey,40_wild_turkey.png,Queued,Not Reviewed
+41,89,B020,Chicken,41_chicken.png,Queued,Not Reviewed
+42,91,B020,Mallard Duck,42_mallard_duck.png,Queued,Not Reviewed
+43,93,B020,Canada Goose,43_canada_goose.png,Queued,Not Reviewed
+44,95,B020,Mute Swan,44_mute_swan.png,Queued,Not Reviewed
+45,97,B020,Sandhill Crane,45_sandhill_crane.png,Queued,Not Reviewed
+46,99,B020,White Stork,46_white_stork.png,Queued,Not Reviewed
+47,101,B020,Great Blue Heron,47_great_blue_heron.png,Queued,Not Reviewed
+48,103,B020,Great Egret,48_great_egret.png,Queued,Not Reviewed
+49,105,B020,Scarlet Ibis,49_scarlet_ibis.png,Queued,Not Reviewed
+50,107,B020,Roseate Spoonbill,50_roseate_spoonbill.png,Queued,Not Reviewed
+51,109,B020,Great Hornbill,51_great_hornbill.png,Queued,Not Reviewed
+52,111,B020,Hoopoe,52_hoopoe.png,Queued,Not Reviewed
+53,113,B020,European Bee-Eater,53_european_bee_eater.png,Queued,Not Reviewed
+54,115,B020,Secretary Bird,54_secretary_bird.png,Queued,Not Reviewed
+55,117,B020,Laughing Kookaburra,55_laughing_kookaburra.png,Queued,Not Reviewed
+56,119,B020,Greater Roadrunner,56_greater_roadrunner.png,Queued,Not Reviewed
+57,121,B020,California Quail,57_california_quail.png,Queued,Not Reviewed
+58,123,B020,Ring-Necked Pheasant,58_ring_necked_pheasant.png,Queued,Not Reviewed
+59,125,B020,Gray Partridge,59_gray_partridge.png,Queued,Not Reviewed
+60,127,B020,Common Loon,60_common_loon.png,Queued,Not Reviewed
