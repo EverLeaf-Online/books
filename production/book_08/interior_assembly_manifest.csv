@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B015,Golden Retriever,01_golden_retriever.png,Golden retrievers were bred to gently carry game in their soft mouths.
+2,11,B015,Labrador Retriever,02_labrador_retriever.png,Labradors are strong swimmers and have water-resistant coats.
+3,13,B015,Beagle,03_beagle.png,Beagles have an excellent sense of smell and were bred to follow scent trails.
+4,15,B015,Poodle,04_poodle.png,"Poodles are highly intelligent dogs and come in standard, miniature, and toy sizes."
+5,17,B015,Dachshund,05_dachshund.png,Dachshunds have long bodies and short legs that were useful for going into burrows.
+6,19,B015,French Bulldog,06_french_bulldog.png,French bulldogs are known for their large upright ears and compact bodies.
+7,21,B015,German Shepherd,07_german_shepherd.png,German shepherds are smart working dogs often trained for many different jobs.
+8,23,B015,Border Collie,08_border_collie.png,Border collies are famous for their herding ability and quick learning.
+9,25,B015,Shih Tzu,09_shih_tzu.png,Shih tzus were bred as companion dogs and have long flowing coats.
+10,27,B015,Pug,10_pug.png,Pugs have curled tails and wrinkled faces.
+11,29,B015,Chihuahua,11_chihuahua.png,Chihuahuas are one of the smallest dog breeds in the world.
+12,31,B015,Pembroke Welsh Corgi,12_pembroke_welsh_corgi.png,Corgis were bred to herd cattle and have short legs with sturdy bodies.
+13,33,B015,Siberian Husky,13_siberian_husky.png,Huskies were bred to pull sleds across snowy landscapes.
+14,35,B015,Boxer,14_boxer.png,Boxers are energetic dogs with strong square-shaped muzzles.
+15,37,B015,Maltese,15_maltese.png,Maltese dogs are small companions known for their long white coats.
+16,39,B015,Tabby Cat,16_tabby_cat.png,"Tabby is a coat pattern, not a single cat breed."
+17,41,B015,Siamese Cat,17_siamese_cat.png,"Siamese cats often have pale bodies with darker ears, faces, paws, and tails."
+18,43,B015,Maine Coon,18_maine_coon.png,Maine coons are large cats with thick coats and bushy tails.
+19,45,B015,Persian Cat,19_persian_cat.png,Persian cats are known for long fur and round faces.
+20,47,B015,Ragdoll Cat,20_ragdoll_cat.png,Ragdolls are large gentle cats with soft coats and blue eyes.
+21,49,B015,Bengal Cat,21_bengal_cat.png,Bengal cats have spotted or marbled coats that can look a little like wild cats.
+22,51,B015,Sphynx Cat,22_sphynx_cat.png,Sphynx cats have very little fur and need help staying warm.
+23,53,B015,British Shorthair,23_british_shorthair.png,British shorthairs have dense plush coats and round faces.
+24,55,B015,Scottish Fold,24_scottish_fold.png,Scottish folds are known for ears that can fold forward.
+25,57,B015,Tuxedo Cat,25_tuxedo_cat.png,Tuxedo cats have black-and-white markings that look like a tiny suit.
+26,59,B015,Rabbit,26_rabbit.png,Pet rabbits use their powerful back legs for hopping and jumping.
+27,61,B015,Holland Lop Rabbit,27_holland_lop_rabbit.png,Holland lops are small rabbits with ears that hang down.
+28,63,B015,Guinea Pig,28_guinea_pig.png,"Guinea pigs communicate with squeaks, purrs, and whistles."
+29,65,B015,Syrian Hamster,29_syrian_hamster.png,Syrian hamsters are usually solitary and are active mostly at night.
+30,67,B015,Gerbil,30_gerbil.png,Gerbils are social burrowing rodents with long tails.
+31,69,B016,Chinchilla,31_chinchilla.png,Chinchillas have extremely dense fur that helps protect them in cool mountain climates.
+32,71,B016,Ferret,32_ferret.png,Ferrets are playful members of the weasel family.
+33,73,B016,Fancy Rat,33_fancy_rat.png,"Pet rats are intelligent, social animals that can learn simple tricks."
+34,75,B016,Fancy Mouse,34_fancy_mouse.png,Pet mice use whiskers to help explore their surroundings.
+35,77,B016,African Pygmy Hedgehog,35_african_pygmy_hedgehog.png,Pet hedgehogs can curl into a ball and raise their spines when startled.
+36,79,B016,Budgerigar,36_budgerigar.png,Budgies are small parrots that can learn sounds and simple words.
+37,81,B016,Cockatiel,37_cockatiel.png,Cockatiels use the crest on top of their heads to help show how they feel.
+38,83,B016,Lovebird,38_lovebird.png,Lovebirds are small parrots that are very social.
+39,85,B016,Canary,39_canary.png,Male canaries are well known for their songs.
+40,87,B016,Zebra Finch,40_zebra_finch.png,Zebra finches are small social birds with cheerful chirping calls.
+41,89,B016,Parrotlet,41_parrotlet.png,Parrotlets are tiny parrots with big personalities.
+42,91,B016,African Grey Parrot,42_african_grey_parrot.png,African grey parrots are famous for their ability to imitate sounds and speech.
+43,93,B016,Green-Cheeked Conure,43_green_cheeked_conure.png,Green-cheeked conures are playful small parrots with long tails.
+44,95,B016,Goldfish,44_goldfish.png,Goldfish can learn routines and recognize when it is feeding time.
+45,97,B016,Betta Fish,45_betta_fish.png,Male betta fish are known for colorful fins and can breathe air at the water's surface.
+46,99,B016,Guppy,46_guppy.png,Guppies are small colorful fish that give birth to live young.
+47,101,B016,Neon Tetra,47_neon_tetra.png,Neon tetras have a bright blue stripe that seems to glow in an aquarium.
+48,103,B016,Freshwater Angelfish,48_freshwater_angelfish.png,Freshwater angelfish have tall triangular bodies and long fins.
+49,105,B016,Corydoras Catfish,49_corydoras_catfish.png,Corydoras are peaceful bottom-dwelling fish that use whisker-like barbels to find food.
+50,107,B016,Platy,50_platy.png,Platies are small live-bearing fish that come in many colors.
+51,109,B016,Leopard Gecko,51_leopard_gecko.png,Leopard geckos store fat in their thick tails.
+52,111,B016,Crested Gecko,52_crested_gecko.png,Crested geckos have tiny eyelash-like crests above their eyes.
+53,113,B016,Bearded Dragon,53_bearded_dragon.png,Bearded dragons can puff out the spiny skin under their throats.
+54,115,B016,Corn Snake,54_corn_snake.png,Corn snakes are nonvenomous snakes that squeeze prey with their bodies.
+55,117,B016,Ball Python,55_ball_python.png,Ball pythons may curl into a tight ball when they feel threatened.
+56,119,B016,Red-Eared Slider,56_red_eared_slider.png,Red-eared sliders are turtles named for the red markings behind their eyes.
+57,121,B016,Russian Tortoise,57_russian_tortoise.png,Russian tortoises are land reptiles that like to dig burrows.
+58,123,B016,Hermit Crab,58_hermit_crab.png,Hermit crabs protect their soft abdomens by living inside empty shells.
+59,125,B016,Axolotl,59_axolotl.png,Axolotls keep feathery external gills throughout their lives.
+60,127,B016,African Dwarf Frog,60_african_dwarf_frog.png,African dwarf frogs live fully underwater and must swim to the surface to breathe.
