@@ -10,13 +10,13 @@ book,item,issue,required_action,status
 24,Cottonmouth,Former Water Moccasin label normalized,No further naming action; verify artwork matches cottonmouth anatomy,Resolved
 26,Giant Panda,Former Panda label normalized,No further naming action; verify artwork matches giant panda,Resolved
 26,Beluga Whale,Former Beluga label normalized,No further naming action; verify artwork matches beluga whale,Resolved
-26,Pika,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
-26,Rabbit,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
-26,Dwarf Rabbit,Broad pet-type label,Choose a deliberate representative or explicitly approve generic dwarf-rabbit form,Open
-26,River Otter,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
-26,Sloth,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
-26,Hummingbird,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
-26,Bluebird,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
+26,American Pika,Former broad Pika label normalized,No further naming action; verify artwork matches American pika,Resolved
+26,Eastern Cottontail,Former broad Rabbit label normalized,No further naming action; verify artwork matches eastern cottontail,Resolved
+26,Netherland Dwarf Rabbit,Former broad Dwarf Rabbit label normalized,No further naming action; verify artwork matches Netherland Dwarf rabbit breed,Resolved
+26,North American River Otter,Former broad River Otter label normalized,No further naming action; verify artwork matches North American river otter,Resolved
+26,Brown-Throated Three-Toed Sloth,Former broad Sloth label normalized,No further naming action; verify artwork matches brown-throated three-toed sloth,Resolved
+26,Ruby-Throated Hummingbird,Former broad Hummingbird label normalized,No further naming action; verify artwork matches ruby-throated hummingbird,Resolved
+26,Eastern Bluebird,Former broad Bluebird label normalized,No further naming action; verify artwork matches eastern bluebird,Resolved
 27,Vogelkop Bowerbird,Former broad Bowerbird label normalized,No further naming action; verify artwork matches Vogelkop bowerbird and bower design,Resolved
 28,Shortfin Mako Shark,Former Mako Shark label normalized,No further naming action; verify artwork matches shortfin mako anatomy,Resolved
 28,Hammerhead Shark,Broad common label,Choose a deliberate hammerhead species or explicitly approve generic representative,Open
