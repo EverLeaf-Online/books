@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B039,Amur Leopard,01_amur_leopard.png,Amur leopards have thick coats that help them survive cold winters.
+2,11,B039,Javan Rhino,02_javan_rhino.png,Javan rhinos have a single horn and live in dense tropical forest.
+3,13,B039,Sumatran Rhino,03_sumatran_rhino.png,Sumatran rhinos are the smallest living rhinoceroses and are covered with sparse hair.
+4,15,B039,Black Rhino,04_black_rhino.png,Black rhinos use a pointed upper lip to pull leaves and twigs from plants.
+5,17,B039,White Rhino,05_white_rhino.png,White rhinos have broad square lips that are well suited for grazing on grass.
+6,19,B039,African Forest Elephant,06_african_forest_elephant.png,African forest elephants have straighter tusks and rounder ears than savanna elephants.
+7,21,B039,African Savanna Elephant,07_african_savanna_elephant.png,African savanna elephants are the largest land animals alive today.
+8,23,B039,Asian Elephant,08_asian_elephant.png,Asian elephants have smaller ears than African elephants and a single finger-like tip on the trunk.
+9,25,B039,Sumatran Elephant,09_sumatran_elephant.png,Sumatran elephants live on the Indonesian island of Sumatra.
+10,27,B039,Mountain Gorilla,10_mountain_gorilla.png,Mountain gorillas have thick fur that helps keep them warm in cool mountain forests.
+11,29,B039,Cross River Gorilla,11_cross_river_gorilla.png,Cross River gorillas live in forested mountains along the Nigeria-Cameroon border.
+12,31,B039,Western Lowland Gorilla,12_western_lowland_gorilla.png,"Western lowland gorillas eat fruit, leaves, stems, and other plant foods."
+13,33,B039,Bornean Orangutan,13_bornean_orangutan.png,Bornean orangutans spend much of their time in trees and use very long arms for climbing.
+14,35,B039,Sumatran Orangutan,14_sumatran_orangutan.png,Sumatran orangutans build leafy sleeping nests high in trees.
+15,37,B039,Tapanuli Orangutan,15_tapanuli_orangutan.png,Tapanuli orangutans live in a small forest region on the island of Sumatra.
+16,39,B039,Bonobo,16_bonobo.png,Bonobos live only in the Democratic Republic of the Congo and are closely related to chimpanzees.
+17,41,B039,Chimpanzee,17_chimpanzee.png,Chimpanzees can use sticks and other simple tools to find food.
+18,43,B039,Golden Lion Tamarin,18_golden_lion_tamarin.png,Golden lion tamarins have bright golden-orange fur and live in Brazil's Atlantic Forest.
+19,45,B039,Cotton-Top Tamarin,19_cotton_top_tamarin.png,Cotton-top tamarins have a distinctive crest of long white hair on their heads.
+20,47,B039,Philippine Tarsier,20_philippine_tarsier.png,Philippine tarsiers have huge eyes that help them hunt insects at night.
+21,49,B039,Red Panda,21_red_panda.png,Red pandas use bushy tails for balance and to help keep warm.
+22,51,B039,Giant Panda,22_giant_panda.png,Giant pandas use strong jaws and wrist bones adapted like thumbs to hold bamboo.
+23,53,B039,Snow Leopard,23_snow_leopard.png,Snow leopards have long thick tails that help them balance on steep rocky slopes.
+24,55,B039,Tiger,24_tiger.png,Tigers have striped coats and no two stripe patterns are exactly alike.
+25,57,B039,Sumatran Tiger,25_sumatran_tiger.png,Sumatran tigers are smaller than many mainland tiger populations and live on Sumatra.
+26,59,B039,Malayan Tiger,26_malayan_tiger.png,Malayan tigers live in tropical forests on the Malay Peninsula.
+27,61,B039,Iberian Lynx,27_iberian_lynx.png,Iberian lynx have tufted ears and mainly hunt rabbits.
+28,63,B039,Ethiopian Wolf,28_ethiopian_wolf.png,Ethiopian wolves live in high mountain grasslands and often hunt small rodents.
+29,65,B039,African Wild Dog,29_african_wild_dog.png,African wild dogs have unique patchy coats and live in highly social packs.
+30,67,B039,Dhole,30_dhole.png,Dholes are social wild dogs from Asia that communicate with whistles.
+31,69,B040,Addax,31_addax.png,Addax are desert antelope with twisted horns and broad hooves for walking on sand.
+32,71,B040,Saiga,32_saiga.png,Saiga antelope have unusual flexible noses that help filter dust and warm cold air.
+33,73,B040,Przewalski's Horse,33_przewalskis_horse.png,Przewalski's horses have stocky bodies and upright dark manes.
+34,75,B040,Grevy's Zebra,34_grevys_zebra.png,Grevy's zebras have narrow stripes and large rounded ears.
+35,77,B040,Okapi,35_okapi.png,Okapis have striped legs and are close relatives of giraffes.
+36,79,B040,Pygmy Hippo,36_pygmy_hippo.png,Pygmy hippos are smaller forest-dwelling relatives of common hippos.
+37,81,B040,Bactrian Camel,37_bactrian_camel.png,Wild Bactrian camels have two humps and can survive extreme desert conditions.
+38,83,B040,Asian Tapir,38_asian_tapir.png,Asian tapirs have a bold black-and-white body pattern and a short flexible snout.
+39,85,B040,Malayan Pangolin,39_malayan_pangolin.png,Malayan pangolins are covered in protective scales and curl into a ball when threatened.
+40,87,B040,Chinese Pangolin,40_chinese_pangolin.png,Chinese pangolins use long sticky tongues to collect ants and termites.
+41,89,B040,African Penguin,41_african_penguin.png,African penguins make braying calls that can sound a little like donkeys.
+42,91,B040,Yellow-Eyed Penguin,42_yellow_eyed_penguin.png,Yellow-eyed penguins have pale yellow eyes and a yellow band of feathers around the head.
+43,93,B040,Kakapo,43_kakapo.png,Kakapos are heavy flightless parrots that are active mostly at night.
+44,95,B040,California Condor,44_california_condor.png,California condors have enormous wings that help them soar for long distances.
+45,97,B040,Philippine Eagle,45_philippine_eagle.png,Philippine eagles have powerful feet and a shaggy crest of feathers.
+46,99,B040,Whooping Crane,46_whooping_crane.png,Whooping cranes are tall white birds with long legs and long necks.
+47,101,B040,Spoon-Billed Sandpiper,47_spoon_billed_sandpiper.png,Spoon-billed sandpipers have small bills with spoon-shaped tips.
+48,103,B040,Hawksbill Sea Turtle,48_hawksbill_sea_turtle.png,Hawksbill sea turtles have narrow pointed beaks that help them feed among coral reefs.
+49,105,B040,Green Sea Turtle,49_green_sea_turtle.png,Green sea turtles are mostly plant eaters as adults and graze on seagrasses and algae.
+50,107,B040,Leatherback Sea Turtle,50_leatherback_sea_turtle.png,Leatherbacks are the largest sea turtles and have flexible leathery shells.
+51,109,B040,Vaquita,51_vaquita.png,Vaquitas are small porpoises with dark markings around their eyes and mouths.
+52,111,B040,North Atlantic Right Whale,52_north_atlantic_right_whale.png,North Atlantic right whales have rough white patches called callosities on their heads.
+53,113,B040,Blue Whale,53_blue_whale.png,Blue whales are the largest animals known to have lived on Earth.
+54,115,B040,Whale Shark,54_whale_shark.png,Whale sharks are huge filter-feeding sharks with spotted skin.
+55,117,B040,Great Hammerhead Shark,55_great_hammerhead_shark.png,Great hammerhead sharks have wide hammer-shaped heads that hold their eyes far apart.
+56,119,B040,Sawfish,56_sawfish.png,Sawfish have long flat snouts edged with tooth-like structures.
+57,121,B040,Axolotl,57_axolotl.png,Wild axolotls are salamanders that keep feathery external gills throughout life.
+58,123,B040,Chinese Giant Salamander,58_chinese_giant_salamander.png,Chinese giant salamanders are among the largest amphibians in the world.
+59,125,B040,Gharial,59_gharial.png,Gharials have very long narrow snouts adapted for catching fish.
+60,127,B040,Siamese Crocodile,60_siamese_crocodile.png,Siamese crocodiles are freshwater crocodiles from Southeast Asia.
