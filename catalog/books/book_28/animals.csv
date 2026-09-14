@@ -1,7 +1,7 @@
 number,interior_page,animal,fact
 1,9,Great White Shark,Great white sharks can detect tiny electrical signals made by other animals.
 2,11,Whale Shark,Whale sharks are the largest fish in the world and eat mostly tiny plankton.
-3,13,Great Hammerhead Shark,Great hammerhead sharks have wide hammer-shaped heads that help them sense and locate prey.
+3,13,Great Hammerhead Shark,Great hammerhead sharks have wide heads that help them sense and locate prey.
 4,15,Tiger Shark,Tiger sharks have dark vertical stripes when they are young.
 5,17,Bull Shark,Bull sharks can swim in both salt water and fresh water.
 6,19,Nurse Shark,Nurse sharks often rest on the seafloor during the day.
@@ -22,7 +22,7 @@ number,interior_page,animal,fact
 21,49,Horn Shark,Horn sharks have short blunt heads and spines in front of their dorsal fins.
 22,51,Angel Shark,Angel sharks have flattened bodies that make them look a little like rays.
 23,53,Sawshark,Sawsharks have long toothed snouts used to help find and stun prey.
-24,55,Spiny Dogfish,Spiny dogfish are small sharks with a sharp spine in front of each dorsal fin.
+24,55,Spiny Dogfish,Spiny dogfish are small sharks that often travel in groups.
 25,57,Bonnethead Shark,Bonnetheads are small relatives of hammerhead sharks with shovel-shaped heads.
 26,59,Silky Shark,Silky sharks are named for the smooth texture of their skin.
 27,61,Oceanic Whitetip Shark,Oceanic whitetip sharks have broad rounded fins with pale tips.
@@ -37,12 +37,12 @@ number,interior_page,animal,fact
 36,79,Blue-Spotted Ribbontail Ray,Blue-spotted ribbontail rays have bright spots and usually rest near reefs.
 37,81,Cownose Ray,Cownose rays often swim together in large groups.
 38,83,Bat Ray,Bat rays use strong jaws to crush clams crabs and other hard-shelled food.
-39,85,Electric Ray,Electric rays can produce electrical shocks to defend themselves or stun prey.
-40,87,Butterfly Ray,Butterfly rays have wide wing-like fins and very short tails.
-41,89,Guitarfish,Guitarfish have flattened fronts like rays and shark-like tails.
-42,91,Shovelnose Ray,Shovelnose rays have pointed snouts and long narrow bodies.
-43,93,Sawfish,Sawfish are rays with long toothed snouts called rostra.
-44,95,Skate,Skates lay egg cases sometimes called mermaid's purses.
+39,85,Pacific Electric Ray,Pacific electric rays can produce electrical shocks to defend themselves or stun prey.
+40,87,Smooth Butterfly Ray,Smooth butterfly rays have wide wing-like fins and very short tails.
+41,89,Common Guitarfish,Common guitarfish have flattened fronts like rays and shark-like tails.
+42,91,Shovelnose Guitarfish,Shovelnose guitarfish have pointed snouts and long narrow bodies.
+43,93,Smalltooth Sawfish,Smalltooth sawfish are rays with long toothed snouts called rostra.
+44,95,Clearnose Skate,Clearnose skates lay egg cases sometimes called mermaid's purses.
 45,97,Thornback Skate,Thornback skates have rough spines along their backs and tails.
 46,99,Little Skate,Little skates are small bottom-dwelling relatives of rays.
 47,101,Devil Ray,Devil rays are close relatives of manta rays and swim with wing-like fins.
@@ -50,7 +50,7 @@ number,interior_page,animal,fact
 49,105,Pelagic Stingray,Pelagic stingrays live in open ocean rather than staying on the seafloor.
 50,107,Yellow Stingray,Yellow stingrays have round bodies with spotted or mottled patterns.
 51,109,Atlantic Stingray,Atlantic stingrays can enter brackish and freshwater areas.
-52,111,Freshwater Stingray,Freshwater stingrays live in rivers and lakes in South America.
+52,111,Ocellate River Stingray,Ocellate river stingrays live in rivers and lakes in South America.
 53,113,Porcupine Ray,Porcupine rays have rough skin covered with small thorn-like bumps.
 54,115,Sixgill Stingray,Sixgill stingrays are unusual rays with six pairs of gill slits.
 55,117,Shark Ray,Shark rays have broad ray-like heads and powerful shark-like tails.
