@@ -24,12 +24,13 @@ Every illustration must pass all checks before approval:
 - Desert birds: bill, wing, tail, feet, crest/plume, and posture must be plausible.
 - Reptiles/amphibians: body shape, limb count, scales, horns, shell, and tail must match the named subject.
 - Arachnids/insects: major body divisions and leg count must be correct; simplify detail without adding false anatomy.
+- Ghost Crab (#53): show a true ghost crab body plan and sandy-shore burrow habitat; do not draw a fabricated "sidewinder crab."
 - Heat/sand adaptations may be shown visually, but do not invent anatomical features.
 - Keep potentially dangerous species child-friendly without turning them into inaccurate cartoon monsters.
 
-## Catalog review flag
+## Catalog review
 
-Subject #53 `Sidewinder Crab` is still flagged for naming/source review before release because the current fact describes ghost/sand crabs. Do not mark that page final until the catalog label and fact are reconciled.
+The former #53 `Sidewinder Crab` mismatch has been resolved as `Ghost Crab` throughout the catalog, page map, B046 prompt, artwork manifest, and assembly manifest.
 
 ## Batch gate
 
@@ -49,4 +50,4 @@ Subject #53 `Sidewinder Crab` is still flagged for naming/source review before r
 
 ## Release gate
 
-Book 23 artwork is ready for interior assembly only when all 60 rows are `Approved`, the Sidewinder Crab catalog review is resolved, and no page remains `Needs Fix`.
+Book 23 artwork is ready for interior assembly only when all 60 rows are `Approved` and no page remains `Needs Fix`.
