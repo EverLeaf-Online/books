@@ -1,0 +1,107 @@
+MIST° ORIGINAL COLORING BOOK ART BRIEF
+Book 13: Dogs
+Batch B025: subjects 01-30
+
+Shared art direction for every prompt:
+- Original black-and-white children's coloring-book line art for ages 4-8.
+- Portrait 8.5 x 11 composition; preferred master 2550 x 3300 PNG.
+- One clear main subject, friendly and anatomically plausible, filling about 55-70% of usable page area.
+- Bold smooth outer contours with simpler interior detail; large enclosed coloring spaces and generous white space.
+- Add only 5-10 large, simple, subject-appropriate environment or context elements.
+- Keep important linework inside a 0.50-inch safe-content target.
+- Keep the lower area reasonably open for the separately typeset subject name and fact.
+- Pure black line art on pure white only.
+- No words, letters, numbers, captions, signatures, logos, watermarks, grayscale, shading, hatching, gradients, textures, or decorative borders.
+- No clutter, tiny coloring spaces, cropped important anatomy, duplicated body parts, or malformed features.
+
+Prompts:
+01. Labrador Retriever
+Draw a recognizable Labrador Retriever as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+02. Golden Retriever
+Draw a recognizable Golden Retriever as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+03. German Shepherd
+Draw a recognizable German Shepherd as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+04. French Bulldog
+Draw a recognizable French Bulldog as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+05. Bulldog
+Draw a recognizable Bulldog as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+06. Poodle
+Draw a recognizable Poodle as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+07. Beagle
+Draw a recognizable Beagle as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+08. Rottweiler
+Draw a recognizable Rottweiler as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+09. Dachshund
+Draw a recognizable Dachshund as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+10. German Shorthaired Pointer
+Draw a recognizable German Shorthaired Pointer as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+11. Pembroke Welsh Corgi
+Draw a recognizable Pembroke Welsh Corgi as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+12. Australian Shepherd
+Draw a recognizable Australian Shepherd as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+13. Yorkshire Terrier
+Draw a recognizable Yorkshire Terrier as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+14. Cavalier King Charles Spaniel
+Draw a recognizable Cavalier King Charles Spaniel as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+15. Doberman Pinscher
+Draw a recognizable Doberman Pinscher as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+16. Boxer
+Draw a recognizable Boxer as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+17. Miniature Schnauzer
+Draw a recognizable Miniature Schnauzer as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+18. Cane Corso
+Draw a recognizable Cane Corso as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+19. Great Dane
+Draw a recognizable Great Dane as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+20. Shih Tzu
+Draw a recognizable Shih Tzu as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+21. Siberian Husky
+Draw a recognizable Siberian Husky as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+22. Bernese Mountain Dog
+Draw a recognizable Bernese Mountain Dog as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+23. Pomeranian
+Draw a recognizable Pomeranian as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+24. Boston Terrier
+Draw a recognizable Boston Terrier as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+25. Havanese
+Draw a recognizable Havanese as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+26. English Springer Spaniel
+Draw a recognizable English Springer Spaniel as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+27. Shetland Sheepdog
+Draw a recognizable Shetland Sheepdog as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+28. Brittany
+Draw a recognizable Brittany as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+29. Cocker Spaniel
+Draw a recognizable Cocker Spaniel as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
+30. Border Collie
+Draw a recognizable Border Collie as the single main subject, showing breed-appropriate ears, muzzle, body proportions, coat silhouette, tail, and stance. Use a friendly natural pose in a simple outdoor dog-friendly setting with a few large elements such as grass, a toy, a fence, a path, or a tree.
+
