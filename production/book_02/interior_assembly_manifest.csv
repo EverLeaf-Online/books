@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B003,Bottlenose Dolphin,01_bottlenose_dolphin.png,Dolphins use echolocation to help find objects underwater.
+2,11,B003,Humpback Whale,02_humpback_whale.png,Male humpback whales can sing long and complicated songs.
+3,13,B003,Blue Whale,03_blue_whale.png,The blue whale is the largest animal known to have lived on Earth.
+4,15,B003,Orca,04_orca.png,Orcas are the largest members of the dolphin family.
+5,17,B003,Sperm Whale,05_sperm_whale.png,Sperm whales can dive very deep while searching for squid.
+6,19,B003,Beluga Whale,06_beluga_whale.png,Beluga whales are sometimes called sea canaries because they make many sounds.
+7,21,B003,Narwhal,07_narwhal.png,A narwhal's long tusk is actually an enlarged tooth.
+8,23,B003,Harbor Seal,08_harbor_seal.png,A seal's whiskers can detect tiny movements in the water.
+9,25,B003,Sea Lion,09_sea_lion.png,Sea lions can rotate their hind flippers forward to help walk on land.
+10,27,B003,Walrus,10_walrus.png,Walruses use their sensitive whiskers to search for food on the seafloor.
+11,29,B003,Manatee,11_manatee.png,Manatees are gentle plant-eaters that spend much of their day grazing.
+12,31,B003,Dugong,12_dugong.png,Dugongs feed mainly on seagrass in warm coastal waters.
+13,33,B003,Great White Shark,13_great_white_shark.png,Great white sharks have rows of replaceable teeth.
+14,35,B003,Hammerhead Shark,14_hammerhead_shark.png,A hammerhead's wide head helps it sense and locate prey.
+15,37,B003,Whale Shark,15_whale_shark.png,Whale sharks are the largest fish in the world and eat tiny plankton.
+16,39,B003,Tiger Shark,16_tiger_shark.png,Tiger sharks have dark vertical stripes when they are young.
+17,41,B003,Reef Shark,17_reef_shark.png,Reef sharks often patrol warm coral reefs for food.
+18,43,B003,Manta Ray,18_manta_ray.png,Manta rays use wide fins that look like wings to glide through the water.
+19,45,B003,Stingray,19_stingray.png,Stingrays often hide beneath sand on the seafloor.
+20,47,B003,Green Sea Turtle,20_green_sea_turtle.png,Green sea turtles travel long distances through the ocean.
+21,49,B003,Loggerhead Sea Turtle,21_loggerhead_sea_turtle.png,Loggerhead turtles have powerful jaws that can crush hard-shelled prey.
+22,51,B003,Leatherback Sea Turtle,22_leatherback_sea_turtle.png,Leatherback turtles are the largest living sea turtles.
+23,53,B003,Octopus,23_octopus.png,An octopus has three hearts.
+24,55,B003,Giant Pacific Octopus,24_giant_pacific_octopus.png,Giant Pacific octopuses can change color and texture to help camouflage themselves.
+25,57,B003,Squid,25_squid.png,Squid move quickly by pushing water through a tube called a siphon.
+26,59,B003,Cuttlefish,26_cuttlefish.png,Cuttlefish can rapidly change their color and patterns.
+27,61,B003,Nautilus,27_nautilus.png,A nautilus lives inside a spiral shell divided into many chambers.
+28,63,B003,Seahorse,28_seahorse.png,Male seahorses carry developing babies inside a special pouch.
+29,65,B003,Clownfish,29_clownfish.png,Clownfish can live safely among the tentacles of sea anemones.
+30,67,B003,Blue Tang,30_blue_tang.png,Blue tangs use sharp spines near their tails for defense.
+31,69,B004,Angelfish,31_angelfish.png,Many marine angelfish live around warm coral reefs.
+32,71,B004,Butterflyfish,32_butterflyfish.png,Butterflyfish often have bright patterns that help them blend into coral reefs.
+33,73,B004,Pufferfish,33_pufferfish.png,A pufferfish can inflate its body when it feels threatened.
+34,75,B004,Lionfish,34_lionfish.png,Lionfish have long venomous spines that help protect them.
+35,77,B004,Moray Eel,35_moray_eel.png,Moray eels often hide in cracks and holes in coral reefs.
+36,79,B004,Barracuda,36_barracuda.png,Barracudas are fast fish with long bodies and sharp teeth.
+37,81,B004,Swordfish,37_swordfish.png,"Swordfish use their long, flat bills to help stun prey."
+38,83,B004,Sailfish,38_sailfish.png,Sailfish are known for their tall sail-like dorsal fins.
+39,85,B004,Tuna,39_tuna.png,Tuna are powerful swimmers built for traveling quickly through open water.
+40,87,B004,Flying Fish,40_flying_fish.png,Flying fish can leap from the water and glide through the air.
+41,89,B004,Parrotfish,41_parrotfish.png,Parrotfish use beak-like teeth to scrape algae from coral and rocks.
+42,91,B004,Grouper,42_grouper.png,Groupers are strong reef fish with very large mouths.
+43,93,B004,Mahi-Mahi,43_mahi_mahi.png,Mahi-mahi can change color quickly when excited or stressed.
+44,95,B004,Sunfish,44_sunfish.png,Ocean sunfish are among the heaviest bony fish in the world.
+45,97,B004,Moon Jellyfish,45_moon_jellyfish.png,Moon jellies have translucent bodies and four visible reproductive organs.
+46,99,B004,Sea Star,46_sea_star.png,Sea stars can regrow some lost arms.
+47,101,B004,Sea Urchin,47_sea_urchin.png,Sea urchins move using tiny tube feet underneath their bodies.
+48,103,B004,Sea Cucumber,48_sea_cucumber.png,Sea cucumbers help recycle nutrients on the ocean floor.
+49,105,B004,Crab,49_crab.png,Many crabs can regrow a lost leg after they molt.
+50,107,B004,Hermit Crab,50_hermit_crab.png,Hermit crabs protect their soft bodies by living inside empty shells.
+51,109,B004,Lobster,51_lobster.png,Lobsters have strong claws and a hard outer shell.
+52,111,B004,Shrimp,52_shrimp.png,Shrimp have long antennae that help them sense their surroundings.
+53,113,B004,Krill,53_krill.png,Krill are tiny crustaceans that are an important food source for many whales.
+54,115,B004,Horseshoe Crab,54_horseshoe_crab.png,Horseshoe crabs are more closely related to spiders than true crabs.
+55,117,B004,Sea Anemone,55_sea_anemone.png,Sea anemones use stinging tentacles to catch tiny animals.
+56,119,B004,Coral,56_coral.png,Coral reefs are built by colonies of tiny animals called coral polyps.
+57,121,B004,Sea Sponge,57_sea_sponge.png,Sea sponges filter tiny food particles from water that flows through their bodies.
+58,123,B004,Penguin,58_penguin.png,Penguins use their wing-shaped flippers to swim through the water.
+59,125,B004,Pelican,59_pelican.png,Pelicans use their large throat pouches to help catch fish.
+60,127,B004,Albatross,60_albatross.png,Albatrosses can glide for long distances over the ocean using very little energy.
