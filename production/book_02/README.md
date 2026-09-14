@@ -18,6 +18,9 @@ Primary next-release target for MIST° Animal Coloring Adventures.
 - `catalog/books/book_02/page_map.csv`
 - `build/configs/book_02.json`
 - `kdp/book_02.txt`
+- `production/book_02/artwork_manifest.csv`
+- `production/book_02/interior_assembly_manifest.csv`
+- `production/book_02/ART_QA_SCORECARD.md`
 
 ## Artwork
 - Batch B003: subjects 01-30
@@ -27,6 +30,11 @@ Primary next-release target for MIST° Animal Coloring Adventures.
 - Pure black line art on pure white
 - No baked-in text, captions, page numbers, signatures, watermarks, grayscale, shading, gradients, or decorative borders
 - Keep important linework inside the 0.50-inch safe-content target
+
+## Canonical production path
+`production/book_02/` is now the canonical Book 2 production directory.
+
+The older `production/book-02-ocean/` directory is retained temporarily only for compatibility with any historical references. Do not add new production files there. New QA, manifests, assembly records, and release-prep files belong under `production/book_02/`.
 
 ## Completion gate
 Book 2 is not considered finished until all of these are complete:
