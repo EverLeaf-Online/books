@@ -1,5 +1,5 @@
 number,interior_page,batch,subject,expected_filename,status,qa_status
-1,9,B047,River Otter,01_river_otter.png,Queued,Not Reviewed
+1,9,B047,North American River Otter,01_north_american_river_otter.png,Queued,Not Reviewed
 2,11,B047,Beaver,02_beaver.png,Queued,Not Reviewed
 3,13,B047,Muskrat,03_muskrat.png,Queued,Not Reviewed
 4,15,B047,American Mink,04_american_mink.png,Queued,Not Reviewed
@@ -20,17 +20,17 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 19,45,B047,Gharial,19_gharial.png,Queued,Not Reviewed
 20,47,B047,Common Snapping Turtle,20_common_snapping_turtle.png,Queued,Not Reviewed
 21,49,B047,Painted Turtle,21_painted_turtle.png,Queued,Not Reviewed
-22,51,B047,Softshell Turtle,22_softshell_turtle.png,Queued,Not Reviewed
-23,53,B047,Map Turtle,23_map_turtle.png,Queued,Not Reviewed
+22,51,B047,Spiny Softshell Turtle,22_spiny_softshell_turtle.png,Queued,Not Reviewed
+23,53,B047,Northern Map Turtle,23_northern_map_turtle.png,Queued,Not Reviewed
 24,55,B047,Red-Eared Slider,24_red_eared_slider.png,Queued,Not Reviewed
 25,57,B047,Green Anaconda,25_green_anaconda.png,Queued,Not Reviewed
 26,59,B047,Cottonmouth,26_cottonmouth.png,Queued,Not Reviewed
 27,61,B047,Northern Water Snake,27_northern_water_snake.png,Queued,Not Reviewed
 28,63,B047,Green Frog,28_green_frog.png,Queued,Not Reviewed
 29,65,B047,Bullfrog,29_bullfrog.png,Queued,Not Reviewed
-30,67,B047,Leopard Frog,30_leopard_frog.png,Queued,Not Reviewed
-31,69,B048,Tree Frog,31_tree_frog.png,Queued,Not Reviewed
-32,71,B048,Newt,32_newt.png,Queued,Not Reviewed
+30,67,B047,Northern Leopard Frog,30_northern_leopard_frog.png,Queued,Not Reviewed
+31,69,B048,Green Tree Frog,31_green_tree_frog.png,Queued,Not Reviewed
+32,71,B048,Eastern Newt,32_eastern_newt.png,Queued,Not Reviewed
 33,73,B048,Mudpuppy,33_mudpuppy.png,Queued,Not Reviewed
 34,75,B048,Axolotl,34_axolotl.png,Queued,Not Reviewed
 35,77,B048,Great Blue Heron,35_great_blue_heron.png,Queued,Not Reviewed
@@ -47,7 +47,7 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 46,99,B048,Belted Kingfisher,46_belted_kingfisher.png,Queued,Not Reviewed
 47,101,B048,Osprey,47_osprey.png,Queued,Not Reviewed
 48,103,B048,Bald Eagle,48_bald_eagle.png,Queued,Not Reviewed
-49,105,B048,River Kingfisher,49_river_kingfisher.png,Queued,Not Reviewed
+49,105,B048,Amazon Kingfisher,49_amazon_kingfisher.png,Queued,Not Reviewed
 50,107,B048,Common Loon,50_common_loon.png,Queued,Not Reviewed
 51,109,B048,Bluegill,51_bluegill.png,Queued,Not Reviewed
 52,111,B048,Largemouth Bass,52_largemouth_bass.png,Queued,Not Reviewed
