@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B013,Polar Bear,01_polar_bear.png,Polar bears have black skin underneath their thick fur.
+2,11,B013,Arctic Fox,02_arctic_fox.png,Many Arctic foxes grow white winter coats that help them blend into snow.
+3,13,B013,Arctic Wolf,03_arctic_wolf.png,Arctic wolves have thick fur that helps protect them from extreme cold.
+4,15,B013,Reindeer,04_reindeer.png,Both male and female reindeer can grow antlers.
+5,17,B013,Musk Ox,05_musk_ox.png,Musk oxen have extremely warm undercoats called qiviut.
+6,19,B013,Arctic Hare,06_arctic_hare.png,Arctic hares have powerful hind legs and thick fur for cold climates.
+7,21,B013,Lemming,07_lemming.png,Lemmings are small rodents that live in tundra habitats.
+8,23,B013,Wolverine,08_wolverine.png,Wolverines have large paws that help them travel over snow.
+9,25,B013,Ermine,09_ermine.png,Ermines in cold regions often turn white during winter.
+10,27,B013,Snowy Owl,10_snowy_owl.png,Snowy owls have thick feathers that even cover their feet.
+11,29,B013,Rock Ptarmigan,11_rock_ptarmigan.png,Rock ptarmigans grow white feathers in winter for camouflage.
+12,31,B013,Gyrfalcon,12_gyrfalcon.png,Gyrfalcons are the largest falcons in the world.
+13,33,B013,Atlantic Puffin,13_atlantic_puffin.png,Puffins use their wings to swim underwater.
+14,35,B013,Guillemot,14_guillemot.png,Guillemots are seabirds that nest on steep rocky cliffs.
+15,37,B013,Arctic Tern,15_arctic_tern.png,Arctic terns make one of the longest migrations of any animal.
+16,39,B013,Ivory Gull,16_ivory_gull.png,Ivory gulls are almost completely white and live in the high Arctic.
+17,41,B013,Walrus,17_walrus.png,Walruses use sensitive whiskers to find food on the seafloor.
+18,43,B013,Ringed Seal,18_ringed_seal.png,Ringed seals use strong claws to keep breathing holes open in sea ice.
+19,45,B013,Harp Seal,19_harp_seal.png,Young harp seals are famous for their fluffy white coats.
+20,47,B013,Bearded Seal,20_bearded_seal.png,Bearded seals have long whiskers that help them search the seafloor.
+21,49,B013,Hooded Seal,21_hooded_seal.png,Male hooded seals can inflate a large nasal sac during displays.
+22,51,B013,Northern Elephant Seal,22_northern_elephant_seal.png,Elephant seals can make extremely deep dives while hunting.
+23,53,B013,Antarctic Fur Seal,23_antarctic_fur_seal.png,Antarctic fur seals have thick coats that help keep them warm.
+24,55,B013,Narwhal,24_narwhal.png,A narwhal's long tusk is actually an enlarged tooth.
+25,57,B013,Beluga Whale,25_beluga_whale.png,Belugas are very vocal whales sometimes called sea canaries.
+26,59,B013,Bowhead Whale,26_bowhead_whale.png,Bowhead whales have huge heads that can break through sea ice.
+27,61,B013,Humpback Whale,27_humpback_whale.png,Male humpback whales can sing long and complicated songs.
+28,63,B013,Orca,28_orca.png,Orcas are the largest members of the dolphin family.
+29,65,B013,Blue Whale,29_blue_whale.png,The blue whale is the largest animal known to have lived on Earth.
+30,67,B013,Minke Whale,30_minke_whale.png,Minke whales are among the smallest baleen whales.
+31,69,B014,Greenland Shark,31_greenland_shark.png,Greenland sharks can live for centuries.
+32,71,B014,Arctic Char,32_arctic_char.png,Arctic char can live in both fresh water and salt water.
+33,73,B014,Polar Cod,33_polar_cod.png,Polar cod are important food for many Arctic birds and marine mammals.
+34,75,B014,Antarctic Krill,34_antarctic_krill.png,Antarctic krill are tiny crustaceans that feed many larger animals.
+35,77,B014,Emperor Penguin,35_emperor_penguin.png,Emperor penguins are the tallest and heaviest penguins.
+36,79,B014,Adelie Penguin,36_adelie_penguin.png,Adelie penguins use stones to build nests.
+37,81,B014,Chinstrap Penguin,37_chinstrap_penguin.png,Chinstrap penguins have a thin black line under their chins.
+38,83,B014,Gentoo Penguin,38_gentoo_penguin.png,Gentoo penguins are among the fastest swimming penguins.
+39,85,B014,Macaroni Penguin,39_macaroni_penguin.png,Macaroni penguins have bright yellow-orange crest feathers.
+40,87,B014,King Penguin,40_king_penguin.png,King penguins have colorful orange patches near their heads.
+41,89,B014,Rockhopper Penguin,41_rockhopper_penguin.png,Rockhopper penguins hop across rocky ground instead of waddling everywhere.
+42,91,B014,Leopard Seal,42_leopard_seal.png,Leopard seals are powerful Antarctic predators with spotted coats.
+43,93,B014,Weddell Seal,43_weddell_seal.png,Weddell seals use their teeth to keep breathing holes open in ice.
+44,95,B014,Crabeater Seal,44_crabeater_seal.png,Crabeater seals mainly eat krill rather than crabs.
+45,97,B014,Snow Petrel,45_snow_petrel.png,Snow petrels are white seabirds that live around Antarctica.
+46,99,B014,Wandering Albatross,46_wandering_albatross.png,Wandering albatrosses have some of the widest wingspans of any bird.
+47,101,B014,South Polar Skua,47_south_polar_skua.png,South polar skuas are tough seabirds that nest in Antarctica.
+48,103,B014,Antarctic Petrel,48_antarctic_petrel.png,Antarctic petrels often gather in huge flocks over the Southern Ocean.
+49,105,B014,Arctic Bumblebee,49_arctic_bumblebee.png,Some bumblebees survive in the Arctic by warming their flight muscles.
+50,107,B014,Polar Bear Moth,50_polar_bear_moth.png,Some Arctic moth caterpillars take several years to grow before becoming adults.
+51,109,B014,Arctic Ground Squirrel,51_arctic_ground_squirrel.png,Arctic ground squirrels survive winter by hibernating for many months.
+52,111,B014,Peary Caribou,52_peary_caribou.png,Peary caribou are small pale caribou adapted to Canada's High Arctic islands.
+53,113,B014,Dall Sheep,53_dall_sheep.png,Dall sheep have white coats and live on steep northern mountain slopes.
+54,115,B014,King Eider,54_king_eider.png,Male king eiders have colorful heads and live around Arctic coasts.
+55,117,B014,Common Eider,55_common_eider.png,Eider ducks have extremely soft down feathers that help insulate their nests.
+56,119,B014,Snow Goose,56_snow_goose.png,Snow geese migrate in large flocks between Arctic breeding grounds and warmer winter areas.
+57,121,B014,Colossal Squid,57_colossal_squid.png,Colossal squid live in deep cold Southern Ocean waters and have huge eyes.
+58,123,B014,Antarctic Toothfish,58_antarctic_toothfish.png,Antarctic toothfish have special proteins in their blood that help prevent freezing.
+59,125,B014,Snowy Sheathbill,59_snowy_sheathbill.png,Snowy sheathbills are white Antarctic birds that often walk around penguin colonies.
+60,127,B014,Antarctic Midge,60_antarctic_midge.png,The Antarctic midge is a tiny flightless insect adapted to survive extreme cold.
