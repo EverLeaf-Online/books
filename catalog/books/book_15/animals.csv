@@ -9,22 +9,22 @@ number,interior_page,animal,fact
 8,23,Percheron,Percherons are strong draft horses that originated in France.
 9,25,Belgian Draft Horse,Belgian draft horses are among the strongest heavy horse breeds.
 10,27,Shire,Shires are very tall draft horses developed in Britain.
-11,29,Friesian,Friesians are known for black coats, flowing manes, and feathered legs.
+11,29,Friesian,"Friesians are known for black coats, flowing manes, and feathered legs."
 12,31,Andalusian,Andalusians are elegant Spanish horses known for agility and collected movement.
 13,33,Lipizzaner,Lipizzaners are famous for classical dressage and often turn gray as they mature.
-14,35,Morgan,Morgan horses are compact, versatile American horses.
+14,35,Morgan,"Morgan horses are compact, versatile American horses."
 15,37,Tennessee Walking Horse,Tennessee walking horses are known for a smooth running-walk gait.
 16,39,Standardbred,Standardbreds are best known for harness racing at the trot or pace.
 17,41,American Saddlebred,American saddlebreds are elegant show horses known for high-stepping action.
 18,43,Missouri Fox Trotter,Missouri fox trotters are known for a smooth four-beat gait.
-19,45,Paso Fino,Paso finos are famous for naturally smooth, rapid four-beat gaits.
+19,45,Paso Fino,"Paso finos are famous for naturally smooth, rapid four-beat gaits."
 20,47,Icelandic Horse,Icelandic horses are small sturdy horses that can perform a special gait called the tölt.
 21,49,Fjord Horse,Norwegian fjord horses are strong small horses with upright two-toned manes.
 22,51,Haflinger,Haflingers are compact mountain horses with chestnut coats and pale manes.
 23,53,Gypsy Vanner,Gypsy Vanners are cob-type horses known for heavy leg feathering and flowing manes.
 24,55,Connemara Pony,Connemara ponies are athletic Irish ponies known for jumping ability.
-25,57,Welsh Pony,Welsh ponies are hardy, energetic ponies from Wales.
-26,59,Shetland Pony,Shetland ponies are small, strong ponies from Scotland's Shetland Islands.
+25,57,Welsh Pony,"Welsh ponies are hardy, energetic ponies from Wales."
+26,59,Shetland Pony,"Shetland ponies are small, strong ponies from Scotland's Shetland Islands."
 27,61,Dartmoor Pony,Dartmoor ponies are hardy native ponies from southwest England.
 28,63,Exmoor Pony,Exmoor ponies are an ancient British breed adapted to rough moorland.
 29,65,New Forest Pony,New Forest ponies are versatile British ponies that live semi-wild in the New Forest.
@@ -42,7 +42,7 @@ number,interior_page,animal,fact
 41,89,American Bashkir Curly,American Bashkir Curly horses are known for naturally curly winter coats.
 42,91,Rocky Mountain Horse,Rocky Mountain horses are gaited horses often seen with chocolate coats and flaxen manes.
 43,93,Kentucky Mountain Saddle Horse,Kentucky Mountain Saddle Horses are calm gaited horses developed for mountain travel.
-44,95,Canadian Horse,Canadian horses are hardy, strong horses developed in Canada.
+44,95,Canadian Horse,"Canadian horses are hardy, strong horses developed in Canada."
 45,97,Dutch Warmblood,Dutch warmbloods are athletic sport horses often used in jumping and dressage.
 46,99,Hanoverian,Hanoverians are German warmbloods known for success in sport horse events.
 47,101,Holsteiner,Holsteiners are German sport horses especially known for jumping.
@@ -50,7 +50,7 @@ number,interior_page,animal,fact
 49,105,Trakehner,Trakehners are refined warmblood horses known for athleticism and endurance.
 50,107,Selle Français,Selle Français horses are French sport horses famous for jumping ability.
 51,109,Irish Sport Horse,Irish sport horses are versatile athletes often used in eventing and jumping.
-52,111,Irish Draught,Irish Draught horses are strong, sensible horses developed for farm and riding work.
+52,111,Irish Draught,"Irish Draught horses are strong, sensible horses developed for farm and riding work."
 53,113,Cleveland Bay,Cleveland Bays are an old British breed known for solid bay coloring.
 54,115,Suffolk Punch,Suffolk Punch horses are chestnut draft horses developed for farm work.
 55,117,American Cream Draft,American Cream Draft horses are known for cream coats and amber eyes.
