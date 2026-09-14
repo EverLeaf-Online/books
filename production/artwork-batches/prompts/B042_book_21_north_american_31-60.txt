@@ -24,7 +24,7 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 49 — Brown Pelican: Brown pelican gliding low over coastal water, long bill and pouch, waves, shoreline rocks.
 50 — Atlantic Puffin: Atlantic puffin standing on rocky Atlantic cliff, colorful bill shapes outlined only, waves, grass tufts.
 51 — Common Loon: Common loon floating on northern lake, patterned body simplified, reeds, pine shoreline, mountains.
-52 — Roadrunner: Greater roadrunner running across desert trail, long tail, cactus, stones, scrub plants.
+52 — Greater Roadrunner: Greater roadrunner running across desert trail, long tail, cactus, stones, scrub plants.
 53 — American Alligator: Alligator resting at marsh edge, broad snout, ridged back, reeds, lily pads, water.
 54 — Gila Monster: Gila monster walking among desert rocks, bead-like scales simplified into large pattern shapes, cactus.
 55 — Desert Tortoise: Desert tortoise beside burrow, domed shell, cactus, stones, sparse desert grass.
