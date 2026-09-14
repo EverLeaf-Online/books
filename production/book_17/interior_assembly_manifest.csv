@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B033,African Lion,01_african_lion.png,Lions live in social groups called prides.
+2,11,B033,Tiger,02_tiger.png,Every tiger has a unique stripe pattern.
+3,13,B033,Cheetah,03_cheetah.png,Cheetahs are the fastest land animals.
+4,15,B033,Leopard,04_leopard.png,Leopards are strong climbers.
+5,17,B033,Jaguar,05_jaguar.png,Jaguars are powerful swimmers.
+6,19,B033,Snow Leopard,06_snow_leopard.png,Snow leopards have long tails that help with balance.
+7,21,B033,African Elephant,07_african_elephant.png,African elephants are the largest land animals.
+8,23,B033,Asian Elephant,08_asian_elephant.png,Asian elephants have smaller ears than African elephants.
+9,25,B033,Giraffe,09_giraffe.png,Giraffes are the tallest living land animals.
+10,27,B033,Zebra,10_zebra.png,No two zebras have exactly the same stripe pattern.
+11,29,B033,White Rhinoceros,11_white_rhinoceros.png,White rhinos are grazers with wide square lips.
+12,31,B033,Black Rhinoceros,12_black_rhinoceros.png,Black rhinos use pointed lips to browse leaves.
+13,33,B033,Hippopotamus,13_hippopotamus.png,Hippos spend much of the day in water.
+14,35,B033,Gorilla,14_gorilla.png,Gorillas are the largest living primates.
+15,37,B033,Chimpanzee,15_chimpanzee.png,Chimpanzees can use simple tools.
+16,39,B033,Orangutan,16_orangutan.png,Orangutans have very long arms for moving through trees.
+17,41,B033,Baboon,17_baboon.png,Baboons live in social groups called troops.
+18,43,B033,Ring-Tailed Lemur,18_ring_tailed_lemur.png,Ring-tailed lemurs use their long tails for visual signals.
+19,45,B033,Red Panda,19_red_panda.png,Red pandas are excellent climbers.
+20,47,B033,Giant Panda,20_giant_panda.png,Giant pandas eat mostly bamboo.
+21,49,B033,Koala,21_koala.png,Koalas sleep for many hours each day.
+22,51,B033,Kangaroo,22_kangaroo.png,Kangaroos move mainly by hopping.
+23,53,B033,Wombat,23_wombat.png,Wombats dig strong underground burrows.
+24,55,B033,Meerkat,24_meerkat.png,Meerkats take turns watching for danger.
+25,57,B033,Fennec Fox,25_fennec_fox.png,Fennec foxes have huge ears that help release heat.
+26,59,B033,Arctic Fox,26_arctic_fox.png,Arctic foxes have thick fur even on their paws.
+27,61,B033,Gray Wolf,27_gray_wolf.png,Wolves communicate with howls and body language.
+28,63,B033,Brown Bear,28_brown_bear.png,Brown bears eat a wide variety of foods.
+29,65,B033,Polar Bear,29_polar_bear.png,Polar bears are excellent swimmers.
+30,67,B033,Sloth Bear,30_sloth_bear.png,Sloth bears use long claws to open termite nests.
+31,69,B034,Spotted Hyena,31_spotted_hyena.png,Spotted hyenas live in social clans.
+32,71,B034,African Wild Dog,32_african_wild_dog.png,African wild dogs hunt cooperatively in packs.
+33,73,B034,Bactrian Camel,33_bactrian_camel.png,Bactrian camels have two humps.
+34,75,B034,Dromedary Camel,34_dromedary_camel.png,Dromedary camels have one hump.
+35,77,B034,Okapi,35_okapi.png,Okapis are close relatives of giraffes.
+36,79,B034,Tapir,36_tapir.png,Tapirs have short flexible snouts.
+37,81,B034,Capybara,37_capybara.png,Capybaras are the largest rodents.
+38,83,B034,Giant Anteater,38_giant_anteater.png,Giant anteaters use long tongues to eat ants and termites.
+39,85,B034,Two-Toed Sloth,39_two_toed_sloth.png,Sloths move slowly and spend much of life in trees.
+40,87,B034,Giant Tortoise,40_giant_tortoise.png,Some giant tortoises can live for more than a century.
+41,89,B034,Komodo Dragon,41_komodo_dragon.png,Komodo dragons are the largest living lizards.
+42,91,B034,Nile Crocodile,42_nile_crocodile.png,Nile crocodiles are powerful aquatic predators.
+43,93,B034,American Alligator,43_american_alligator.png,Alligators have broad rounded snouts.
+44,95,B034,King Cobra,44_king_cobra.png,King cobras are the longest venomous snakes.
+45,97,B034,Green Anaconda,45_green_anaconda.png,Green anacondas are among the heaviest snakes.
+46,99,B034,Bald Eagle,46_bald_eagle.png,Bald eagles build very large nests.
+47,101,B034,Harpy Eagle,47_harpy_eagle.png,Harpy eagles have powerful talons.
+48,103,B034,Ostrich,48_ostrich.png,Ostriches are the largest living birds.
+49,105,B034,Emu,49_emu.png,Emus are large flightless birds from Australia.
+50,107,B034,Cassowary,50_cassowary.png,Cassowaries have helmet-like casques on their heads.
+51,109,B034,Greater Flamingo,51_greater_flamingo.png,Flamingos filter tiny food from water with specialized bills.
+52,111,B034,Peacock,52_peacock.png,Male peafowl are called peacocks.
+53,113,B034,Toucan,53_toucan.png,Toucans have large lightweight bills.
+54,115,B034,Scarlet Macaw,54_scarlet_macaw.png,Scarlet macaws use strong beaks to crack nuts.
+55,117,B034,African Penguin,55_african_penguin.png,African penguins make loud braying calls.
+56,119,B034,California Sea Lion,56_california_sea_lion.png,Sea lions can rotate their hind flippers under their bodies.
+57,121,B034,Harbor Seal,57_harbor_seal.png,Harbor seals have no visible external ear flaps.
+58,123,B034,Bottlenose Dolphin,58_bottlenose_dolphin.png,Dolphins use echolocation to sense objects underwater.
+59,125,B034,Sea Otter,59_sea_otter.png,Sea otters sometimes use rocks as tools.
+60,127,B034,Manatee,60_manatee.png,Manatees are gentle plant-eating marine mammals.
