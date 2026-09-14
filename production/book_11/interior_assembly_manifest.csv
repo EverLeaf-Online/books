@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B021,Monarch Butterfly,01_monarch_butterfly.png,Monarch butterflies migrate long distances between seasonal habitats.
+2,11,B021,Swallowtail Butterfly,02_swallowtail_butterfly.png,Many swallowtail butterflies have tail-like extensions on their hind wings.
+3,13,B021,Painted Lady Butterfly,03_painted_lady_butterfly.png,Painted lady butterflies live on every continent except Antarctica.
+4,15,B021,Blue Morpho Butterfly,04_blue_morpho_butterfly.png,Blue morpho wings look brilliant blue because of tiny structures that reflect light.
+5,17,B021,Luna Moth,05_luna_moth.png,Luna moths have pale green wings and long tails on their hind wings.
+6,19,B021,Atlas Moth,06_atlas_moth.png,Atlas moths are among the largest moths in the world.
+7,21,B021,Cecropia Moth,07_cecropia_moth.png,Cecropia moths are the largest native moths in North America.
+8,23,B021,Honey Bee,08_honey_bee.png,Honey bees communicate the location of food with a movement called a waggle dance.
+9,25,B021,Bumblebee,09_bumblebee.png,Bumblebees can vibrate flowers to shake loose pollen.
+10,27,B021,Carpenter Bee,10_carpenter_bee.png,Carpenter bees make nesting tunnels in wood.
+11,29,B021,Paper Wasp,11_paper_wasp.png,Paper wasps build open nests from chewed wood fibers mixed with saliva.
+12,31,B021,Bald-Faced Hornet,12_bald_faced_hornet.png,Bald-faced hornets build large gray paper nests above the ground.
+13,33,B021,Ladybug,13_ladybug.png,Ladybugs are beetles that often eat plant pests such as aphids.
+14,35,B021,Firefly,14_firefly.png,Fireflies make light inside their bodies through a chemical reaction.
+15,37,B021,Stag Beetle,15_stag_beetle.png,Male stag beetles have large jaws that can look like deer antlers.
+16,39,B021,Rhinoceros Beetle,16_rhinoceros_beetle.png,Rhinoceros beetles are named for the horn-like structures on their heads.
+17,41,B021,Dung Beetle,17_dung_beetle.png,Some dung beetles roll balls of animal dung to use as food or nesting material.
+18,43,B021,Click Beetle,18_click_beetle.png,Click beetles can snap their bodies and spring into the air when lying on their backs.
+19,45,B021,Weevil,19_weevil.png,Weevils are beetles with long snout-like mouths.
+20,47,B021,Dragonfly,20_dragonfly.png,"Dragonflies can fly forward, backward, and hover in place."
+21,49,B021,Damselfly,21_damselfly.png,Damselflies usually fold their wings together above their bodies when resting.
+22,51,B021,Grasshopper,22_grasshopper.png,Grasshoppers have powerful back legs for jumping.
+23,53,B021,Field Cricket,23_field_cricket.png,Male crickets chirp by rubbing parts of their wings together.
+24,55,B021,Katydid,24_katydid.png,"Many katydids look like leaves, which helps them hide among plants."
+25,57,B021,Praying Mantis,25_praying_mantis.png,Praying mantises hold their front legs folded and use them to grab prey.
+26,59,B021,Walking Stick,26_walking_stick.png,Walking sticks use twig-like bodies as camouflage.
+27,61,B021,Leaf Insect,27_leaf_insect.png,Leaf insects have flat green bodies that resemble leaves.
+28,63,B021,Cicada,28_cicada.png,Male cicadas make loud buzzing songs using special organs on their bodies.
+29,65,B021,Aphid,29_aphid.png,Aphids use needle-like mouthparts to drink sap from plants.
+30,67,B021,Black Garden Ant,30_black_garden_ant.png,"Ant colonies can include workers, queens, and developing young."
+31,69,B022,Leafcutter Ant,31_leafcutter_ant.png,Leafcutter ants carry pieces of leaves underground to grow fungus for food.
+32,71,B022,Termite,32_termite.png,Termites live in colonies and are important recyclers of dead plant material.
+33,73,B022,Mosquito,33_mosquito.png,Only female mosquitoes of many species drink blood; both sexes also feed on plant sugars.
+34,75,B022,Housefly,34_housefly.png,Houseflies can taste food with sensors on their feet.
+35,77,B022,Fruit Fly,35_fruit_fly.png,Fruit flies are attracted to ripe or fermenting fruit.
+36,79,B022,Horsefly,36_horsefly.png,Horseflies have very large compound eyes.
+37,81,B022,Green Lacewing,37_green_lacewing.png,Lacewing larvae eat many small plant pests such as aphids.
+38,83,B022,Mayfly,38_mayfly.png,"Adult mayflies live briefly, while their young can spend much longer living in water."
+39,85,B022,Caddisfly,39_caddisfly.png,"Many caddisfly larvae build protective cases from sand, twigs, or other tiny materials."
+40,87,B022,Earwig,40_earwig.png,Earwigs have pincer-like structures at the ends of their abdomens.
+41,89,B022,Silverfish,41_silverfish.png,Silverfish are wingless insects with shiny scales and three tail-like bristles.
+42,91,B022,Flea,42_flea.png,Fleas can jump many times their own body length.
+43,93,B022,Water Strider,43_water_strider.png,Water striders can skate across the surface of ponds without sinking.
+44,95,B022,Water Boatman,44_water_boatman.png,Water boatmen are aquatic insects that swim using oar-like hind legs.
+45,97,B022,Diving Beetle,45_diving_beetle.png,Predaceous diving beetles are strong swimmers and carry air underwater.
+46,99,B022,Whirligig Beetle,46_whirligig_beetle.png,Whirligig beetles spin quickly across the surface of ponds in groups.
+47,101,B022,Spittlebug,47_spittlebug.png,Spittlebug young hide inside bubbly foam on plant stems.
+48,103,B022,Shield Bug,48_shield_bug.png,Shield bugs have broad bodies shaped a little like shields.
+49,105,B022,Assassin Bug,49_assassin_bug.png,Assassin bugs use a pointed beak to capture and feed on other small animals.
+50,107,B022,Stink Bug,50_stink_bug.png,Many stink bugs release a strong-smelling chemical when disturbed.
+51,109,B022,Lanternfly,51_lanternfly.png,Lanternflies are plant-feeding insects with striking wings and colors.
+52,111,B022,Dobsonfly,52_dobsonfly.png,"Adult dobsonflies have large wings, and males of some species have very long jaws."
+53,113,B022,Mole Cricket,53_mole_cricket.png,Mole crickets have shovel-like front legs made for digging.
+54,115,B022,Jerusalem Cricket,54_jerusalem_cricket.png,Jerusalem crickets are large wingless insects that spend much of their time underground.
+55,117,B022,Jumping Spider,55_jumping_spider.png,Jumping spiders have excellent eyesight and leap onto prey.
+56,119,B022,Orb-Weaver Spider,56_orb_weaver_spider.png,Orb-weaver spiders build round wheel-shaped webs.
+57,121,B022,Tarantula,57_tarantula.png,Tarantulas are large hairy spiders that usually hunt from the ground.
+58,123,B022,Scorpion,58_scorpion.png,Scorpions have pincers and a curved tail tipped with a stinger.
+59,125,B022,Centipede,59_centipede.png,Centipedes have one pair of legs on each body segment.
+60,127,B022,Millipede,60_millipede.png,Millipedes have two pairs of legs on most body segments and often curl up for protection.
