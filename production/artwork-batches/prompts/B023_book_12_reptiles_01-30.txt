@@ -1,0 +1,36 @@
+MIST° — Book 12: Reptiles & Amphibians — Batch B023 (Subjects 01–30)
+
+MASTER ART DIRECTION
+Original black-and-white children's coloring-book line art for ages 4–8. Portrait 8.5 x 11 composition. One clear main reptile or amphibian, friendly and anatomically plausible. Subject about 55–70% of usable area. Bold smooth outer contours, simpler interior details, large enclosed coloring spaces, generous white space. Include only 5–10 large habitat-appropriate background elements. Keep important linework inside a 0.50-inch safe-content target. Leave lower area reasonably open for separately typeset name and fact. Preferred master: 2550 x 3300 PNG. No words, letters, numbers, captions, signatures, logos, watermarks, grayscale, shading, hatching, gradients, textures, decorative borders, cropped anatomy, duplicated limbs, or tiny clutter.
+
+Generate one image per numbered subject:
+01 Green Iguana — resting on tropical branch; long tail, dewlap and dorsal spines clear.
+02 Marine Iguana — on volcanic shoreline rock with simple waves; blunt snout and strong claws.
+03 Veiled Chameleon — gripping branch; curled tail, casque and independently aimed eyes suggested clearly.
+04 Panther Chameleon — on leafy branch; curled tail and simple color-region outlines only.
+05 Bearded Dragon — standing on desert rock; spiny throat and sturdy body.
+06 Komodo Dragon — walking through dry scrub; large muscular lizard body and long tail.
+07 Gila Monster — on desert ground near cactus; beadlike skin pattern represented as simple line regions.
+08 Leopard Gecko — on rock ledge; thick tail and spotted pattern regions kept large.
+09 Crested Gecko — on rainforest branch; eyelash-like crests and gripping toes.
+10 Tokay Gecko — clinging to tree trunk; large head and rounded toe pads.
+11 Blue-Tongued Skink — walking through leaf litter with tongue visible; long smooth body.
+12 Green Anole — perched on twig with dewlap visible; slim body and long tail.
+13 Frilled Lizard — standing with neck frill fully open; Australian scrub simplified.
+14 Common Basilisk — poised beside stream with long toes and crest; simple water and stones.
+15 Thorny Devil — on sandy desert ground; spiny body silhouette and short tail.
+16 Nile Monitor — walking along riverbank; long neck, forked tongue and powerful tail.
+17 Corn Snake — loosely coiled on branch; nonvenomous head shape and simple saddle patterns.
+18 Ball Python — coiled on forest floor; thick body and rounded pattern regions.
+19 King Cobra — upright with hood spread; full body safely visible, no attack pose.
+20 Western Diamondback Rattlesnake — coiled beside desert rock; rattle clear and diamond regions simplified.
+21 Boa Constrictor — draped around sturdy branch; thick muscular body and large pattern shapes.
+22 Green Anaconda — partly in swamp water; heavy body, simple reeds and ripples.
+23 Garter Snake — moving through garden grass; long slender body and stripe regions.
+24 Milk Snake — gently coiled on woodland floor; bold band pattern regions only.
+25 Hognose Snake — on loose sandy soil; upturned snout prominent.
+26 Black Mamba — long streamlined snake moving through savanna grass; narrow head and body.
+27 Reticulated Python — coiled beside rainforest roots; large netlike pattern regions simplified.
+28 Yellow-Bellied Sea Snake — swimming underwater; paddlelike tail, simple waves and bubbles.
+29 Nile Crocodile — resting on riverbank; long snout, armored back, full tail visible.
+30 American Alligator — lying beside marsh water; broad snout, scutes, simple reeds.
