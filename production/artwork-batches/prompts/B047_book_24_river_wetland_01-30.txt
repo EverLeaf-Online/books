@@ -28,7 +28,7 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 23 — Map Turtle: Map turtle basking on branch above water, patterned shell simplified, river plants, rocks, ripples.
 24 — Red-Eared Slider: Red-eared slider on sunny pond log, red head patch, lily pads, cattails, simple water ripples.
 25 — Green Anaconda: Large anaconda coiled along swamp water edge, thick body, broad leaves, roots, water plants.
-26 — Water Moccasin: Water moccasin resting on wet log near marsh, heavy body, reeds, water ripples, muddy bank.
+26 — Cottonmouth: Cottonmouth resting on wet log near marsh, heavy body, broad triangular head, reeds, water ripples, muddy bank; neutral non-striking pose.
 27 — Northern Water Snake: Water snake swimming near surface with head raised, winding body, river reeds, rocks, ripples.
 28 — Green Frog: Green frog sitting on pond bank, round eyes, lily pad, cattails, water ripples, grass.
 29 — Bullfrog: Large bullfrog at marsh edge, powerful hind legs, reeds, lily pad, water, simple flowers.
