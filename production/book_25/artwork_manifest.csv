@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,status,qa_status
+1,9,B049,Mountain Goat,01_mountain_goat.png,Queued,Not Reviewed
+2,11,B049,Bighorn Sheep,02_bighorn_sheep.png,Queued,Not Reviewed
+3,13,B049,Dall Sheep,03_dall_sheep.png,Queued,Not Reviewed
+4,15,B049,Alpine Ibex,04_alpine_ibex.png,Queued,Not Reviewed
+5,17,B049,Nubian Ibex,05_nubian_ibex.png,Queued,Not Reviewed
+6,19,B049,Himalayan Tahr,06_himalayan_tahr.png,Queued,Not Reviewed
+7,21,B049,Markhor,07_markhor.png,Queued,Not Reviewed
+8,23,B049,Chamois,08_chamois.png,Queued,Not Reviewed
+9,25,B049,Tibetan Antelope,09_tibetan_antelope.png,Queued,Not Reviewed
+10,27,B049,Yak,10_yak.png,Queued,Not Reviewed
+11,29,B049,Musk Deer,11_musk_deer.png,Queued,Not Reviewed
+12,31,B049,Red Deer,12_red_deer.png,Queued,Not Reviewed
+13,33,B049,Elk,13_elk.png,Queued,Not Reviewed
+14,35,B049,Moose,14_moose.png,Queued,Not Reviewed
+15,37,B049,Pronghorn,15_pronghorn.png,Queued,Not Reviewed
+16,39,B049,American Pika,16_american_pika.png,Queued,Not Reviewed
+17,41,B049,Alpine Marmot,17_alpine_marmot.png,Queued,Not Reviewed
+18,43,B049,Hoary Marmot,18_hoary_marmot.png,Queued,Not Reviewed
+19,45,B049,Yellow-Bellied Marmot,19_yellow_bellied_marmot.png,Queued,Not Reviewed
+20,47,B049,Mountain Hare,20_mountain_hare.png,Queued,Not Reviewed
+21,49,B049,Snowshoe Hare,21_snowshoe_hare.png,Queued,Not Reviewed
+22,51,B049,Rock Hyrax,22_rock_hyrax.png,Queued,Not Reviewed
+23,53,B049,Snow Leopard,23_snow_leopard.png,Queued,Not Reviewed
+24,55,B049,Cougar,24_cougar.png,Queued,Not Reviewed
+25,57,B049,Canada Lynx,25_canada_lynx.png,Queued,Not Reviewed
+26,59,B049,Eurasian Lynx,26_eurasian_lynx.png,Queued,Not Reviewed
+27,61,B049,Pallas's Cat,27_pallass_cat.png,Queued,Not Reviewed
+28,63,B049,Andean Mountain Cat,28_andean_mountain_cat.png,Queued,Not Reviewed
+29,65,B049,Brown Bear,29_brown_bear.png,Queued,Not Reviewed
+30,67,B049,American Black Bear,30_american_black_bear.png,Queued,Not Reviewed
+31,69,B050,Spectacled Bear,31_spectacled_bear.png,Queued,Not Reviewed
+32,71,B050,Gray Wolf,32_gray_wolf.png,Queued,Not Reviewed
+33,73,B050,Red Fox,33_red_fox.png,Queued,Not Reviewed
+34,75,B050,Coyote,34_coyote.png,Queued,Not Reviewed
+35,77,B050,Andean Fox,35_andean_fox.png,Queued,Not Reviewed
+36,79,B050,Golden Eagle,36_golden_eagle.png,Queued,Not Reviewed
+37,81,B050,Bald Eagle,37_bald_eagle.png,Queued,Not Reviewed
+38,83,B050,Bearded Vulture,38_bearded_vulture.png,Queued,Not Reviewed
+39,85,B050,Andean Condor,39_andean_condor.png,Queued,Not Reviewed
+40,87,B050,Himalayan Griffon,40_himalayan_griffon.png,Queued,Not Reviewed
+41,89,B050,Himalayan Snowcock,41_himalayan_snowcock.png,Queued,Not Reviewed
+42,91,B050,Snowy Owl,42_snowy_owl.png,Queued,Not Reviewed
+43,93,B050,White-Tailed Ptarmigan,43_white_tailed_ptarmigan.png,Queued,Not Reviewed
+44,95,B050,Rock Ptarmigan,44_rock_ptarmigan.png,Queued,Not Reviewed
+45,97,B050,Himalayan Monal,45_himalayan_monal.png,Queued,Not Reviewed
+46,99,B050,Golden Pheasant,46_golden_pheasant.png,Queued,Not Reviewed
+47,101,B050,Wallcreeper,47_wallcreeper.png,Queued,Not Reviewed
+48,103,B050,Alpine Chough,48_alpine_chough.png,Queued,Not Reviewed
+49,105,B050,Clark's Nutcracker,49_clarks_nutcracker.png,Queued,Not Reviewed
+50,107,B050,Mountain Bluebird,50_mountain_bluebird.png,Queued,Not Reviewed
+51,109,B050,Rocky Mountain Toad,51_rocky_mountain_toad.png,Queued,Not Reviewed
+52,111,B050,Mountain Yellow-Legged Frog,52_mountain_yellow_legged_frog.png,Queued,Not Reviewed
+53,113,B050,Alpine Newt,53_alpine_newt.png,Queued,Not Reviewed
+54,115,B050,European Adder,54_european_adder.png,Queued,Not Reviewed
+55,117,B050,Rock Rattlesnake,55_rock_rattlesnake.png,Queued,Not Reviewed
+56,119,B050,Himalayan Pit Viper,56_himalayan_pit_viper.png,Queued,Not Reviewed
+57,121,B050,Viviparous Lizard,57_viviparous_lizard.png,Queued,Not Reviewed
+58,123,B050,Mountain Stream Salamander,58_mountain_stream_salamander.png,Queued,Not Reviewed
+59,125,B050,Apollo Butterfly,59_apollo_butterfly.png,Queued,Not Reviewed
+60,127,B050,Mountain Bumblebee,60_mountain_bumblebee.png,Queued,Not Reviewed
