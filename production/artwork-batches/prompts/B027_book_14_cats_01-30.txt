@@ -1,0 +1,47 @@
+MIST° ORIGINAL COLORING BOOK ART BRIEF
+Book 14: Cats
+Batch B027: subjects 01-30
+
+Shared art direction for every prompt:
+- Original black-and-white children's coloring-book line art for ages 4-8.
+- Portrait 8.5 x 11 composition; preferred master 2550 x 3300 PNG.
+- One clear main cat, friendly and anatomically plausible, filling about 55-70% of usable page area.
+- Bold smooth outer contours, simple enclosed shapes, generous white space.
+- Use breed-appropriate head shape, ears, coat/hairless features, body proportions, tail, and markings where relevant.
+- Add only 5-10 large, simple setting elements such as cushion, rug, window, scratching post, plant, grass, or toy.
+- Keep important linework inside the 0.50-inch safe-content target; leave lower area reasonably open for separately typeset name and fact.
+- Pure black line art on pure white only; no color, grayscale, shading, hatching, gradients, textures, text, letters, numbers, captions, signatures, logos, watermarks, borders, clutter, cropped anatomy, duplicate limbs, or malformed features.
+
+Prompts:
+01. Maine Coon — Large fluffy cat with broad chest, tufted ears, big paws, and bushy tail; friendly seated pose.
+02. Siamese — Slender cat with wedge-shaped face, large ears, long tail, and clear pointed-color pattern indicated only through simple line boundaries.
+03. Persian — Round-faced long-haired cat with compact body, short muzzle, and full flowing coat.
+04. Ragdoll — Large gentle long-haired cat with soft rounded features, fluffy tail, and relaxed pose.
+05. Bengal — Athletic spotted cat with clear rosette-style coat shapes simplified into large coloring spaces.
+06. British Shorthair — Sturdy round-faced cat with dense plush-looking coat and thick tail.
+07. Sphynx — Hairless cat with large ears, wrinkled skin folds kept simple, long limbs, and friendly expression.
+08. Scottish Fold — Round-faced cat with small folded ears and compact plush body.
+09. Abyssinian — Sleek athletic cat with large ears, almond eyes, and elegant standing pose; avoid tiny coat detail.
+10. American Shorthair — Sturdy balanced cat with classic domestic proportions and simple striped coat pattern.
+11. Norwegian Forest Cat — Large long-haired cat with triangular head, tufted ears, thick ruff, and bushy tail.
+12. Birman — Medium-long-haired cat with rounded face, fluffy tail, and simplified pointed pattern plus white paws.
+13. Russian Blue — Sleek short-haired cat with narrow face, large ears, long tail, and calm poised stance.
+14. Oriental Shorthair — Very slender long-bodied cat with large ears, long legs, and long tapering tail.
+15. Devon Rex — Small cat with very large ears, short wavy coat suggested with broad simple curls, and playful pose.
+16. Cornish Rex — Slim cat with large ears and soft wavy coat shown with simple flowing contour lines.
+17. Manx — Round sturdy cat with naturally short or absent tail; show strong hindquarters.
+18. Turkish Angora — Elegant long-haired cat with slim body, fine face, and long plumed tail.
+19. Turkish Van — Strong medium-long-haired cat with fluffy tail and simple head/tail marking regions.
+20. Egyptian Mau — Graceful naturally spotted cat with long legs and large simple spots.
+21. Ocicat — Muscular domestic cat with bold simple spots and confident standing pose.
+22. Savannah — Tall long-legged cat with very large ears, long neck, and bold simplified spots.
+23. American Curl — Medium cat with distinctive ears curling backward and soft friendly pose.
+24. Selkirk Rex — Round plush cat with curly coat suggested by large loose waves and curls.
+25. Himalayan — Long-haired Persian-type cat with round face and simplified pointed-color areas.
+26. Balinese — Slender long-haired Siamese-type cat with large ears and flowing tail plume.
+27. Bombay — Sleek muscular short-haired cat with round eyes and smooth silhouette.
+28. Burmese — Compact muscular cat with rounded head, medium ears, and glossy-looking simple coat silhouette.
+29. Tonkinese — Medium athletic cat combining rounded and slender traits, with simple pointed coat regions.
+30. Chartreux — Sturdy blue-gray type cat with round head, small ears, thick body, and calm seated pose.
+
+For every subject, keep breed recognition clear but simplify coat detail into large colorable shapes and use a cozy or garden setting with only a few large elements.
