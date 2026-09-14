@@ -1,0 +1,34 @@
+book,item,issue,required_action,status
+20,Entire catalog,Current endangered/rare suitability and taxonomy can change,Verify against current recognized conservation/taxonomy sources before final upload,Open
+24,River Otter,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
+24,Softshell Turtle,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
+24,Map Turtle,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
+24,Leopard Frog,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
+24,Tree Frog,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
+24,Newt,Broad common label,Normalize to a deliberate species or explicitly approve generic representative before art approval,Open
+24,River Kingfisher,Nonstandard broad label,Choose a specific kingfisher species appropriate to river/wetland habitat and propagate through all production files,Open
+24,Cottonmouth,Former Water Moccasin label normalized,No further naming action; verify artwork matches cottonmouth anatomy,Resolved
+26,Giant Panda,Former Panda label normalized,No further naming action; verify artwork matches giant panda,Resolved
+26,Beluga Whale,Former Beluga label normalized,No further naming action; verify artwork matches beluga whale,Resolved
+26,Pika,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
+26,Rabbit,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
+26,Dwarf Rabbit,Broad pet-type label,Choose a deliberate representative or explicitly approve generic dwarf-rabbit form,Open
+26,River Otter,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
+26,Sloth,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
+26,Hummingbird,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
+26,Bluebird,Broad common label,Normalize or explicitly approve generic representative before art approval,Open
+27,Bowerbird,Broad common label,Choose a deliberate bowerbird species and propagate through catalog/prompt/manifests,Open
+28,Shortfin Mako Shark,Former Mako Shark label normalized,No further naming action; verify artwork matches shortfin mako anatomy,Resolved
+28,Hammerhead Shark,Broad common label,Choose a deliberate hammerhead species or explicitly approve generic representative,Open
+28,Dogfish Shark,Broad common label,Choose a deliberate dogfish species or explicitly approve generic representative,Open
+28,Electric Ray,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
+28,Butterfly Ray,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
+28,Guitarfish,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
+28,Shovelnose Ray,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
+28,Sawfish,Broad common label,Choose a deliberate sawfish species or explicitly approve generic representative,Open
+28,Skate,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
+28,Devil Ray,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
+28,Mobula Ray,Broad/overlapping common label,Choose a deliberate Mobula species and keep distinct from Devil Ray entry,Open
+28,Freshwater Stingray,Broad common label,Choose a deliberate South American freshwater stingray species or explicitly approve generic representative,Open
+28,Baby Shark,Generic juvenile label,Define a parent species or explicitly approve generic shark-pup educational page,Open
+28,Ray Pup,Generic juvenile label,Define a parent species or explicitly approve generic ray-pup educational page,Open
