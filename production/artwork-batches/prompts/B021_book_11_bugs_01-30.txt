@@ -1,0 +1,36 @@
+MIST° — Book 11: Bugs & Butterflies — Batch B021 (Subjects 01–30)
+
+MASTER ART DIRECTION
+Original black-and-white children's coloring-book line art for ages 4–8. Portrait 8.5 x 11 composition. One clear main insect or tiny creature, friendly and anatomically plausible. Main subject about 55–70% of usable drawing area. Bold smooth outer contours, simple interior line regions, large enclosed coloring spaces, generous white space. Use only 5–10 large habitat elements. Keep important linework inside a 0.50-inch safe-content target. Leave lower area reasonably open for separately typeset name and fact. Preferred master: 2550 x 3300 PNG. No words, letters, numbers, captions, signatures, logos, watermarks, grayscale, shading, hatching, gradients, textures, decorative borders, cropped anatomy, duplicated limbs/wings, or tiny clutter.
+
+Generate one image per numbered subject:
+01 Monarch Butterfly — wings open on milkweed flower; bold simple wing pattern regions.
+02 Swallowtail Butterfly — perched on flower with hindwing tails clearly visible.
+03 Painted Lady Butterfly — wings spread above simple meadow flowers.
+04 Blue Morpho Butterfly — wings open on tropical leaf; pattern represented with simple line regions.
+05 Luna Moth — resting on branch; long hindwing tails and pale-green form rendered as line art only.
+06 Atlas Moth — large moth on branch; broad patterned wings simplified.
+07 Cecropia Moth — resting on tree trunk; large rounded wings with simple banded regions.
+08 Honey Bee — hovering beside one large flower; clear fuzzy thorax and striped abdomen line regions.
+09 Bumblebee — on clover blossom; chunky fuzzy body and simple wings.
+10 Carpenter Bee — near a round entrance hole in wood; sturdy bee body.
+11 Paper Wasp — perched beside open paper comb nest; narrow waist and long legs clear.
+12 Bald-Faced Hornet — near hanging paper nest; strong black-and-white pattern separated by line regions only.
+13 Ladybug — crawling on leaf; large spots and six legs clear.
+14 Firefly — perched on grass blade at dusk setting without shading; abdomen tip emphasized through outline only.
+15 Stag Beetle — standing on bark; large antler-like jaws clear.
+16 Rhinoceros Beetle — on leaf; horn-like head structure prominent.
+17 Dung Beetle — rolling a simple round dung ball across ground.
+18 Click Beetle — standing on bark with elongated body; simple woodland floor.
+19 Weevil — on grain or leaf; long snout prominent.
+20 Dragonfly — perched on reed over pond; four transparent wings simplified with broad vein shapes.
+21 Damselfly — slender body perched on grass stem; wings folded together.
+22 Grasshopper — standing in meadow grass; oversized jumping hind legs.
+23 Field Cricket — on soil near grass; bent hind legs and long antennae.
+24 Katydid — perched on broad leaf; leaflike wings and long antennae.
+25 Praying Mantis — standing on twig; folded grasping front legs prominent.
+26 Walking Stick — aligned along branch; long twiglike body and legs easy to distinguish.
+27 Leaf Insect — perched on leaf; broad leaf-shaped body and legs.
+28 Cicada — clinging to tree trunk; large clear wings and stout body.
+29 Aphid — oversized educational close-up on plant stem; simple pear-shaped body and six legs.
+30 Black Garden Ant — oversized close-up carrying one seed; head-thorax-abdomen clearly separated.
