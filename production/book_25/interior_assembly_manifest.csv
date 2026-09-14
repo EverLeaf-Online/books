@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,fact
+1,9,B049,Mountain Goat,01_mountain_goat.png,Mountain goats have rubbery hoof pads that help them grip steep rock.
+2,11,B049,Bighorn Sheep,02_bighorn_sheep.png,Bighorn sheep use powerful legs to climb rocky slopes.
+3,13,B049,Dall Sheep,03_dall_sheep.png,Dall sheep have white coats that blend into snowy mountain landscapes.
+4,15,B049,Alpine Ibex,04_alpine_ibex.png,Alpine ibex are wild goats with long curved horns.
+5,17,B049,Nubian Ibex,05_nubian_ibex.png,Nubian ibex live on steep rocky mountains in dry regions.
+6,19,B049,Himalayan Tahr,06_himalayan_tahr.png,Himalayan tahrs are sure-footed hoofed mammals with thick coats.
+7,21,B049,Markhor,07_markhor.png,Markhors are wild goats with dramatic spiral horns.
+8,23,B049,Chamois,08_chamois.png,Chamois are agile mountain animals related to goats and antelopes.
+9,25,B049,Tibetan Antelope,09_tibetan_antelope.png,Tibetan antelope live on high cold plateaus.
+10,27,B049,Yak,10_yak.png,Domestic and wild yaks have thick coats for cold high-altitude environments.
+11,29,B049,Musk Deer,11_musk_deer.png,Musk deer have long canine teeth instead of antlers.
+12,31,B049,Red Deer,12_red_deer.png,Red deer live in forests and mountain valleys in many regions.
+13,33,B049,Elk,13_elk.png,Elk often move between mountain meadows and forests.
+14,35,B049,Moose,14_moose.png,Moose can live in cool mountain forests and wetlands.
+15,37,B049,Pronghorn,15_pronghorn.png,Pronghorns use speed to cross open high plains.
+16,39,B049,American Pika,16_american_pika.png,Pikas collect plants into haypiles for winter.
+17,41,B049,Alpine Marmot,17_alpine_marmot.png,Alpine marmots live in mountain burrows and hibernate through winter.
+18,43,B049,Hoary Marmot,18_hoary_marmot.png,Hoary marmots are large ground squirrels of rocky mountain regions.
+19,45,B049,Yellow-Bellied Marmot,19_yellow_bellied_marmot.png,These marmots bask on rocks near mountain burrows.
+20,47,B049,Mountain Hare,20_mountain_hare.png,Mountain hares can grow pale winter coats in snowy regions.
+21,49,B049,Snowshoe Hare,21_snowshoe_hare.png,Snowshoe hares have oversized furry feet that help them move over snow.
+22,51,B049,Rock Hyrax,22_rock_hyrax.png,Rock hyraxes live among cliffs and boulders in parts of Africa and the Middle East.
+23,53,B049,Snow Leopard,23_snow_leopard.png,Snow leopards have long tails that help with balance on steep slopes.
+24,55,B049,Cougar,24_cougar.png,Cougars can live in rugged mountains from Canada to South America.
+25,57,B049,Canada Lynx,25_canada_lynx.png,Canada lynx have large paws that help them travel over deep snow.
+26,59,B049,Eurasian Lynx,26_eurasian_lynx.png,Eurasian lynx live in forests and mountains across Europe and Asia.
+27,61,B049,Pallas's Cat,27_pallass_cat.png,Pallas's cats have dense fur and live in rocky highland habitats.
+28,63,B049,Andean Mountain Cat,28_andean_mountain_cat.png,Andean mountain cats live high in the Andes Mountains.
+29,65,B049,Brown Bear,29_brown_bear.png,"Brown bears forage in mountain forests, meadows, and river valleys."
+30,67,B049,American Black Bear,30_american_black_bear.png,Black bears can live in wooded mountain regions.
+31,69,B050,Spectacled Bear,31_spectacled_bear.png,Spectacled bears live in Andean forests and mountain grasslands.
+32,71,B050,Gray Wolf,32_gray_wolf.png,Wolves can travel long distances through mountain valleys and forests.
+33,73,B050,Red Fox,33_red_fox.png,"Red foxes adapt to many habitats, including mountain regions."
+34,75,B050,Coyote,34_coyote.png,Coyotes can live in dry foothills and mountain valleys.
+35,77,B050,Andean Fox,35_andean_fox.png,Andean foxes live from deserts to high mountain grasslands.
+36,79,B050,Golden Eagle,36_golden_eagle.png,Golden eagles soar over mountains while searching for prey.
+37,81,B050,Bald Eagle,37_bald_eagle.png,Bald eagles often nest near mountain lakes and rivers.
+38,83,B050,Bearded Vulture,38_bearded_vulture.png,Bearded vultures are famous for dropping bones onto rocks to break them.
+39,85,B050,Andean Condor,39_andean_condor.png,Andean condors use rising mountain air to soar with little flapping.
+40,87,B050,Himalayan Griffon,40_himalayan_griffon.png,Himalayan griffons are huge vultures that soar over high Asian mountains.
+41,89,B050,Himalayan Snowcock,41_himalayan_snowcock.png,Himalayan snowcocks are high-altitude birds that live on rocky slopes in Central and South Asia.
+42,91,B050,Snowy Owl,42_snowy_owl.png,Snowy owls can live on cold open highlands as well as Arctic tundra.
+43,93,B050,White-Tailed Ptarmigan,43_white_tailed_ptarmigan.png,White-tailed ptarmigan are birds specialized for high alpine environments.
+44,95,B050,Rock Ptarmigan,44_rock_ptarmigan.png,Rock ptarmigan change plumage color with the seasons.
+45,97,B050,Himalayan Monal,45_himalayan_monal.png,Himalayan monals are colorful pheasants of high mountain forests.
+46,99,B050,Golden Pheasant,46_golden_pheasant.png,Golden pheasants live in mountainous forests and dense shrublands.
+47,101,B050,Wallcreeper,47_wallcreeper.png,Wallcreepers climb steep rock faces while searching for insects.
+48,103,B050,Alpine Chough,48_alpine_chough.png,Alpine choughs are black mountain birds with bright yellow bills.
+49,105,B050,Clark's Nutcracker,49_clarks_nutcracker.png,Clark's nutcrackers bury pine seeds and remember many of their hiding places.
+50,107,B050,Mountain Bluebird,50_mountain_bluebird.png,Mountain bluebirds live in open country at high elevations.
+51,109,B050,Rocky Mountain Toad,51_rocky_mountain_toad.png,Mountain toads spend cold seasons hidden underground.
+52,111,B050,Mountain Yellow-Legged Frog,52_mountain_yellow_legged_frog.png,These frogs live around high mountain lakes and streams.
+53,113,B050,Alpine Newt,53_alpine_newt.png,Alpine newts live in cool ponds and wetlands in mountainous areas.
+54,115,B050,European Adder,54_european_adder.png,Adders can live in cool upland and mountain habitats.
+55,117,B050,Rock Rattlesnake,55_rock_rattlesnake.png,Rock rattlesnakes live among rocky canyons and mountain slopes.
+56,119,B050,Himalayan Pit Viper,56_himalayan_pit_viper.png,Himalayan pit vipers live in rocky high-elevation habitats.
+57,121,B050,Viviparous Lizard,57_viviparous_lizard.png,This lizard can give birth to live young and lives in cool northern and mountain regions.
+58,123,B050,Mountain Stream Salamander,58_mountain_stream_salamander.png,Many stream salamanders need cool clean mountain water.
+59,125,B050,Apollo Butterfly,59_apollo_butterfly.png,Apollo butterflies live in sunny mountain meadows.
+60,127,B050,Mountain Bumblebee,60_mountain_bumblebee.png,Some bumblebees are specially adapted to cool high-elevation climates.
