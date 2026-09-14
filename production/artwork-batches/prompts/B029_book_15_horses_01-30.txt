@@ -1,0 +1,48 @@
+MIST° ORIGINAL COLORING BOOK ART BRIEF
+Book 15: Horses
+Batch B029: subjects 01-30
+
+Shared art direction for every prompt:
+- Original black-and-white children's coloring-book line art for ages 4-8.
+- Portrait 8.5 x 11 composition; preferred master 2550 x 3300 PNG.
+- One clear main horse or pony, friendly and anatomically plausible, filling about 55-70% of usable page area.
+- Bold smooth outer contours, simple enclosed shapes, generous white space.
+- Show breed-appropriate head profile, mane, neck, body build, legs, feathering, gait, or coat pattern where relevant.
+- Use a balanced standing or walking pose; avoid complex foreshortening.
+- Add only 5-10 large, simple setting elements such as grass, fence rails, barn silhouette, trail, mountain, or field.
+- Keep important linework inside the 0.50-inch safe-content target; leave lower area reasonably open for separately typeset name and fact.
+- Pure black line art on pure white only; no color, grayscale, shading, hatching, gradients, textures, text, letters, numbers, captions, signatures, logos, watermarks, borders, clutter, cropped anatomy, duplicate limbs, or malformed legs/hooves.
+
+Prompts:
+01. Arabian — Refined horse with dished face, arched neck, high-carried tail, and light elegant build.
+02. Thoroughbred — Tall athletic racehorse type with long legs, deep chest, and lean powerful body.
+03. American Quarter Horse — Compact muscular horse with strong hindquarters and sturdy ranch-horse build.
+04. Appaloosa — Athletic horse with broad simple spotted coat regions, striped-hoof suggestion, and balanced stance.
+05. Paint Horse — Stock-type horse with large irregular white-and-dark coat patches rendered as big enclosed coloring shapes.
+06. Mustang — Hardy free-roaming horse with natural mane, sturdy build, and simple open-range setting.
+07. Clydesdale — Very large draft horse with broad body, long lower-leg feathering, and heavy hooves.
+08. Percheron — Powerful French draft horse with muscular neck, broad chest, and clean heavy-horse silhouette.
+09. Belgian Draft Horse — Massive compact draft horse with thick neck, wide chest, and strong short-coupled body.
+10. Shire — Very tall draft horse with long legs, heavy feathering, and broad calm face.
+11. Friesian — Elegant black-type horse silhouette with arched neck, long flowing mane and tail, and feathered legs.
+12. Andalusian — Compact elegant Spanish horse with arched neck, flowing mane, and collected balanced stance.
+13. Lipizzaner — Classical dressage-type horse with refined head, muscular neck, and poised collected posture.
+14. Morgan — Compact versatile horse with expressive head, arched neck, and strong balanced body.
+15. Tennessee Walking Horse — Refined gaited horse with long neck and a clear smooth walking pose.
+16. Standardbred — Strong harness-racing type horse with long body, muscular shoulders, and active trot pose without equipment.
+17. American Saddlebred — Elegant high-necked horse with refined head and stylish high-stepping but anatomically natural pose.
+18. Missouri Fox Trotter — Medium gaited horse with sturdy build and relaxed smooth-travel posture.
+19. Paso Fino — Compact elegant gaited horse with upright carriage and short rapid-step suggestion simplified for coloring.
+20. Icelandic Horse — Small sturdy horse with thick mane, compact body, and clear tölt-style gait pose.
+21. Fjord Horse — Strong small horse with broad body, upright two-toned mane indicated by simple line regions, and sturdy legs.
+22. Haflinger — Compact chestnut-type mountain horse with pale flowing mane silhouette and friendly sturdy body.
+23. Gypsy Vanner — Cob-type horse with abundant leg feathering, long flowing mane, and broad simple piebald coat patches.
+24. Connemara Pony — Athletic Irish pony with sturdy body, alert ears, and simple jumping-field context without showing a jump.
+25. Welsh Pony — Refined hardy pony with expressive head, compact body, and flowing mane.
+26. Shetland Pony — Very small sturdy pony with thick mane, short strong legs, and compact round body.
+27. Dartmoor Pony — Hardy medium pony with tidy head, strong legs, and simple moorland setting.
+28. Exmoor Pony — Sturdy primitive-type pony with thick mane, compact body, and simple rough-grass setting.
+29. New Forest Pony — Versatile British pony with balanced medium build and simple woodland-field context.
+30. Fell Pony — Sturdy dark-type pony with thick mane, some lower-leg feathering, and strong pack-pony build.
+
+For every subject, make the breed silhouette immediately recognizable while keeping tack optional and minimal; no rider, no text, and no intricate background detail.
