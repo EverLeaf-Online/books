@@ -6,7 +6,7 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 01 — Red Panda: Red panda sitting on tree branch, fluffy ringed tail, bamboo leaves, rounded friendly face.
 02 — Quokka: Quokka standing on grassy island ground, rounded ears, small paws, simple shrubs.
 03 — Koala: Koala hugging eucalyptus branch, big round nose, large ears, simple leaves.
-04 — Panda: Giant panda sitting with bamboo stalk, rounded paws, simple bamboo grove.
+04 — Giant Panda: Giant panda sitting with bamboo stalk, rounded paws, simple bamboo grove.
 05 — Fennec Fox: Fennec fox sitting in desert sand, enormous ears, small paws, dunes, sparse plants.
 06 — Arctic Fox: Fluffy Arctic fox curled in snow, tiny rounded ears, large tail, simple snowdrifts.
 07 — Pika: Small pika perched on rock, round ears, alpine flowers, simple mountain rocks.
