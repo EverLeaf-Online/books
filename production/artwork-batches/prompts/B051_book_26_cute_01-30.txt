@@ -9,10 +9,10 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 04 — Giant Panda: Giant panda sitting with bamboo stalk, rounded paws, simple bamboo grove.
 05 — Fennec Fox: Fennec fox sitting in desert sand, enormous ears, small paws, dunes, sparse plants.
 06 — Arctic Fox: Fluffy Arctic fox curled in snow, tiny rounded ears, large tail, simple snowdrifts.
-07 — Pika: Small pika perched on rock, round ears, alpine flowers, simple mountain rocks.
+07 — American Pika: Small American pika perched on alpine rock beside a simple haypile, round ears, alpine flowers, mountain stones.
 08 — Hedgehog: Hedgehog standing among leaves, rounded body, simplified soft-looking spines, mushrooms.
-09 — Rabbit: Rabbit sitting in meadow, long ears, fluffy tail, flowers, grass tufts.
-10 — Dwarf Rabbit: Tiny dwarf rabbit beside clover, compact body, round cheeks, simple garden setting.
+09 — Eastern Cottontail: Eastern cottontail sitting in meadow, long ears, fluffy white-under-tail area left clear for coloring, flowers, grass tufts.
+10 — Netherland Dwarf Rabbit: Tiny Netherland Dwarf rabbit beside clover, compact rounded body, short upright ears, simple garden setting.
 11 — Guinea Pig: Guinea pig sitting in hay, rounded body, small ears, simple vegetables nearby.
 12 — Hamster: Hamster holding a seed, full cheek pouches, bedding-like grass, tiny simple tunnel entrance.
 13 — Chinchilla: Chinchilla perched on rock, huge ears, fluffy tail, simple mountain stones.
@@ -20,9 +20,9 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 15 — Flying Squirrel: Flying squirrel gliding between two branches, wide membrane, simple forest canopy.
 16 — Chipmunk: Chipmunk holding acorn, striped back, cheek pouches, leaves and small log.
 17 — Sea Otter: Sea otter floating on back holding shell, paws together, kelp fronds, calm waves.
-18 — River Otter: River otter sliding down muddy bank into stream, sleek body, cattails, rocks.
+18 — North American River Otter: North American river otter sliding down muddy bank into stream, sleek streamlined body, strong tail, cattails, rocks.
 19 — Meerkat: Meerkat standing upright on sandy mound, paws at chest, burrow holes, sparse grass.
-20 — Sloth: Sloth hanging gently from branch, curved claws, leafy canopy, smiling relaxed expression.
+20 — Brown-Throated Three-Toed Sloth: Brown-throated three-toed sloth hanging gently from branch, three long curved claws visible on forelimb, leafy canopy, relaxed expression.
 21 — Capybara: Capybara sitting beside pond, rounded body, reeds, water lilies, simple grass.
 22 — Pygmy Marmoset: Tiny marmoset clinging to branch, round eyes, leaves, fruit shapes.
 23 — Tarsier: Tarsier perched on thin branch, enormous eyes, long fingers, simple night forest leaves.
