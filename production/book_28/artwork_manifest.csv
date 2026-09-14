@@ -8,7 +8,7 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 7,21,B055,Blacktip Reef Shark,07_blacktip_reef_shark.png,Queued,Not Reviewed
 8,23,B055,Whitetip Reef Shark,08_whitetip_reef_shark.png,Queued,Not Reviewed
 9,25,B055,Lemon Shark,09_lemon_shark.png,Queued,Not Reviewed
-10,27,B055,Mako Shark,10_mako_shark.png,Queued,Not Reviewed
+10,27,B055,Shortfin Mako Shark,10_shortfin_mako_shark.png,Queued,Not Reviewed
 11,29,B055,Thresher Shark,11_thresher_shark.png,Queued,Not Reviewed
 12,31,B055,Goblin Shark,12_goblin_shark.png,Queued,Not Reviewed
 13,33,B055,Basking Shark,13_basking_shark.png,Queued,Not Reviewed
