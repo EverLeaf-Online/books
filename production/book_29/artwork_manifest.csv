@@ -1,0 +1,61 @@
+number,interior_page,batch,subject,expected_filename,status,qa_status
+1,9,B057,Lion Family,01_lion_family.png,Queued,Not Reviewed
+2,11,B057,Elephant Family,02_elephant_family.png,Queued,Not Reviewed
+3,13,B057,Giraffe Family,03_giraffe_family.png,Queued,Not Reviewed
+4,15,B057,Zebra Family,04_zebra_family.png,Queued,Not Reviewed
+5,17,B057,Gorilla Family,05_gorilla_family.png,Queued,Not Reviewed
+6,19,B057,Chimpanzee Family,06_chimpanzee_family.png,Queued,Not Reviewed
+7,21,B057,Orangutan Family,07_orangutan_family.png,Queued,Not Reviewed
+8,23,B057,Tiger Family,08_tiger_family.png,Queued,Not Reviewed
+9,25,B057,Cheetah Family,09_cheetah_family.png,Queued,Not Reviewed
+10,27,B057,Leopard Family,10_leopard_family.png,Queued,Not Reviewed
+11,29,B057,Wolf Family,11_wolf_family.png,Queued,Not Reviewed
+12,31,B057,Fox Family,12_fox_family.png,Queued,Not Reviewed
+13,33,B057,Bear Family,13_bear_family.png,Queued,Not Reviewed
+14,35,B057,Polar Bear Family,14_polar_bear_family.png,Queued,Not Reviewed
+15,37,B057,Panda Family,15_panda_family.png,Queued,Not Reviewed
+16,39,B057,Kangaroo Family,16_kangaroo_family.png,Queued,Not Reviewed
+17,41,B057,Koala Family,17_koala_family.png,Queued,Not Reviewed
+18,43,B057,Wombat Family,18_wombat_family.png,Queued,Not Reviewed
+19,45,B057,Wallaby Family,19_wallaby_family.png,Queued,Not Reviewed
+20,47,B057,Meerkat Family,20_meerkat_family.png,Queued,Not Reviewed
+21,49,B057,Otter Family,21_otter_family.png,Queued,Not Reviewed
+22,51,B057,Beaver Family,22_beaver_family.png,Queued,Not Reviewed
+23,53,B057,Raccoon Family,23_raccoon_family.png,Queued,Not Reviewed
+24,55,B057,Skunk Family,24_skunk_family.png,Queued,Not Reviewed
+25,57,B057,Deer Family,25_deer_family.png,Queued,Not Reviewed
+26,59,B057,Moose Family,26_moose_family.png,Queued,Not Reviewed
+27,61,B057,Bison Family,27_bison_family.png,Queued,Not Reviewed
+28,63,B057,Horse Family,28_horse_family.png,Queued,Not Reviewed
+29,65,B057,Donkey Family,29_donkey_family.png,Queued,Not Reviewed
+30,67,B057,Cow Family,30_cow_family.png,Queued,Not Reviewed
+31,69,B058,Sheep Family,31_sheep_family.png,Queued,Not Reviewed
+32,71,B058,Goat Family,32_goat_family.png,Queued,Not Reviewed
+33,73,B058,Pig Family,33_pig_family.png,Queued,Not Reviewed
+34,75,B058,Rabbit Family,34_rabbit_family.png,Queued,Not Reviewed
+35,77,B058,Dog Family,35_dog_family.png,Queued,Not Reviewed
+36,79,B058,Cat Family,36_cat_family.png,Queued,Not Reviewed
+37,81,B058,Dolphin Family,37_dolphin_family.png,Queued,Not Reviewed
+38,83,B058,Orca Family,38_orca_family.png,Queued,Not Reviewed
+39,85,B058,Humpback Whale Family,39_humpback_whale_family.png,Queued,Not Reviewed
+40,87,B058,Manatee Family,40_manatee_family.png,Queued,Not Reviewed
+41,89,B058,Seal Family,41_seal_family.png,Queued,Not Reviewed
+42,91,B058,Sea Lion Family,42_sea_lion_family.png,Queued,Not Reviewed
+43,93,B058,Walrus Family,43_walrus_family.png,Queued,Not Reviewed
+44,95,B058,Penguin Family,44_penguin_family.png,Queued,Not Reviewed
+45,97,B058,Emperor Penguin Family,45_emperor_penguin_family.png,Queued,Not Reviewed
+46,99,B058,Albatross Family,46_albatross_family.png,Queued,Not Reviewed
+47,101,B058,Owl Family,47_owl_family.png,Queued,Not Reviewed
+48,103,B058,Eagle Family,48_eagle_family.png,Queued,Not Reviewed
+49,105,B058,Duck Family,49_duck_family.png,Queued,Not Reviewed
+50,107,B058,Goose Family,50_goose_family.png,Queued,Not Reviewed
+51,109,B058,Chicken Family,51_chicken_family.png,Queued,Not Reviewed
+52,111,B058,Crocodile Family,52_crocodile_family.png,Queued,Not Reviewed
+53,113,B058,Alligator Family,53_alligator_family.png,Queued,Not Reviewed
+54,115,B058,Sea Turtle Family,54_sea_turtle_family.png,Queued,Not Reviewed
+55,117,B058,Frog Family,55_frog_family.png,Queued,Not Reviewed
+56,119,B058,Seahorse Family,56_seahorse_family.png,Queued,Not Reviewed
+57,121,B058,Octopus Family,57_octopus_family.png,Queued,Not Reviewed
+58,123,B058,Clownfish Family,58_clownfish_family.png,Queued,Not Reviewed
+59,125,B058,Elephant Seal Family,59_elephant_seal_family.png,Queued,Not Reviewed
+60,127,B058,Prairie Dog Family,60_prairie_dog_family.png,Queued,Not Reviewed
