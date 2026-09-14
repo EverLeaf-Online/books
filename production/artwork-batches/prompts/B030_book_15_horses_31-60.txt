@@ -1,0 +1,48 @@
+MIST° ORIGINAL COLORING BOOK ART BRIEF
+Book 15: Horses
+Batch B030: subjects 31-60
+
+Shared art direction for every prompt:
+- Original black-and-white children's coloring-book line art for ages 4-8.
+- Portrait 8.5 x 11 composition; preferred master 2550 x 3300 PNG.
+- One clear main horse or pony, friendly and anatomically plausible, filling about 55-70% of usable page area.
+- Bold smooth outer contours, simple enclosed shapes, generous white space.
+- Show breed-appropriate head profile, mane, neck, body build, legs, feathering, gait, or coat pattern where relevant.
+- Use a balanced standing or walking pose; avoid complex foreshortening.
+- Add only 5-10 large, simple setting elements such as grass, fence rails, barn silhouette, trail, mountain, or field.
+- Keep important linework inside the 0.50-inch safe-content target; leave lower area reasonably open for separately typeset name and fact.
+- Pure black line art on pure white only; no color, grayscale, shading, hatching, gradients, textures, text, letters, numbers, captions, signatures, logos, watermarks, borders, clutter, cropped anatomy, duplicate limbs, or malformed legs/hooves.
+
+Prompts:
+31. Dales Pony — Strong northern English pony with thick mane and tail, sturdy legs, and compact powerful body.
+32. Highland Pony — Hardy Scottish pony with broad body, thick coat silhouette, and simple mountain-grass setting.
+33. Miniature Horse — Very small horse with full horse-like proportions, neat mane, and friendly standing pose.
+34. Falabella — Extremely small refined horse with delicate but plausible proportions and simple pasture setting.
+35. Akhal-Teke — Slender long-bodied horse with refined head, long neck, fine legs, and sleek coat silhouette.
+36. Marwari — Elegant Indian horse with distinctive inward-curving ear tips, lean body, and arched neck.
+37. Kathiawari — Refined Indian horse with strongly curved ear tips, compact athletic body, and graceful stance.
+38. Criollo — Hardy South American horse with compact muscular body and rugged open-field setting.
+39. Mangalarga Marchador — Medium Brazilian gaited horse with smooth-travel posture, elegant neck, and athletic body.
+40. Peruvian Paso — Refined gaited horse with upright carriage and smooth lateral gait suggestion.
+41. Paso Peruano — Elegant Peruvian gaited horse with arched neck and clear four-beat gait posture.
+42. Rocky Mountain Horse — Gaited horse with medium build, long mane, and calm smooth-walking pose.
+43. Kentucky Mountain Saddle Horse — Calm medium gaited horse with balanced mountain-trail posture and simple terrain.
+44. Canadian Horse — Hardy compact horse with muscular body, full mane, and strong all-purpose silhouette.
+45. Dutch Warmblood — Tall athletic sport horse with long legs, sloping shoulder, and balanced dressage-like standing pose.
+46. Hanoverian — Powerful German warmblood with refined head, long neck, and athletic sport-horse build.
+47. Holsteiner — Large athletic warmblood with strong hindquarters and jumping-bred proportions; standing pose only.
+48. Oldenburg — Powerful warmblood with broad frame, muscular hindquarters, and elegant sport-horse outline.
+49. Trakehner — Refined warmblood with light athletic build, expressive head, and graceful long-legged stance.
+50. Selle Français — Athletic French sport horse with strong shoulders, long legs, and balanced jumper-type build.
+51. Irish Sport Horse — Versatile athletic horse with sturdy bone, balanced body, and confident standing pose.
+52. Irish Draught — Strong sensible horse with substantial bone, broad chest, and sturdy farm-riding build.
+53. Cleveland Bay — Solidly built bay-type carriage horse with clean legs, strong neck, and balanced rectangular frame.
+54. Suffolk Punch — Compact chestnut-type draft horse with round muscular body, short strong legs, and broad chest.
+55. American Cream Draft — Heavy draft horse with broad body, pale-coat type silhouette, and substantial legs.
+56. Noriker — Sturdy Alpine draft horse with compact muscular body; if spotted, use only large simple coat patches.
+57. Comtois — Compact French draft horse with thick neck, broad chest, strong short legs, and mountain-farm setting.
+58. Ardennes — Very powerful low-set draft horse with massive shoulders, thick neck, and sturdy legs.
+59. Breton — Compact muscular French draft horse with broad chest, strong hindquarters, and neat heavy-horse silhouette.
+60. Hackney Horse — Elegant harness horse with refined head, arched neck, and stylish high-stepping action simplified into an anatomically natural pose.
+
+For every subject, make the breed silhouette immediately recognizable while keeping tack optional and minimal; no rider, no text, and no intricate background detail.
