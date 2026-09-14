@@ -25,11 +25,21 @@ Every illustration must pass all checks before approval:
 - Amphibians: toe structure, gills where appropriate, and body proportions must match the named subject.
 - Wetland birds: bill shape, legs, feet, wings, and wading/perching posture must fit the listed bird.
 - Fish/invertebrates: fins, barbels, claws, shell, and body segmentation must be recognizable and simplified cleanly.
-- `Cottonmouth` is the normalized name for the former `Water Moccasin` entry; use a heavy-bodied cottonmouth/water-moccasin form in a neutral non-striking pose.
+- `Cottonmouth` is the normalized name for the former `Water Moccasin` entry; use a heavy-bodied cottonmouth in a neutral non-striking pose.
+- Species-normalized entries must visually match their exact labels: North American River Otter, Spiny Softshell Turtle, Northern Map Turtle, Northern Leopard Frog, Green Tree Frog, Eastern Newt, and Amazon Kingfisher.
 
-## Catalog review flags
+## Catalog review
 
-Before release, source-normalize broad labels currently used in the catalog where needed, especially `River Otter`, `Softshell Turtle`, `Map Turtle`, `Leopard Frog`, `Tree Frog`, `Newt`, and `River Kingfisher`. Do not silently invent a species during illustration review.
+The former broad-label release gate is resolved. The following labels were normalized and propagated through catalog, page map, prompts, artwork manifest, and assembly manifest:
+
+- River Otter → **North American River Otter**
+- Softshell Turtle → **Spiny Softshell Turtle**
+- Map Turtle → **Northern Map Turtle**
+- Water Moccasin → **Cottonmouth**
+- Leopard Frog → **Northern Leopard Frog**
+- Tree Frog → **Green Tree Frog**
+- Newt → **Eastern Newt**
+- River Kingfisher → **Amazon Kingfisher**
 
 ## Batch gate
 
@@ -49,4 +59,4 @@ Before release, source-normalize broad labels currently used in the catalog wher
 
 ## Release gate
 
-Book 24 artwork is ready for interior assembly only when all 60 rows are `Approved`, flagged broad labels have been source-normalized, and no page remains `Needs Fix`.
+Book 24 artwork is ready for interior assembly only when all 60 rows are `Approved` and no page remains `Needs Fix`.
