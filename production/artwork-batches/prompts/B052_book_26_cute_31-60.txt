@@ -26,7 +26,7 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 51 — Seahorse: Seahorse curled around seagrass stem, rounded snout, bubbles, simple underwater plants.
 52 — Pufferfish: Cute round pufferfish slightly puffed, big eyes, coral, bubbles, seaweed.
 53 — Bottlenose Dolphin: Dolphin leaping from gentle wave, curved body, splash shapes, simple ocean horizon.
-54 — Beluga: Beluga whale swimming near ice edge, rounded forehead, bubbles, simple water scene.
+54 — Beluga Whale: Beluga whale swimming near ice edge, rounded forehead, bubbles, simple water scene.
 55 — Harbor Seal: Harbor seal resting on smooth rock, round head, whiskers, calm water, seaweed.
 56 — Manatee: Manatee gliding through seagrass, rounded snout, paddle flippers, bubbles.
 57 — Nudibranch: Large simple nudibranch on reef rock, frilly gills and feelers, coral shapes, bubbles.
