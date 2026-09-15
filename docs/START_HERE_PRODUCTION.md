@@ -15,7 +15,8 @@ The catalog is capped at **30 books**. Do not add Book 31+ unless the catalog st
 - B003–B060 prompt packs are present and normalized
 - catalog naming/source cleanup is complete for Books 2–30
 - Book 20 conservation/taxonomy review is complete
-- structural preflight now cross-checks catalogs, page maps, production manifests, artwork-batch metadata, and prompt subjects
+- structural preflight cross-checks catalogs, page maps, production manifests, artwork-batch metadata, and prompt subjects
+- all Books 2–30 generation-job exports pass the production workflow: **29 books × 60 illustrations = 1,740 validated active jobs**
 
 ## Book 1 handling
 
@@ -32,13 +33,14 @@ Book 1 is already submitted to KDP and is frozen until review finishes.
 2. Continue through the first release wave: Book 8 B015/B016, Book 9 B017/B018, Book 13 B025/B026, Book 14 B027/B028.
 3. Continue through the remaining B005–B060 batches according to release priority.
 4. Run `python build/tools/preflight_all.py` after catalog/prompt/manifest changes and before final builds.
-5. Validate each completed 60-image book with `build/tools/validate_artwork.py`.
-6. Build interiors with `build/tools/build_all_ready.py`.
-7. Produce paperback cover from the final 128-page manuscript.
-8. Produce hardcover from the exact current KDP hardcover calculator/template.
-9. Run KDP Previewer and clear every blocking flag.
-10. Order paperback and hardcover proofs.
-11. Publish each new title in the required order: **Kindle title record -> Paperback -> Hardcover**.
+5. Validate generation-job packaging with `python build/tools/export_artwork_jobs.py --book N`.
+6. Validate each completed 60-image book with `build/tools/validate_artwork.py`.
+7. Build interiors with `build/tools/build_all_ready.py`.
+8. Produce paperback cover from the final 128-page manuscript.
+9. Produce hardcover from the exact current KDP hardcover calculator/template.
+10. Run KDP Previewer and clear every blocking flag.
+11. Order paperback and hardcover proofs.
+12. Publish each new title in the required order: **Kindle title record -> Paperback -> Hardcover**.
 
 ## Locked production standard
 
@@ -56,6 +58,6 @@ Book 1 is already submitted to KDP and is frozen until review finishes.
 
 ## Current blocker
 
-There are no remaining catalog naming/source-review gates for Books 2–30.
+There are no remaining catalog naming/source-review gates for Books 2–30, and the full production mapping/job-export CI is green.
 
 The active bottleneck is now **original artwork production and approval**. A book cannot advance to final interior and cover production until all 60 illustrations are generated, visually reviewed, marked `Approved`, and marked `Pass` for QA.
