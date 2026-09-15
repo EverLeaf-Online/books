@@ -11,6 +11,7 @@ BATCH_MANIFEST = ROOT / "production" / "artwork-batches" / "manifest.csv"
 PROMPT_DIR = ROOT / "production" / "artwork-batches" / "prompts"
 PROMPT_RE_PREFIX_DASH = re.compile(r"^(\d{1,2})\s*[—–-]\s*([^:]+):\s")
 PROMPT_RE_MIDDLE_DASH = re.compile(r"^(\d{1,2})\s+(.+?)\s+[—–-]\s+")
+PROMPT_RE_DOT_MIDDLE_DASH = re.compile(r"^(\d{1,2})\.\s+(.+?)\s+[—–-]\s+")
 PROMPT_RE_NUMBERED_TITLE = re.compile(r"^(\d{1,2})\.\s+(.+?)\s*$")
 
 
@@ -56,6 +57,10 @@ def parse_prompt_subjects(path):
     for line in path.read_text(encoding="utf-8-sig").splitlines():
         stripped = line.strip()
         match = PROMPT_RE_PREFIX_DASH.match(stripped)
+        if match:
+            subjects.append((int(match.group(1)), match.group(2).strip()))
+            continue
+        match = PROMPT_RE_DOT_MIDDLE_DASH.match(stripped)
         if match:
             subjects.append((int(match.group(1)), match.group(2).strip()))
             continue
