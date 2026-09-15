@@ -1,0 +1,48 @@
+name: Production Preflight
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'build/**'
+      - 'catalog/**'
+      - 'production/**'
+      - 'tracking/**'
+      - '.github/workflows/production-preflight.yml'
+  pull_request:
+    paths:
+      - 'build/**'
+      - 'catalog/**'
+      - 'production/**'
+      - 'tracking/**'
+      - '.github/workflows/production-preflight.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-production:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Compile production tools
+        run: python -m compileall -q build/tools
+
+      - name: Validate 30-book catalog and production manifests
+        run: python build/tools/preflight_all.py
+
+      - name: Validate first release wave artwork job exports
+        run: |
+          python build/tools/export_artwork_jobs.py --book 2
+          python build/tools/export_artwork_jobs.py --book 8
+          python build/tools/export_artwork_jobs.py --book 9
+          python build/tools/export_artwork_jobs.py --book 13
+          python build/tools/export_artwork_jobs.py --book 14
