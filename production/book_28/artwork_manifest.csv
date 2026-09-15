@@ -45,8 +45,8 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 44,95,B056,Clearnose Skate,44_clearnose_skate.png,Queued,Not Reviewed
 45,97,B056,Thornback Skate,45_thornback_skate.png,Queued,Not Reviewed
 46,99,B056,Little Skate,46_little_skate.png,Queued,Not Reviewed
-47,101,B056,Devil Ray,47_devil_ray.png,Queued,Not Reviewed
-48,103,B056,Mobula Ray,48_mobula_ray.png,Queued,Not Reviewed
+47,101,B056,Spinetail Devil Ray,47_spinetail_devil_ray.png,Queued,Not Reviewed
+48,103,B056,Munk's Pygmy Devil Ray,48_munks_pygmy_devil_ray.png,Queued,Not Reviewed
 49,105,B056,Pelagic Stingray,49_pelagic_stingray.png,Queued,Not Reviewed
 50,107,B056,Yellow Stingray,50_yellow_stingray.png,Queued,Not Reviewed
 51,109,B056,Atlantic Stingray,51_atlantic_stingray.png,Queued,Not Reviewed
@@ -57,5 +57,5 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 56,119,B056,Bowmouth Guitarfish,56_bowmouth_guitarfish.png,Queued,Not Reviewed
 57,121,B056,Common Skate,57_common_skate.png,Queued,Not Reviewed
 58,123,B056,Manta Ray Pup,58_manta_ray_pup.png,Queued,Not Reviewed
-59,125,B056,Baby Shark,59_baby_shark.png,Queued,Not Reviewed
-60,127,B056,Ray Pup,60_ray_pup.png,Queued,Not Reviewed
+59,125,B056,Brownbanded Bamboo Shark,59_brownbanded_bamboo_shark.png,Queued,Not Reviewed
+60,127,B056,Mangrove Whipray,60_mangrove_whipray.png,Queued,Not Reviewed
