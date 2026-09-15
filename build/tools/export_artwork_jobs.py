@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Export machine-readable artwork generation jobs from the canonical MIST° prompt packs.
 
-The exporter does not generate images. It combines the batch-level global art direction,
+The exporter does not generate images. It combines the batch-level art direction,
 per-subject scene prompt, artwork manifest, and batch manifest into a CSV that can be used
 by an image-generation/QA workflow without duplicating production metadata by hand.
 """
@@ -16,7 +16,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 BATCH_MANIFEST = ROOT / "production" / "artwork-batches" / "manifest.csv"
 PROMPT_DIR = ROOT / "production" / "artwork-batches" / "prompts"
-SUBJECT_RE = re.compile(r"^\s*(\d{1,2})\s*[—-]\s*([^:]+):\s*(.+?)\s*$")
+
+# Newer packs use `01 — Subject: scene`; older normalized packs use
+# `01 Subject — scene`. Support both so the exporter validates the whole catalog.
+SUBJECT_RE_PREFIX_DASH = re.compile(
+    r"^\s*(\d{1,2})\s*[—–-]\s*([^:]+):\s*(.+?)\s*$"
+)
+SUBJECT_RE_MIDDLE_DASH = re.compile(
+    r"^\s*(\d{1,2})\s+(.+?)\s+[—–-]\s+(.+?)\s*$"
+)
+DIRECTION_HEADINGS = {"GLOBAL ART DIRECTION", "SHARED ART DIRECTION"}
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -24,16 +33,28 @@ def read_csv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(handle))
 
 
+def parse_subject_line(line: str) -> tuple[int, str, str] | None:
+    match = SUBJECT_RE_PREFIX_DASH.match(line)
+    if match:
+        return int(match.group(1)), match.group(2).strip(), match.group(3).strip()
+    match = SUBJECT_RE_MIDDLE_DASH.match(line)
+    if match:
+        return int(match.group(1)), match.group(2).strip(), match.group(3).strip()
+    return None
+
+
 def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
-    text = path.read_text(encoding="utf-8")
+    text = path.read_text(encoding="utf-8-sig")
     lines = text.splitlines()
 
     try:
         direction_index = next(
-            i for i, line in enumerate(lines) if line.strip().upper() == "GLOBAL ART DIRECTION"
+            i for i, line in enumerate(lines) if line.strip().upper() in DIRECTION_HEADINGS
         )
     except StopIteration as exc:
-        raise ValueError(f"{path}: missing GLOBAL ART DIRECTION heading") from exc
+        raise ValueError(
+            f"{path}: missing GLOBAL ART DIRECTION or SHARED ART DIRECTION heading"
+        ) from exc
 
     direction_lines: list[str] = []
     subjects: dict[int, tuple[str, str]] = {}
@@ -43,24 +64,23 @@ def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
         line = raw.strip()
         if not line:
             continue
-        match = SUBJECT_RE.match(line)
-        if match:
+        parsed = parse_subject_line(line)
+        if parsed:
             seen_subject = True
-            number = int(match.group(1))
-            subject = match.group(2).strip()
-            scene = match.group(3).strip()
+            number, subject, scene = parsed
             if number in subjects:
                 raise ValueError(f"{path}: duplicate subject number {number}")
             subjects[number] = (subject, scene)
         elif not seen_subject:
-            direction_lines.append(line)
+            # Older packs use Markdown-style bullets for shared art direction.
+            direction_lines.append(line.removeprefix("- ").strip())
         else:
             # Subject prompts are intentionally one line each. Extra prose after subjects is
             # treated as malformed so drift cannot silently enter a production job export.
             raise ValueError(f"{path}: unexpected text after subject prompts: {line!r}")
 
     if not direction_lines:
-        raise ValueError(f"{path}: global art direction is empty")
+        raise ValueError(f"{path}: art direction is empty")
     if not subjects:
         raise ValueError(f"{path}: no numbered subject prompts found")
 
@@ -158,7 +178,10 @@ def export_book(book_number: int, output: Path | None) -> int:
             writer = csv.DictWriter(handle, fieldnames=fields)
             writer.writeheader()
             writer.writerows(jobs)
-        print(f"Wrote {len(jobs)} artwork jobs to {output.relative_to(ROOT) if output.is_relative_to(ROOT) else output}")
+        print(
+            f"Wrote {len(jobs)} artwork jobs to "
+            f"{output.relative_to(ROOT) if output.is_relative_to(ROOT) else output}"
+        )
     else:
         print(f"PASS: Book {book_number} exports cleanly to 60 artwork generation jobs.")
 
