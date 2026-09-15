@@ -40,8 +40,9 @@ def read_csv(path: Path) -> list[dict[str, str]]:
 
 
 def is_direction_heading(line: str) -> bool:
-    normalized = line.strip().upper()
-    return normalized == "GLOBAL ART DIRECTION" or normalized.startswith("SHARED ART DIRECTION")
+    # Packs were authored in several generations and use GLOBAL, SHARED, or MASTER
+    # ART DIRECTION headings. Treat all of them as equivalent production metadata.
+    return "ART DIRECTION" in line.strip().upper()
 
 
 def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
@@ -50,9 +51,7 @@ def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
     try:
         direction_index = next(i for i, line in enumerate(lines) if is_direction_heading(line))
     except StopIteration as exc:
-        raise ValueError(
-            f"{path}: missing GLOBAL ART DIRECTION or SHARED ART DIRECTION heading"
-        ) from exc
+        raise ValueError(f"{path}: missing an ART DIRECTION heading") from exc
 
     direction_lines: list[str] = []
     subjects: dict[int, tuple[str, str]] = {}
@@ -122,11 +121,10 @@ def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
 
         cleaned = line.removeprefix("- ").strip()
         if not seen_subject:
-            if cleaned.upper() != "PROMPTS:":
+            if cleaned.upper() not in {"PROMPTS:", "GENERATE ONE IMAGE PER NUMBERED SUBJECT:"}:
                 direction_lines.append(cleaned)
         elif len(subjects) == 30:
             # Some packs end with one or more shared reminders after the 30 subject prompts.
-            # Preserve them as global direction instead of rejecting a valid pack.
             direction_lines.append(cleaned)
         else:
             raise ValueError(f"{path}: unexpected text before all 30 subject prompts: {line!r}")
