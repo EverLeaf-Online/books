@@ -120,19 +120,23 @@ def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
             seen_subject = True
             continue
 
+        cleaned = line.removeprefix("- ").strip()
         if not seen_subject:
-            cleaned = line.removeprefix("- ").strip()
             if cleaned.upper() != "PROMPTS:":
                 direction_lines.append(cleaned)
+        elif len(subjects) == 30:
+            # Some packs end with one or more shared reminders after the 30 subject prompts.
+            # Preserve them as global direction instead of rejecting a valid pack.
+            direction_lines.append(cleaned)
         else:
-            raise ValueError(f"{path}: unexpected text after subject prompts: {line!r}")
+            raise ValueError(f"{path}: unexpected text before all 30 subject prompts: {line!r}")
 
     if pending_number is not None:
         raise ValueError(f"{path}: item {pending_number} is missing its scene prompt")
     if not direction_lines:
         raise ValueError(f"{path}: art direction is empty")
-    if not subjects:
-        raise ValueError(f"{path}: no numbered subject prompts found")
+    if len(subjects) != 30:
+        raise ValueError(f"{path}: expected 30 numbered subject prompts, found {len(subjects)}")
 
     return " ".join(direction_lines), subjects
 
