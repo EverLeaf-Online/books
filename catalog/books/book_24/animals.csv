@@ -5,7 +5,7 @@ number,interior_page,animal,fact
 4,15,American Mink,Minks are strong swimmers that often hunt near streams and wetlands.
 5,17,Capybara,Capybaras are the world's largest rodents and spend lots of time near water.
 6,19,Nutria,Nutria are large semi-aquatic rodents with orange front teeth.
-7,21,Water Vole,Water voles live along slow-moving streams, ponds, and riverbanks.
+7,21,Water Vole,"Water voles live along slow-moving streams, ponds, and riverbanks."
 8,23,Marsh Rabbit,Marsh rabbits are strong swimmers that live around wetlands.
 9,25,Hippopotamus,Hippos spend much of the day in water to stay cool.
 10,27,Pygmy Hippo,Pygmy hippos live around forest streams and swamps in West Africa.
@@ -26,7 +26,7 @@ number,interior_page,animal,fact
 25,57,Green Anaconda,Green anacondas are heavy-bodied snakes that spend lots of time in water.
 26,59,Cottonmouth,Cottonmouths are venomous snakes often found around southeastern wetlands.
 27,61,Northern Water Snake,Northern water snakes are nonvenomous and often swim with their bodies near the surface.
-28,63,Green Frog,Green frogs live around ponds, streams, and marshes.
+28,63,Green Frog,"Green frogs live around ponds, streams, and marshes."
 29,65,Bullfrog,Bullfrogs are large frogs with deep calls that can sound like a low bellow.
 30,67,Northern Leopard Frog,Northern leopard frogs have dark spots on their backs and strong jumping legs.
 31,69,Green Tree Frog,Green tree frogs have sticky toe pads that help them climb vegetation.
@@ -43,7 +43,7 @@ number,interior_page,animal,fact
 42,91,Purple Gallinule,Purple gallinules have very long toes for walking on lily pads and marsh plants.
 43,93,Mallard,Mallards tip forward in shallow water to reach plants and small animals below the surface.
 44,95,Wood Duck,Wood ducks often nest in tree cavities near water.
-45,97,Canada Goose,Canada geese commonly rest and feed around lakes, rivers, and wetlands.
+45,97,Canada Goose,"Canada geese commonly rest and feed around lakes, rivers, and wetlands."
 46,99,Belted Kingfisher,Kingfishers dive headfirst into water to catch fish.
 47,101,Osprey,Ospreys have special gripping feet that help them hold slippery fish.
 48,103,Bald Eagle,Bald eagles often hunt fish near rivers and lakes.
@@ -53,7 +53,7 @@ number,interior_page,animal,fact
 52,111,Largemouth Bass,Largemouth bass are ambush predators with very large mouths.
 53,113,Channel Catfish,Channel catfish use whisker-like barbels to sense food in murky water.
 54,115,Common Carp,Carp use sensitive barbels near their mouths to help search for food.
-55,117,Alligator Gar,Alligator gar have long bodies, armored scales, and broad toothy jaws.
+55,117,Alligator Gar,"Alligator gar have long bodies, armored scales, and broad toothy jaws."
 56,119,Fallfish,Fallfish are large minnows that live in clear rivers and streams.
 57,121,Crayfish,Crayfish use claws to grab food and defend themselves.
 58,123,Freshwater Mussel,Freshwater mussels help filter tiny particles from water as they feed.
