@@ -45,8 +45,8 @@ number,interior_page,batch,subject,expected_filename,fact
 44,95,B056,Clearnose Skate,44_clearnose_skate.png,Clearnose skates lay egg cases sometimes called mermaid's purses.
 45,97,B056,Thornback Skate,45_thornback_skate.png,Thornback skates have rough spines along their backs and tails.
 46,99,B056,Little Skate,46_little_skate.png,Little skates are small bottom-dwelling relatives of rays.
-47,101,B056,Devil Ray,47_devil_ray.png,Devil rays are close relatives of manta rays and swim with wing-like fins.
-48,103,B056,Mobula Ray,48_mobula_ray.png,Mobula rays sometimes leap completely out of the water.
+47,101,B056,Spinetail Devil Ray,47_spinetail_devil_ray.png,Spinetail devil rays have wing-like fins and a slender tail with a spine.
+48,103,B056,Munk's Pygmy Devil Ray,48_munks_pygmy_devil_ray.png,Munk's pygmy devil rays live in the eastern Pacific and can gather in large groups.
 49,105,B056,Pelagic Stingray,49_pelagic_stingray.png,Pelagic stingrays live in open ocean rather than staying on the seafloor.
 50,107,B056,Yellow Stingray,50_yellow_stingray.png,Yellow stingrays have round bodies with spotted or mottled patterns.
 51,109,B056,Atlantic Stingray,51_atlantic_stingray.png,Atlantic stingrays can enter brackish and freshwater areas.
@@ -57,5 +57,5 @@ number,interior_page,batch,subject,expected_filename,fact
 56,119,B056,Bowmouth Guitarfish,56_bowmouth_guitarfish.png,Bowmouth guitarfish have broad heads covered with rows of small ridges.
 57,121,B056,Common Skate,57_common_skate.png,Common skates are large skates that live on the seafloor.
 58,123,B056,Manta Ray Pup,58_manta_ray_pup.png,Manta ray babies are born live and are called pups.
-59,125,B056,Baby Shark,59_baby_shark.png,Young sharks are called pups and many are born ready to swim on their own.
-60,127,B056,Ray Pup,60_ray_pup.png,Many young rays are born as small live pups shaped like tiny adults.
+59,125,B056,Brownbanded Bamboo Shark,59_brownbanded_bamboo_shark.png,Young brownbanded bamboo sharks have dark bands that fade as they grow.
+60,127,B056,Mangrove Whipray,60_mangrove_whipray.png,Mangrove whiprays often live in mangrove areas and shallow sandy lagoons.
