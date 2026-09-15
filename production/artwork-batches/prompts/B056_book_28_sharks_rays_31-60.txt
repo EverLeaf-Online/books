@@ -19,8 +19,8 @@ Original black-and-white children's coloring-book line art for ages 4–8. Portr
 44 — Clearnose Skate: clearnose skate gliding over cool seafloor, broad diamond body, translucent-looking snout area kept as clean outline shapes, one mermaid's-purse egg case nearby.
 45 — Thornback Skate: thornback skate on rocky bottom, rough spines simplified, seaweed and shells.
 46 — Little Skate: small skate on sandy seabed, rounded diamond body, pebbles and tiny shells.
-47 — Devil Ray: devil ray gliding in open ocean, horn-like cephalic lobes, small fish, bubbles.
-48 — Mobula Ray: mobula ray leaping above ocean surface, wide fins, splash, simple horizon and clouds.
+47 — Spinetail Devil Ray: spinetail devil ray gliding through open ocean, broad wing-like fins, paired cephalic lobes, slender tail with spine, small fish and bubbles.
+48 — Munk's Pygmy Devil Ray: smaller Munk's pygmy devil ray gliding with a few companions in eastern Pacific open water, pointed wing tips, cephalic lobes, bubbles.
 49 — Pelagic Stingray: pelagic stingray swimming in open bluewater scene, long tail, few fish and bubbles.
 50 — Yellow Stingray: round yellow stingray resting in shallow reef sand, mottled spot pattern in simple outlines.
 51 — Atlantic Stingray: Atlantic stingray in brackish estuary, mangrove roots, sandy bottom, small fish.
@@ -31,5 +31,5 @@ Original black-and-white children's coloring-book line art for ages 4–8. Portr
 56 — Bowmouth Guitarfish: bowmouth guitarfish on reef edge, broad ridged head, spotted body, coral and rocks.
 57 — Common Skate: large common skate over cold seafloor, broad wings, seaweed and shell shapes.
 58 — Manta Ray Pup: young manta ray gliding beside an adult silhouette in distance, bubbles, simple reef.
-59 — Baby Shark: small shark pup swimming confidently in nursery shallows, seagrass, shells, tiny fish.
-60 — Ray Pup: small ray pup shaped like a miniature adult over sandy nursery habitat, sea grass and shells.
+59 — Brownbanded Bamboo Shark: slender brownbanded bamboo shark cruising close to sandy reef bottom, dark transverse bands simplified into large clean shapes, coral rubble and sea grass.
+60 — Mangrove Whipray: mangrove whipray over sandy mangrove lagoon, rounded disc, long whip-like tail, pale spot pattern simplified, mangrove roots and small fish.
