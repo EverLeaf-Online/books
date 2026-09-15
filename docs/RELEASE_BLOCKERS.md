@@ -39,27 +39,6 @@ After artwork approval, each book still requires:
 ### Book 20 — Endangered Animals
 Before final upload, review current conservation suitability and taxonomy against recognized current sources. The current catalog intentionally avoids printing status labels on each page, but the title still requires the collection to remain defensible as an endangered/rare-animal book.
 
-### Book 28 — Sharks & Rays
-Resolved:
-
-- `Mako Shark` -> **Shortfin Mako Shark**
-- `Hammerhead Shark` -> **Great Hammerhead Shark**
-- `Dogfish Shark` -> **Spiny Dogfish**
-- `Electric Ray` -> **Pacific Electric Ray**
-- `Butterfly Ray` -> **Smooth Butterfly Ray**
-- `Guitarfish` -> **Common Guitarfish**
-- `Shovelnose Ray` -> **Shovelnose Guitarfish**
-- `Sawfish` -> **Smalltooth Sawfish**
-- `Skate` -> **Clearnose Skate**
-- `Freshwater Stingray` -> **Ocellate River Stingray**
-
-Broad labels still requiring species-level visual/naming review:
-
-- Devil Ray
-- Mobula Ray
-- Baby Shark
-- Ray Pup
-
 ## Catalog issues already resolved
 
 These are no longer blockers:
@@ -71,7 +50,7 @@ These are no longer blockers:
 - Book 25: duplicate `Lammergeier`/Bearded Vulture entry replaced with **Himalayan Snowcock** and propagated.
 - Book 26: all former broad labels normalized and propagated end-to-end: **Giant Panda**, **American Pika**, **Eastern Cottontail**, **Netherland Dwarf Rabbit**, **North American River Otter**, **Brown-Throated Three-Toed Sloth**, **Ruby-Throated Hummingbird**, **Eastern Bluebird**, and **Beluga Whale**.
 - Book 27: broad `Bowerbird` entry normalized to **Vogelkop Bowerbird** and propagated through catalog, page map, B054 prompt, artwork manifest, assembly manifest, and QA.
-- Book 28: shark and ray naming cleanup is nearly complete; the resolved species-level names above have been propagated through catalog, page map, prompts, manifests, and QA.
+- Book 28: species-level cleanup completed and propagated through catalog, page map, prompts, manifests, and QA. Final normalized entries include **Shortfin Mako Shark**, **Great Hammerhead Shark**, **Spiny Dogfish**, **Pacific Electric Ray**, **Smooth Butterfly Ray**, **Common Guitarfish**, **Shovelnose Guitarfish**, **Smalltooth Sawfish**, **Clearnose Skate**, **Ocellate River Stingray**, **Spinetail Devil Ray**, **Munk's Pygmy Devil Ray**, **Brownbanded Bamboo Shark**, and **Mangrove Whipray**.
 - Book 30: `Penguin Ice Nest` renamed **Penguin Nest** with corrected nesting wording and propagated.
 
 ## Prompt-pack coverage
