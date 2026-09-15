@@ -10,10 +10,10 @@ number,interior_page,animal,fact
 9,25,Mountain Goat,Mountain goats are strong climbers with rough hoof pads for rocky terrain.
 10,27,Musk Ox,Musk oxen have extremely warm underfur called qiviut.
 11,29,Grizzly Bear,Grizzly bears have powerful shoulder muscles that help them dig.
-12,31,American Black Bear,American black bears can be black, brown, cinnamon, or even nearly white.
+12,31,American Black Bear,"American black bears can be black, brown, cinnamon, or even nearly white."
 13,33,Polar Bear,Polar bears have black skin beneath their thick fur.
 14,35,Gray Wolf,Gray wolves live and hunt in family groups called packs.
-15,37,Coyote,Coyotes communicate with howls, yips, and barks.
+15,37,Coyote,"Coyotes communicate with howls, yips, and barks."
 16,39,Red Fox,Red foxes use large ears to pinpoint small animals hidden under grass or snow.
 17,41,Arctic Fox,Arctic foxes have fur-covered foot pads that help insulate them from cold ground.
 18,43,Bobcat,Bobcats are named for their short bobbed tails.
@@ -33,7 +33,7 @@ number,interior_page,animal,fact
 32,71,Snowshoe Hare,Snowshoe hares have large furry feet that help them move over snow.
 33,73,Black-Tailed Prairie Dog,Prairie dogs live in large burrow systems sometimes called towns.
 34,75,American Pika,Pikas collect grasses and flowers into hay piles for winter food.
-35,77,Eastern Gray Squirrel,Gray squirrels bury nuts and sometimes forget them, helping new trees grow.
+35,77,Eastern Gray Squirrel,"Gray squirrels bury nuts and sometimes forget them, helping new trees grow."
 36,79,American Red Squirrel,Red squirrels often store cones in piles called middens.
 37,81,Groundhog,Groundhogs are large squirrels that dig deep burrows.
 38,83,American Marten,American martens are agile forest mammals that climb trees well.
@@ -50,7 +50,7 @@ number,interior_page,animal,fact
 49,105,Brown Pelican,Brown pelicans often plunge-dive from the air to catch fish.
 50,107,Atlantic Puffin,Puffins use their wings to swim underwater.
 51,109,Common Loon,Loons are excellent divers with legs set far back on their bodies.
-52,111,Greater Roadrunner,Greater roadrunners can run quickly and often hunt lizards, insects, and small snakes.
+52,111,Greater Roadrunner,"Greater roadrunners can run quickly and often hunt lizards, insects, and small snakes."
 53,113,American Alligator,Alligators use powerful tails to swim through water.
 54,115,Gila Monster,Gila monsters are venomous lizards with bead-like scales.
 55,117,Desert Tortoise,Desert tortoises spend much of their lives in underground burrows.
