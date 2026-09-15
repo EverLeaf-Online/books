@@ -1,6 +1,6 @@
 Batch ID,Book #,Book,Part,Illustrations,Animal Range,Interior Page Range,Priority,Status,Prompt Pack,Output Folder,Notes
-B001,1,Animal Coloring Book for Kids Ages 4-8,1,30,Red Panda -> Chameleon,9-67,HIGH - Book 1 replacement,Queued,B001_Book_01_Part_1_Prompts.txt,artwork/book_01/b001,Replace current Book 1 shortcut-derived art.
-B002,1,Animal Coloring Book for Kids Ages 4-8,2,30,Cow -> Mountain Goat,69-127,HIGH - Book 1 replacement,Queued,B002_Book_01_Part_2_Prompts.txt,artwork/book_01/b002,Replace current Book 1 shortcut-derived art.
+B001,1,Animal Coloring Book for Kids Ages 4-8,1,30,Red Panda -> Chameleon,9-67,HOLD - KDP review,Frozen,B001_Book_01_Part_1_Prompts.txt,artwork/book_01/b001,Book 1 is submitted; do not revise while KDP review is active.
+B002,1,Animal Coloring Book for Kids Ages 4-8,2,30,Cow -> Mountain Goat,69-127,HOLD - KDP review,Frozen,B002_Book_01_Part_2_Prompts.txt,artwork/book_01/b002,Book 1 is submitted; do not revise while KDP review is active.
 B003,2,Ocean Animals Coloring Book for Kids Ages 4-8,1,30,Bottlenose Dolphin -> Blue Tang,9-67,HIGH - first release wave,Queued,B003_book_02_ocean_01-30.txt,production/artwork-workspace/book_02/B003,
 B004,2,Ocean Animals Coloring Book for Kids Ages 4-8,2,30,Angelfish -> Albatross,69-127,HIGH - first release wave,Queued,B004_book_02_ocean_31-60.txt,production/artwork-workspace/book_02/B004,
 B005,3,Farm Animals Coloring Book for Kids Ages 4-8,1,30,Cow -> Water Buffalo,9-67,Normal,Queued,B005_book_03_farm_01-30.txt,production/artwork-workspace/book_03/B005,
@@ -45,8 +45,8 @@ B043,22,Backyard Animals Coloring Book for Kids Ages 4-8,1,30,American Robin -> 
 B044,22,Backyard Animals Coloring Book for Kids Ages 4-8,2,30,Garter Snake -> Pill Bug,69-127,Normal,Queued,B044_book_22_backyard_31-60.txt,production/artwork-workspace/book_22/B044,
 B045,23,Desert Animals Coloring Book for Kids Ages 4-8,1,30,Fennec Fox -> Golden Eagle,9-67,Normal,Queued,B045_book_23_desert_01-30.txt,production/artwork-workspace/book_23/B045,
 B046,23,Desert Animals Coloring Book for Kids Ages 4-8,2,30,Gila Monster -> Arabian Sand Gazelle,69-127,Normal,Queued,B046_book_23_desert_31-60.txt,production/artwork-workspace/book_23/B046,
-B047,24,River & Wetland Animals Coloring Book for Kids Ages 4-8,1,30,River Otter -> Leopard Frog,9-67,Normal,Queued,B047_book_24_river_wetland_01-30.txt,production/artwork-workspace/book_24/B047,
-B048,24,River & Wetland Animals Coloring Book for Kids Ages 4-8,2,30,Tree Frog -> Water Strider,69-127,Normal,Queued,B048_book_24_river_wetland_31-60.txt,production/artwork-workspace/book_24/B048,
+B047,24,River & Wetland Animals Coloring Book for Kids Ages 4-8,1,30,North American River Otter -> Northern Leopard Frog,9-67,Normal,Queued,B047_book_24_river_wetland_01-30.txt,production/artwork-workspace/book_24/B047,
+B048,24,River & Wetland Animals Coloring Book for Kids Ages 4-8,2,30,Green Tree Frog -> Water Strider,69-127,Normal,Queued,B048_book_24_river_wetland_31-60.txt,production/artwork-workspace/book_24/B048,
 B049,25,Mountain Animals Coloring Book for Kids Ages 4-8,1,30,Mountain Goat -> American Black Bear,9-67,Normal,Queued,B049_book_25_mountain_01-30.txt,production/artwork-workspace/book_25/B049,
 B050,25,Mountain Animals Coloring Book for Kids Ages 4-8,2,30,Spectacled Bear -> Mountain Bumblebee,69-127,Normal,Queued,B050_book_25_mountain_31-60.txt,production/artwork-workspace/book_25/B050,
 B051,26,Cute Animals Coloring Book for Kids Ages 4-8,1,30,Red Panda -> Lamb,9-67,Normal,Queued,B051_book_26_cute_01-30.txt,production/artwork-workspace/book_26/B051,
@@ -54,7 +54,7 @@ B052,26,Cute Animals Coloring Book for Kids Ages 4-8,2,30,Goat Kid -> Luna Moth,
 B053,27,Rainforest Birds Coloring Book for Kids Ages 4-8,1,30,Toco Toucan -> Raggiana Bird-of-Paradise,9-67,Normal,Queued,B053_book_27_rainforest_birds_01-30.txt,production/artwork-workspace/book_27/B053,
 B054,27,Rainforest Birds Coloring Book for Kids Ages 4-8,2,30,Wilson's Bird-of-Paradise -> Fiery-Throated Hummingbird,69-127,Normal,Queued,B054_book_27_rainforest_birds_31-60.txt,production/artwork-workspace/book_27/B054,
 B055,28,Sharks & Rays Coloring Book for Kids Ages 4-8,1,30,Great White Shark -> Frilled Shark,9-67,Normal,Queued,B055_book_28_sharks_rays_01-30.txt,production/artwork-workspace/book_28/B055,
-B056,28,Sharks & Rays Coloring Book for Kids Ages 4-8,2,30,Giant Manta Ray -> Ray Pup,69-127,Normal,Queued,B056_book_28_sharks_rays_31-60.txt,production/artwork-workspace/book_28/B056,
+B056,28,Sharks & Rays Coloring Book for Kids Ages 4-8,2,30,Giant Manta Ray -> Mangrove Whipray,69-127,Normal,Queued,B056_book_28_sharks_rays_31-60.txt,production/artwork-workspace/book_28/B056,
 B057,29,Animal Families Coloring Book for Kids Ages 4-8,1,30,Lion Family -> Cow Family,9-67,Normal,Queued,B057_book_29_animal_families_01-30.txt,production/artwork-workspace/book_29/B057,
 B058,29,Animal Families Coloring Book for Kids Ages 4-8,2,30,Sheep Family -> Prairie Dog Family,69-127,Normal,Queued,B058_book_29_animal_families_31-60.txt,production/artwork-workspace/book_29/B058,
 B059,30,Animal Homes & Habitats Coloring Book for Kids Ages 4-8,1,30,Bird Nest -> Crocodile Nest,9-67,Normal,Queued,B059_book_30_homes_habitats_01-30.txt,production/artwork-workspace/book_30/B059,
