@@ -28,7 +28,7 @@ book,item,issue,required_action,status
 28,Smalltooth Sawfish,Former broad Sawfish label normalized,No further naming action; verify artwork matches smalltooth sawfish,Resolved
 28,Clearnose Skate,Former broad Skate label normalized,No further naming action; verify artwork matches clearnose skate,Resolved
 28,Ocellate River Stingray,Former broad Freshwater Stingray label normalized,No further naming action; verify artwork matches ocellate river stingray,Resolved
-28,Devil Ray,Broad common label,Choose a deliberate species or explicitly approve generic representative,Open
-28,Mobula Ray,Broad/overlapping common label,Choose a deliberate Mobula species and keep distinct from Devil Ray entry,Open
-28,Baby Shark,Generic juvenile label,Define a parent species or explicitly approve generic shark-pup educational page,Open
-28,Ray Pup,Generic juvenile label,Define a parent species or explicitly approve generic ray-pup educational page,Open
+28,Spinetail Devil Ray,Former broad Devil Ray label normalized,No further naming action; verify artwork matches spinetail devil ray,Resolved
+28,Munk's Pygmy Devil Ray,Former broad Mobula Ray label normalized,No further naming action; verify artwork matches Munk's pygmy devil ray,Resolved
+28,Brownbanded Bamboo Shark,Former generic Baby Shark entry replaced with a specific shark species,No further naming action; verify artwork matches brownbanded bamboo shark,Resolved
+28,Mangrove Whipray,Former generic Ray Pup entry replaced with a specific ray species,No further naming action; verify artwork matches mangrove whipray,Resolved
