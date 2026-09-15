@@ -3,7 +3,7 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 2,11,B039,"Javan Rhino",02_javan_rhino.png,Queued,Not Reviewed
 3,13,B039,"Sumatran Rhino",03_sumatran_rhino.png,Queued,Not Reviewed
 4,15,B039,"Black Rhino",04_black_rhino.png,Queued,Not Reviewed
-5,17,B039,"White Rhino",05_white_rhino.png,Queued,Not Reviewed
+5,17,B039,"Saola",05_saola.png,Queued,Not Reviewed
 6,19,B039,"African Forest Elephant",06_african_forest_elephant.png,Queued,Not Reviewed
 7,21,B039,"African Savanna Elephant",07_african_savanna_elephant.png,Queued,Not Reviewed
 8,23,B039,"Asian Elephant",08_asian_elephant.png,Queued,Not Reviewed
@@ -18,7 +18,7 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 17,41,B039,"Chimpanzee",17_chimpanzee.png,Queued,Not Reviewed
 18,43,B039,"Golden Lion Tamarin",18_golden_lion_tamarin.png,Queued,Not Reviewed
 19,45,B039,"Cotton-Top Tamarin",19_cotton_top_tamarin.png,Queued,Not Reviewed
-20,47,B039,"Philippine Tarsier",20_philippine_tarsier.png,Queued,Not Reviewed
+20,47,B039,"Hainan Gibbon",20_hainan_gibbon.png,Queued,Not Reviewed
 21,49,B039,"Red Panda",21_red_panda.png,Queued,Not Reviewed
 22,51,B039,"Giant Panda",22_giant_panda.png,Queued,Not Reviewed
 23,53,B039,"Snow Leopard",23_snow_leopard.png,Queued,Not Reviewed
@@ -30,12 +30,12 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 29,65,B039,"African Wild Dog",29_african_wild_dog.png,Queued,Not Reviewed
 30,67,B039,"Dhole",30_dhole.png,Queued,Not Reviewed
 31,69,B040,"Addax",31_addax.png,Queued,Not Reviewed
-32,71,B040,"Saiga",32_saiga.png,Queued,Not Reviewed
+32,71,B040,"Hirola",32_hirola.png,Queued,Not Reviewed
 33,73,B040,"Przewalski's Horse",33_przewalskis_horse.png,Queued,Not Reviewed
 34,75,B040,"Grevy's Zebra",34_grevys_zebra.png,Queued,Not Reviewed
 35,77,B040,"Okapi",35_okapi.png,Queued,Not Reviewed
 36,79,B040,"Pygmy Hippo",36_pygmy_hippo.png,Queued,Not Reviewed
-37,81,B040,"Bactrian Camel",37_bactrian_camel.png,Queued,Not Reviewed
+37,81,B040,"Wild Bactrian Camel",37_wild_bactrian_camel.png,Queued,Not Reviewed
 38,83,B040,"Asian Tapir",38_asian_tapir.png,Queued,Not Reviewed
 39,85,B040,"Malayan Pangolin",39_malayan_pangolin.png,Queued,Not Reviewed
 40,87,B040,"Chinese Pangolin",40_chinese_pangolin.png,Queued,Not Reviewed
@@ -54,7 +54,7 @@ number,interior_page,batch,subject,expected_filename,status,qa_status
 53,113,B040,"Blue Whale",53_blue_whale.png,Queued,Not Reviewed
 54,115,B040,"Whale Shark",54_whale_shark.png,Queued,Not Reviewed
 55,117,B040,"Great Hammerhead Shark",55_great_hammerhead_shark.png,Queued,Not Reviewed
-56,119,B040,"Sawfish",56_sawfish.png,Queued,Not Reviewed
+56,119,B040,"Largetooth Sawfish",56_largetooth_sawfish.png,Queued,Not Reviewed
 57,121,B040,"Axolotl",57_axolotl.png,Queued,Not Reviewed
 58,123,B040,"Chinese Giant Salamander",58_chinese_giant_salamander.png,Queued,Not Reviewed
 59,125,B040,"Gharial",59_gharial.png,Queued,Not Reviewed
