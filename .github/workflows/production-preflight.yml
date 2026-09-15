@@ -39,10 +39,8 @@ jobs:
       - name: Validate 30-book catalog and production manifests
         run: python build/tools/preflight_all.py
 
-      - name: Validate first release wave artwork job exports
+      - name: Validate Books 2-30 artwork job exports
         run: |
-          python build/tools/export_artwork_jobs.py --book 2
-          python build/tools/export_artwork_jobs.py --book 8
-          python build/tools/export_artwork_jobs.py --book 9
-          python build/tools/export_artwork_jobs.py --book 13
-          python build/tools/export_artwork_jobs.py --book 14
+          for book in $(seq 2 30); do
+            python build/tools/export_artwork_jobs.py --book "$book"
+          done
