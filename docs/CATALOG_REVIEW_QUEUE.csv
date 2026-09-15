@@ -1,5 +1,5 @@
 book,item,issue,required_action,status
-20,Entire catalog,Current endangered/rare suitability and taxonomy can change,Verify against current recognized conservation/taxonomy sources before final upload,Open
+20,Entire catalog,Conservation suitability and taxonomy reviewed against current threatened-species guidance,No further catalog action; verify generated artwork matches exact normalized subjects,Resolved
 24,North American River Otter,Former broad River Otter label normalized,No further naming action; verify artwork matches North American river otter,Resolved
 24,Spiny Softshell Turtle,Former broad Softshell Turtle label normalized,No further naming action; verify artwork matches spiny softshell anatomy,Resolved
 24,Northern Map Turtle,Former broad Map Turtle label normalized,No further naming action; verify artwork matches northern map turtle,Resolved
