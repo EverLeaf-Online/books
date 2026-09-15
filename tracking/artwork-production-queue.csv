@@ -1,30 +1,30 @@
-queue_order,book,title,batches,priority,illustrations_required,approved,qa_passed,status,next_action
-1,2,Ocean Animals Coloring Book for Kids Ages 4-8,B003-B004,HIGH,60,0,0,Queued,Generate and review B003 then B004
-2,8,Pets Coloring Book for Kids Ages 4-8,B015-B016,HIGH,60,0,0,Queued,Generate after Book 2 art is stable
-3,9,Dinosaur Coloring Book for Kids Ages 4-8,B017-B018,HIGH,60,0,0,Queued,Generate after Book 8
-4,13,Dogs Coloring Book for Kids Ages 4-8,B025-B026,HIGH,60,0,0,Queued,Generate after Book 9
-5,14,Cats Coloring Book for Kids Ages 4-8,B027-B028,HIGH,60,0,0,Queued,Generate after Book 13
-6,3,Farm Animals Coloring Book for Kids Ages 4-8,B005-B006,Normal,60,0,0,Queued,Generate and review both batches
-7,4,Jungle Animals Coloring Book for Kids Ages 4-8,B007-B008,Normal,60,0,0,Queued,Generate and review both batches
-8,5,Safari Animals Coloring Book for Kids Ages 4-8,B009-B010,Normal,60,0,0,Queued,Generate and review both batches
-9,6,Forest Animals Coloring Book for Kids Ages 4-8,B011-B012,Normal,60,0,0,Queued,Generate and review both batches
-10,7,Arctic Animals Coloring Book for Kids Ages 4-8,B013-B014,Normal,60,0,0,Queued,Generate and review both batches
-11,10,Birds Coloring Book for Kids Ages 4-8,B019-B020,Normal,60,0,0,Queued,Generate and review both batches
-12,11,Bugs & Butterflies Coloring Book for Kids Ages 4-8,B021-B022,Normal,60,0,0,Queued,Generate and review both batches
-13,12,Reptiles & Amphibians Coloring Book for Kids Ages 4-8,B023-B024,Normal,60,0,0,Queued,Generate and review both batches
-14,15,Horses Coloring Book for Kids Ages 4-8,B029-B030,Normal,60,0,0,Queued,Generate and review both batches
-15,16,Baby Animals Coloring Book for Kids Ages 4-8,B031-B032,Normal,60,0,0,Queued,Generate and review both batches
-16,17,Zoo Animals Coloring Book for Kids Ages 4-8,B033-B034,Normal,60,0,0,Queued,Generate and review both batches
-17,18,Australian Animals Coloring Book for Kids Ages 4-8,B035-B036,Normal,60,0,0,Queued,Generate and review both batches
-18,19,Nocturnal Animals Coloring Book for Kids Ages 4-8,B037-B038,Normal,60,0,0,Queued,Generate and review both batches
-19,20,Endangered Animals Coloring Book for Kids Ages 4-8,B039-B040,Normal,60,0,0,Queued,Generate using conservation-reviewed catalog
-20,21,North American Animals Coloring Book for Kids Ages 4-8,B041-B042,Normal,60,0,0,Queued,Generate and review both batches
-21,22,Backyard Animals Coloring Book for Kids Ages 4-8,B043-B044,Normal,60,0,0,Queued,Generate and review both batches
-22,23,Desert Animals Coloring Book for Kids Ages 4-8,B045-B046,Normal,60,0,0,Queued,Generate using corrected Ghost Crab catalog
-23,24,River & Wetland Animals Coloring Book for Kids Ages 4-8,B047-B048,Normal,60,0,0,Queued,Generate using normalized species catalog
-24,25,Mountain Animals Coloring Book for Kids Ages 4-8,B049-B050,Normal,60,0,0,Queued,Generate using corrected Himalayan Snowcock catalog
-25,26,Cute Animals Coloring Book for Kids Ages 4-8,B051-B052,Normal,60,0,0,Queued,Generate using normalized species catalog
-26,27,Rainforest Birds Coloring Book for Kids Ages 4-8,B053-B054,Normal,60,0,0,Queued,Generate using Vogelkop Bowerbird catalog
-27,28,Sharks & Rays Coloring Book for Kids Ages 4-8,B055-B056,Normal,60,0,0,Queued,Generate using finalized shark and ray species catalog
-28,29,Animal Families Coloring Book for Kids Ages 4-8,B057-B058,Normal,60,0,0,Queued,Generate and review both batches
-29,30,Animal Homes & Habitats Coloring Book for Kids Ages 4-8,B059-B060,Normal,60,0,0,Queued,Generate using corrected Penguin Nest catalog
+queue_order,book,title,batches,priority,illustrations_required,approved,qa_passed,job_export_validation,status,next_action
+1,2,Ocean Animals Coloring Book for Kids Ages 4-8,B003-B004,HIGH,60,0,0,Pass,Queued,Generate and review B003 then B004
+2,8,Pets Coloring Book for Kids Ages 4-8,B015-B016,HIGH,60,0,0,Pass,Queued,Generate after Book 2 art is stable
+3,9,Dinosaur Coloring Book for Kids Ages 4-8,B017-B018,HIGH,60,0,0,Pass,Queued,Generate after Book 8
+4,13,Dogs Coloring Book for Kids Ages 4-8,B025-B026,HIGH,60,0,0,Pass,Queued,Generate after Book 9
+5,14,Cats Coloring Book for Kids Ages 4-8,B027-B028,HIGH,60,0,0,Pass,Queued,Generate after Book 13
+6,3,Farm Animals Coloring Book for Kids Ages 4-8,B005-B006,Normal,60,0,0,Pass,Queued,Generate and review both batches
+7,4,Jungle Animals Coloring Book for Kids Ages 4-8,B007-B008,Normal,60,0,0,Pass,Queued,Generate and review both batches
+8,5,Safari Animals Coloring Book for Kids Ages 4-8,B009-B010,Normal,60,0,0,Pass,Queued,Generate and review both batches
+9,6,Forest Animals Coloring Book for Kids Ages 4-8,B011-B012,Normal,60,0,0,Pass,Queued,Generate and review both batches
+10,7,Arctic Animals Coloring Book for Kids Ages 4-8,B013-B014,Normal,60,0,0,Pass,Queued,Generate and review both batches
+11,10,Birds Coloring Book for Kids Ages 4-8,B019-B020,Normal,60,0,0,Pass,Queued,Generate and review both batches
+12,11,Bugs & Butterflies Coloring Book for Kids Ages 4-8,B021-B022,Normal,60,0,0,Pass,Queued,Generate and review both batches
+13,12,Reptiles & Amphibians Coloring Book for Kids Ages 4-8,B023-B024,Normal,60,0,0,Pass,Queued,Generate and review both batches
+14,15,Horses Coloring Book for Kids Ages 4-8,B029-B030,Normal,60,0,0,Pass,Queued,Generate and review both batches
+15,16,Baby Animals Coloring Book for Kids Ages 4-8,B031-B032,Normal,60,0,0,Pass,Queued,Generate and review both batches
+16,17,Zoo Animals Coloring Book for Kids Ages 4-8,B033-B034,Normal,60,0,0,Pass,Queued,Generate and review both batches
+17,18,Australian Animals Coloring Book for Kids Ages 4-8,B035-B036,Normal,60,0,0,Pass,Queued,Generate and review both batches
+18,19,Nocturnal Animals Coloring Book for Kids Ages 4-8,B037-B038,Normal,60,0,0,Pass,Queued,Generate and review both batches
+19,20,Endangered Animals Coloring Book for Kids Ages 4-8,B039-B040,Normal,60,0,0,Pass,Queued,Generate using conservation-reviewed catalog
+20,21,North American Animals Coloring Book for Kids Ages 4-8,B041-B042,Normal,60,0,0,Pass,Queued,Generate and review both batches
+21,22,Backyard Animals Coloring Book for Kids Ages 4-8,B043-B044,Normal,60,0,0,Pass,Queued,Generate and review both batches
+22,23,Desert Animals Coloring Book for Kids Ages 4-8,B045-B046,Normal,60,0,0,Pass,Queued,Generate using corrected Ghost Crab catalog
+23,24,River & Wetland Animals Coloring Book for Kids Ages 4-8,B047-B048,Normal,60,0,0,Pass,Queued,Generate using normalized species catalog
+24,25,Mountain Animals Coloring Book for Kids Ages 4-8,B049-B050,Normal,60,0,0,Pass,Queued,Generate using corrected Himalayan Snowcock catalog
+25,26,Cute Animals Coloring Book for Kids Ages 4-8,B051-B052,Normal,60,0,0,Pass,Queued,Generate using normalized species catalog
+26,27,Rainforest Birds Coloring Book for Kids Ages 4-8,B053-B054,Normal,60,0,0,Pass,Queued,Generate using Vogelkop Bowerbird catalog
+27,28,Sharks & Rays Coloring Book for Kids Ages 4-8,B055-B056,Normal,60,0,0,Pass,Queued,Generate using finalized shark and ray species catalog
+28,29,Animal Families Coloring Book for Kids Ages 4-8,B057-B058,Normal,60,0,0,Pass,Queued,Generate and review both batches
+29,30,Animal Homes & Habitats Coloring Book for Kids Ages 4-8,B059-B060,Normal,60,0,0,Pass,Queued,Generate using corrected Penguin Nest catalog
