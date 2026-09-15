@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parents[2]
 CONFIGS = ROOT / "build" / "configs"
 BATCH_MANIFEST = ROOT / "production" / "artwork-batches" / "manifest.csv"
 PROMPT_DIR = ROOT / "production" / "artwork-batches" / "prompts"
-PROMPT_RE = re.compile(r"^(\d{2})\s+[—-]\s+(.+?):\s")
+PROMPT_RE = re.compile(r"^(\d{1,2})\s+[—–-]\s+(.+?):\s")
 
 
 def read_csv(path):
