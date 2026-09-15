@@ -1,7 +1,7 @@
 number,interior_page,batch,subject,expected_filename,fact
 1,9,B055,Great White Shark,01_great_white_shark.png,Great white sharks can detect tiny electrical signals made by other animals.
 2,11,B055,Whale Shark,02_whale_shark.png,Whale sharks are the largest fish in the world and eat mostly tiny plankton.
-3,13,B055,Great Hammerhead Shark,03_great_hammerhead_shark.png,Great hammerhead sharks have wide hammer-shaped heads that help them sense and locate prey.
+3,13,B055,Great Hammerhead Shark,03_great_hammerhead_shark.png,Great hammerhead sharks have wide heads that help them sense and locate prey.
 4,15,B055,Tiger Shark,04_tiger_shark.png,Tiger sharks have dark vertical stripes when they are young.
 5,17,B055,Bull Shark,05_bull_shark.png,Bull sharks can swim in both salt water and fresh water.
 6,19,B055,Nurse Shark,06_nurse_shark.png,Nurse sharks often rest on the seafloor during the day.
@@ -22,7 +22,7 @@ number,interior_page,batch,subject,expected_filename,fact
 21,49,B055,Horn Shark,21_horn_shark.png,Horn sharks have short blunt heads and spines in front of their dorsal fins.
 22,51,B055,Angel Shark,22_angel_shark.png,Angel sharks have flattened bodies that make them look a little like rays.
 23,53,B055,Sawshark,23_sawshark.png,Sawsharks have long toothed snouts used to help find and stun prey.
-24,55,B055,Spiny Dogfish,24_spiny_dogfish.png,Spiny dogfish are small sharks with a sharp spine in front of each dorsal fin.
+24,55,B055,Spiny Dogfish,24_spiny_dogfish.png,Spiny dogfish are small sharks that often travel in groups.
 25,57,B055,Bonnethead Shark,25_bonnethead_shark.png,Bonnetheads are small relatives of hammerhead sharks with shovel-shaped heads.
 26,59,B055,Silky Shark,26_silky_shark.png,Silky sharks are named for the smooth texture of their skin.
 27,61,B055,Oceanic Whitetip Shark,27_oceanic_whitetip_shark.png,Oceanic whitetip sharks have broad rounded fins with pale tips.
