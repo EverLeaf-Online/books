@@ -34,16 +34,18 @@ After artwork approval, each book still requires:
 7. proof approval where required; and
 8. KDP submission in the required format order.
 
-## Catalog/source QA gates still open
+## Catalog/source QA gates
 
-### Book 20 — Endangered Animals
-Before final upload, review current conservation suitability and taxonomy against recognized current sources. The current catalog intentionally avoids printing status labels on each page, but the title still requires the collection to remain defensible as an endangered/rare-animal book.
+**No catalog naming/source-review blockers remain open.**
+
+Book 20's conservation-source review was completed against current threatened-species guidance and current species information. Near Threatened/generalized entries that weakened the concept were replaced or normalized, while Vulnerable, Endangered, and Critically Endangered taxa remain acceptable because all three are within IUCN's threatened-species grouping.
 
 ## Catalog issues already resolved
 
 These are no longer blockers:
 
 - Book 15: duplicate Paso horse entry replaced with **American Bashkir Curly**.
+- Book 20: conservation-source cleanup completed. **White Rhino** -> **Saola**, **Philippine Tarsier** -> **Hainan Gibbon**, **Saiga** -> **Hirola**, **Bactrian Camel** -> **Wild Bactrian Camel**, and **Sawfish** -> **Largetooth Sawfish**; all changes propagated through catalog, page map, prompts, manifests, and QA.
 - Book 21: corrected to **Greater Roadrunner**.
 - Book 23: `Sidewinder Crab` mismatch replaced with **Ghost Crab** and propagated through catalog, page map, prompt pack, artwork manifest, assembly manifest, and QA.
 - Book 24: broad labels normalized and propagated end-to-end: **North American River Otter**, **Spiny Softshell Turtle**, **Northern Map Turtle**, **Cottonmouth**, **Northern Leopard Frog**, **Green Tree Frog**, **Eastern Newt**, and **Amazon Kingfisher**.
