@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Export machine-readable artwork generation jobs from the canonical MIST° prompt packs.
+"""Export machine-readable artwork generation jobs from canonical MIST° prompt packs.
 
-The exporter does not generate images. It combines the batch-level art direction,
-per-subject scene prompt, artwork manifest, and batch manifest into a CSV that can be used
-by an image-generation/QA workflow without duplicating production metadata by hand.
+The exporter does not generate images. It combines batch-level art direction,
+per-subject scene prompts, artwork manifests, and the batch manifest into a CSV that can
+feed an image-generation/QA workflow without duplicating production metadata by hand.
 """
 
 from __future__ import annotations
@@ -17,15 +17,17 @@ ROOT = Path(__file__).resolve().parents[2]
 BATCH_MANIFEST = ROOT / "production" / "artwork-batches" / "manifest.csv"
 PROMPT_DIR = ROOT / "production" / "artwork-batches" / "prompts"
 
-# Newer packs use `01 — Subject: scene`; older normalized packs use
-# `01 Subject — scene`. Support both so the exporter validates the whole catalog.
+# Prompt packs currently use three normalized layouts:
+#   01 — Subject: scene
+#   01 Subject — scene
+#   01. Subject\nScene on the next nonblank line
 SUBJECT_RE_PREFIX_DASH = re.compile(
     r"^\s*(\d{1,2})\s*[—–-]\s*([^:]+):\s*(.+?)\s*$"
 )
 SUBJECT_RE_MIDDLE_DASH = re.compile(
     r"^\s*(\d{1,2})\s+(.+?)\s+[—–-]\s+(.+?)\s*$"
 )
-DIRECTION_HEADINGS = {"GLOBAL ART DIRECTION", "SHARED ART DIRECTION"}
+SUBJECT_RE_NUMBERED_TITLE = re.compile(r"^\s*(\d{1,2})\.\s+(.+?)\s*$")
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -33,24 +35,16 @@ def read_csv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(handle))
 
 
-def parse_subject_line(line: str) -> tuple[int, str, str] | None:
-    match = SUBJECT_RE_PREFIX_DASH.match(line)
-    if match:
-        return int(match.group(1)), match.group(2).strip(), match.group(3).strip()
-    match = SUBJECT_RE_MIDDLE_DASH.match(line)
-    if match:
-        return int(match.group(1)), match.group(2).strip(), match.group(3).strip()
-    return None
+def is_direction_heading(line: str) -> bool:
+    normalized = line.strip().upper()
+    return normalized == "GLOBAL ART DIRECTION" or normalized.startswith("SHARED ART DIRECTION")
 
 
 def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
-    text = path.read_text(encoding="utf-8-sig")
-    lines = text.splitlines()
+    lines = path.read_text(encoding="utf-8-sig").splitlines()
 
     try:
-        direction_index = next(
-            i for i, line in enumerate(lines) if line.strip().upper() in DIRECTION_HEADINGS
-        )
+        direction_index = next(i for i, line in enumerate(lines) if is_direction_heading(line))
     except StopIteration as exc:
         raise ValueError(
             f"{path}: missing GLOBAL ART DIRECTION or SHARED ART DIRECTION heading"
@@ -59,26 +53,68 @@ def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
     direction_lines: list[str] = []
     subjects: dict[int, tuple[str, str]] = {}
     seen_subject = False
+    pending_number: int | None = None
+    pending_subject: str | None = None
 
     for raw in lines[direction_index + 1 :]:
         line = raw.strip()
         if not line:
             continue
-        parsed = parse_subject_line(line)
-        if parsed:
+
+        prefix = SUBJECT_RE_PREFIX_DASH.match(line)
+        middle = SUBJECT_RE_MIDDLE_DASH.match(line)
+        numbered = SUBJECT_RE_NUMBERED_TITLE.match(line)
+
+        if pending_number is not None:
+            # Numbered-title packs place the scene on the next nonblank line.
+            if prefix or middle or numbered:
+                raise ValueError(
+                    f"{path}: item {pending_number} is missing its scene prompt before {line!r}"
+                )
+            subjects[pending_number] = (pending_subject or "", line)
+            pending_number = None
+            pending_subject = None
             seen_subject = True
-            number, subject, scene = parsed
+            continue
+
+        if prefix:
+            number = int(prefix.group(1))
+            subject = prefix.group(2).strip()
+            scene = prefix.group(3).strip()
             if number in subjects:
                 raise ValueError(f"{path}: duplicate subject number {number}")
             subjects[number] = (subject, scene)
-        elif not seen_subject:
-            # Older packs use Markdown-style bullets for shared art direction.
-            direction_lines.append(line.removeprefix("- ").strip())
+            seen_subject = True
+            continue
+
+        if middle:
+            number = int(middle.group(1))
+            subject = middle.group(2).strip()
+            scene = middle.group(3).strip()
+            if number in subjects:
+                raise ValueError(f"{path}: duplicate subject number {number}")
+            subjects[number] = (subject, scene)
+            seen_subject = True
+            continue
+
+        if numbered:
+            number = int(numbered.group(1))
+            if number in subjects:
+                raise ValueError(f"{path}: duplicate subject number {number}")
+            pending_number = number
+            pending_subject = numbered.group(2).strip()
+            seen_subject = True
+            continue
+
+        if not seen_subject:
+            cleaned = line.removeprefix("- ").strip()
+            if cleaned.upper() != "PROMPTS:":
+                direction_lines.append(cleaned)
         else:
-            # Subject prompts are intentionally one line each. Extra prose after subjects is
-            # treated as malformed so drift cannot silently enter a production job export.
             raise ValueError(f"{path}: unexpected text after subject prompts: {line!r}")
 
+    if pending_number is not None:
+        raise ValueError(f"{path}: item {pending_number} is missing its scene prompt")
     if not direction_lines:
         raise ValueError(f"{path}: art direction is empty")
     if not subjects:
