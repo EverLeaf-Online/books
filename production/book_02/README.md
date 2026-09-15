@@ -21,6 +21,7 @@ Primary next-release target for MIST° Animal Coloring Adventures.
 - `production/book_02/artwork_manifest.csv`
 - `production/book_02/interior_assembly_manifest.csv`
 - `production/book_02/ART_QA_SCORECARD.md`
+- `production/book_02/GENERATION_RUNBOOK.md`
 
 ## Artwork
 - Batch B003: subjects 01-30
@@ -31,10 +32,26 @@ Primary next-release target for MIST° Animal Coloring Adventures.
 - No baked-in text, captions, page numbers, signatures, watermarks, grayscale, shading, gradients, or decorative borders
 - Keep important linework inside the 0.50-inch safe-content target
 
+### Generation-job validation/export
+
+Validate that B003/B004 still match the canonical manifest:
+
+```bash
+python build/tools/export_artwork_jobs.py --book 2
+```
+
+Export the machine-readable 60-job packet when beginning image production:
+
+```bash
+python build/tools/export_artwork_jobs.py --book 2 --output production/book_02/generation_jobs.csv
+```
+
+Use `GENERATION_RUNBOOK.md` for the six 10-image generation/QA waves. Do not allow failed artwork to roll into the next wave unresolved.
+
 ## Canonical production path
 `production/book_02/` is now the canonical Book 2 production directory.
 
-The older `production/book-02-ocean/` directory is retained temporarily only for compatibility with any historical references. Do not add new production files there. New QA, manifests, assembly records, and release-prep files belong under `production/book_02/`.
+The older `production/book-02-ocean/` directory is retained temporarily only for compatibility with any historical references. Do not add new production files there. New QA, manifests, assembly records, generation records, and release-prep files belong under `production/book_02/`.
 
 ## Completion gate
 Book 2 is not considered finished until all of these are complete:
