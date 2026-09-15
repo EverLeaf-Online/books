@@ -27,6 +27,28 @@ Checks the full 30-book production mapping, including:
 
 Run this after any subject/fact/name change and before final production builds. It is designed to catch partial propagation such as a catalog rename that was not carried into a prompt pack or manifest.
 
+A lightweight GitHub Actions check in `.github/workflows/production-preflight.yml` now compiles the production tools, runs this preflight, and validates artwork-job exports for the first release wave whenever relevant files change.
+
+## Export artwork generation jobs
+
+Validate that a book's two prompt packs still match its canonical artwork manifest:
+
+```bash
+python build/tools/export_artwork_jobs.py --book 2
+```
+
+Export a machine-readable 60-job CSV:
+
+```bash
+python build/tools/export_artwork_jobs.py \
+  --book 2 \
+  --output production/book_02/generation_jobs.csv
+```
+
+Each exported job includes the batch, item number, interior page, subject, exact expected filename, output path, source prompt pack, combined full prompt, production status, and QA status. The exporter fails instead of silently continuing if prompt-pack subjects drift from the artwork manifest.
+
+Book 1 is intentionally excluded while the submitted KDP editions are under review.
+
 ## Front matter
 
 ```bash
