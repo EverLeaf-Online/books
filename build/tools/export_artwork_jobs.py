@@ -17,15 +17,19 @@ ROOT = Path(__file__).resolve().parents[2]
 BATCH_MANIFEST = ROOT / "production" / "artwork-batches" / "manifest.csv"
 PROMPT_DIR = ROOT / "production" / "artwork-batches" / "prompts"
 
-# Prompt packs currently use three normalized layouts:
+# Prompt packs currently use four normalized layouts:
 #   01 — Subject: scene
 #   01 Subject — scene
+#   01. Subject — scene
 #   01. Subject\nScene on the next nonblank line
 SUBJECT_RE_PREFIX_DASH = re.compile(
     r"^\s*(\d{1,2})\s*[—–-]\s*([^:]+):\s*(.+?)\s*$"
 )
 SUBJECT_RE_MIDDLE_DASH = re.compile(
     r"^\s*(\d{1,2})\s+(.+?)\s+[—–-]\s+(.+?)\s*$"
+)
+SUBJECT_RE_DOT_MIDDLE_DASH = re.compile(
+    r"^\s*(\d{1,2})\.\s+(.+?)\s+[—–-]\s+(.+?)\s*$"
 )
 SUBJECT_RE_NUMBERED_TITLE = re.compile(r"^\s*(\d{1,2})\.\s+(.+?)\s*$")
 
@@ -62,12 +66,12 @@ def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
             continue
 
         prefix = SUBJECT_RE_PREFIX_DASH.match(line)
+        dot_middle = SUBJECT_RE_DOT_MIDDLE_DASH.match(line)
         middle = SUBJECT_RE_MIDDLE_DASH.match(line)
         numbered = SUBJECT_RE_NUMBERED_TITLE.match(line)
 
         if pending_number is not None:
-            # Numbered-title packs place the scene on the next nonblank line.
-            if prefix or middle or numbered:
+            if prefix or dot_middle or middle or numbered:
                 raise ValueError(
                     f"{path}: item {pending_number} is missing its scene prompt before {line!r}"
                 )
@@ -81,6 +85,16 @@ def parse_prompt_pack(path: Path) -> tuple[str, dict[int, tuple[str, str]]]:
             number = int(prefix.group(1))
             subject = prefix.group(2).strip()
             scene = prefix.group(3).strip()
+            if number in subjects:
+                raise ValueError(f"{path}: duplicate subject number {number}")
+            subjects[number] = (subject, scene)
+            seen_subject = True
+            continue
+
+        if dot_middle:
+            number = int(dot_middle.group(1))
+            subject = dot_middle.group(2).strip()
+            scene = dot_middle.group(3).strip()
             if number in subjects:
                 raise ValueError(f"{path}: duplicate subject number {number}")
             subjects[number] = (subject, scene)
