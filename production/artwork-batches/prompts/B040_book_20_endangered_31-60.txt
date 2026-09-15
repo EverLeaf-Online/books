@@ -4,12 +4,12 @@ GLOBAL ART DIRECTION
 Original black-and-white children’s coloring-book line art for ages 4–8. Portrait 8.5×11 composition. One clear main animal occupying roughly 55–70% of the usable drawing area. Bold smooth outer contours, thinner simple interior lines, large enclosed coloring spaces, white background, simple habitat with about 5–10 large recognizable elements. Keep important linework inside a 0.50-inch safe-content zone. Leave the lower page reasonably open for separately typeset animal name and fun fact. No words, letters, numbers, captions, signatures, logos, watermarks, grayscale, shading, hatching, gradients, textures, decorative borders, tiny clutter, cropped important anatomy, duplicated limbs, or malformed features. Friendly and anatomically plausible. Preferred master: 2550×3300 PNG. Do not include conservation-status text or symbols in the art.
 
 31 — Addax: Addax standing among simple desert dunes, twisted horns, sparse grass, stones, sun low on horizon.
-32 — Saiga: Saiga antelope on open steppe, distinctive flexible nose, short grass, rolling plain, simple clouds.
+32 — Hirola: Hirola antelope standing in dry East African grassland, long narrow face, curved horns, pale eye markings shown as clean outline regions, grass tufts and distant shrubs.
 33 — Przewalski's Horse: Stocky Przewalski's horse standing on grassy steppe, upright dark mane, low hills, grass tufts.
 34 — Grevy's Zebra: Grevy's zebra on dry grassland, narrow stripes simplified, large rounded ears, acacia, rocks.
 35 — Okapi: Okapi standing in rainforest clearing, striped legs, forest leaves, vines, tree trunks.
 36 — Pygmy Hippo: Pygmy hippo at forest stream edge, compact body, broad leaves, muddy bank, simple water plants.
-37 — Bactrian Camel: Two-humped wild Bactrian camel in rocky desert, shaggy neck, stones, sparse shrubs, distant hills.
+37 — Wild Bactrian Camel: Wild Bactrian camel standing in rocky Gobi desert, two humps, shaggy neck, stones, sparse shrubs, distant hills.
 38 — Asian Tapir: Asian tapir beside tropical stream, bold black-and-white saddle pattern as large outline regions, broad leaves.
 39 — Malayan Pangolin: Pangolin walking across forest floor, large overlapping scales simplified, leaves, roots, rocks.
 40 — Chinese Pangolin: Chinese pangolin curled partly around a log, clear scale pattern simplified, ants nearby, forest leaves.
@@ -28,7 +28,7 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 53 — Blue Whale: Huge blue whale gliding through open water, long streamlined body, bubbles, small fish silhouettes.
 54 — Whale Shark: Whale shark swimming over reef, broad head, large spots simplified into roomy shapes, coral, small fish.
 55 — Great Hammerhead Shark: Great hammerhead cruising through clear ocean, wide hammer-shaped head, reef rocks, bubbles.
-56 — Sawfish: Sawfish swimming above sandy seafloor, long toothed saw-like snout, sea grass, shells, bubbles.
+56 — Largetooth Sawfish: Largetooth sawfish swimming through broad tropical estuary, long robust toothed rostrum, shark-like ray body, mangrove roots, sand and small fish.
 57 — Axolotl: Axolotl resting among aquatic plants, feathery external gills, smooth body, stones, bubbles.
 58 — Chinese Giant Salamander: Giant salamander in cool rocky stream, broad flat head, rounded body, river stones, flowing water.
 59 — Gharial: Gharial floating in river, very long narrow snout, visible ridged back, reeds, sandbank.
