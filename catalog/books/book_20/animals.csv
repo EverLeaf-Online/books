@@ -3,7 +3,7 @@ number,interior_page,animal,fact
 2,11,Javan Rhino,Javan rhinos have a single horn and live in dense tropical forest.
 3,13,Sumatran Rhino,Sumatran rhinos are the smallest living rhinoceroses and are covered with sparse hair.
 4,15,Black Rhino,Black rhinos use a pointed upper lip to pull leaves and twigs from plants.
-5,17,White Rhino,White rhinos have broad square lips that are well suited for grazing on grass.
+5,17,Saola,Saolas have long nearly parallel horns and bright white markings on their faces.
 6,19,African Forest Elephant,African forest elephants have straighter tusks and rounder ears than savanna elephants.
 7,21,African Savanna Elephant,African savanna elephants are the largest land animals alive today.
 8,23,Asian Elephant,Asian elephants have smaller ears than African elephants and a single finger-like tip on the trunk.
@@ -18,7 +18,7 @@ number,interior_page,animal,fact
 17,41,Chimpanzee,Chimpanzees can use sticks and other simple tools to find food.
 18,43,Golden Lion Tamarin,Golden lion tamarins have bright golden-orange fur and live in Brazil's Atlantic Forest.
 19,45,Cotton-Top Tamarin,Cotton-top tamarins have a distinctive crest of long white hair on their heads.
-20,47,Philippine Tarsier,Philippine tarsiers have huge eyes that help them hunt insects at night.
+20,47,Hainan Gibbon,Hainan gibbons live only on Hainan Island in China and move through forest canopies with long arms.
 21,49,Red Panda,Red pandas use bushy tails for balance and to help keep warm.
 22,51,Giant Panda,Giant pandas use strong jaws and wrist bones adapted like thumbs to hold bamboo.
 23,53,Snow Leopard,Snow leopards have long thick tails that help them balance on steep rocky slopes.
@@ -30,12 +30,12 @@ number,interior_page,animal,fact
 29,65,African Wild Dog,African wild dogs have unique patchy coats and live in highly social packs.
 30,67,Dhole,Dholes are social wild dogs from Asia that communicate with whistles.
 31,69,Addax,Addax are desert antelope with twisted horns and broad hooves for walking on sand.
-32,71,Saiga,Saiga antelope have unusual flexible noses that help filter dust and warm cold air.
+32,71,Hirola,Hirolas are rare antelope with pale markings around their eyes that can look like spectacles.
 33,73,Przewalski's Horse,Przewalski's horses have stocky bodies and upright dark manes.
 34,75,Grevy's Zebra,Grevy's zebras have narrow stripes and large rounded ears.
 35,77,Okapi,Okapis have striped legs and are close relatives of giraffes.
 36,79,Pygmy Hippo,Pygmy hippos are smaller forest-dwelling relatives of common hippos.
-37,81,Bactrian Camel,Wild Bactrian camels have two humps and can survive extreme desert conditions.
+37,81,Wild Bactrian Camel,Wild Bactrian camels have two humps and can survive extreme desert conditions in China and Mongolia.
 38,83,Asian Tapir,Asian tapirs have a bold black-and-white body pattern and a short flexible snout.
 39,85,Malayan Pangolin,Malayan pangolins are covered in protective scales and curl into a ball when threatened.
 40,87,Chinese Pangolin,Chinese pangolins use long sticky tongues to collect ants and termites.
@@ -54,7 +54,7 @@ number,interior_page,animal,fact
 53,113,Blue Whale,Blue whales are the largest animals known to have lived on Earth.
 54,115,Whale Shark,Whale sharks are huge filter-feeding sharks with spotted skin.
 55,117,Great Hammerhead Shark,Great hammerhead sharks have wide hammer-shaped heads that hold their eyes far apart.
-56,119,Sawfish,Sawfish have long flat snouts edged with tooth-like structures.
+56,119,Largetooth Sawfish,Largetooth sawfish are rays with long toothed rostra that can move between salt water and fresh water.
 57,121,Axolotl,Wild axolotls are salamanders that keep feathery external gills throughout life.
 58,123,Chinese Giant Salamander,Chinese giant salamanders are among the largest amphibians in the world.
 59,125,Gharial,Gharials have very long narrow snouts adapted for catching fish.
