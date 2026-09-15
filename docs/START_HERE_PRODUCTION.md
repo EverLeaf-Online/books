@@ -13,27 +13,32 @@ The catalog is capped at **30 books**. Do not add Book 31+ unless the catalog st
 - standardized KDP trim, margin, pricing, and publishing-order rules
 - Books 2–30 have artwork manifests, QA scorecards, and interior assembly manifests
 - B003–B060 prompt packs are present and normalized
+- catalog naming/source cleanup is complete for Books 2–30
+- Book 20 conservation/taxonomy review is complete
+- structural preflight now cross-checks catalogs, page maps, production manifests, artwork-batch metadata, and prompt subjects
 
 ## Book 1 handling
 
 Book 1 is already submitted to KDP and is frozen until review finishes.
 
 - Do not revise the submitted paperback or hardcover while review is active.
-- Do not treat B001/B002 replacement work as an active release blocker.
-- Resume Book 1 only if KDP returns a required correction or after review when a deliberate replacement edition/update is scheduled.
+- B001/B002 are explicitly frozen in the artwork batch manifest.
+- Do not treat Book 1 replacement work as an active release blocker.
+- Resume Book 1 only if KDP returns a required correction or after review when a deliberate update is scheduled.
 
 ## Work order
 
 1. Start original-art production with Book 2 B003/B004.
 2. Continue through the first release wave: Book 8 B015/B016, Book 9 B017/B018, Book 13 B025/B026, Book 14 B027/B028.
 3. Continue through the remaining B005–B060 batches according to release priority.
-4. Validate each completed 60-image book with `build/tools/validate_artwork.py`.
-5. Build interiors with `build/tools/build_all_ready.py`.
-6. Produce paperback cover from the final 128-page manuscript.
-7. Produce hardcover from the exact current KDP hardcover calculator/template.
-8. Run KDP Previewer and clear every blocking flag.
-9. Order paperback and hardcover proofs.
-10. Publish each new title in the required order: **Kindle title record -> Paperback -> Hardcover**.
+4. Run `python build/tools/preflight_all.py` after catalog/prompt/manifest changes and before final builds.
+5. Validate each completed 60-image book with `build/tools/validate_artwork.py`.
+6. Build interiors with `build/tools/build_all_ready.py`.
+7. Produce paperback cover from the final 128-page manuscript.
+8. Produce hardcover from the exact current KDP hardcover calculator/template.
+9. Run KDP Previewer and clear every blocking flag.
+10. Order paperback and hardcover proofs.
+11. Publish each new title in the required order: **Kindle title record -> Paperback -> Hardcover**.
 
 ## Locked production standard
 
@@ -49,12 +54,8 @@ Book 1 is already submitted to KDP and is frozen until review finishes.
 - author: Paul Thach
 - imprint/brand: MIST°
 
-## Before final artwork approval
+## Current blocker
 
-- Book 20: current conservation/taxonomy review
-- Book 24: broad wetland labels review
-- Book 26: broad cute-animal labels review
-- Book 27: `Bowerbird` naming review
-- Book 28: broad shark/ray labels review
+There are no remaining catalog naming/source-review gates for Books 2–30.
 
-Book 23, Book 25, and Book 30 previously flagged naming issues have already been corrected and propagated through their production files.
+The active bottleneck is now **original artwork production and approval**. A book cannot advance to final interior and cover production until all 60 illustrations are generated, visually reviewed, marked `Approved`, and marked `Pass` for QA.
