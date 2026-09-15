@@ -37,8 +37,15 @@ All 60 illustrations must pass before interior assembly is approved.
 - `Smalltooth Sawfish` must have a long saw-like rostrum while retaining a ray body plan.
 - `Clearnose Skate` must read as a skate with a broad diamond-shaped disc and clear snout area.
 - `Ocellate River Stingray` must show a rounded river-stingray disc with simplified eye-like spot markings.
-- Remaining broad catalog labels requiring final species-level visual review before release: Devil Ray, Mobula Ray, Baby Shark, and Ray Pup.
-- `Manta Ray Pup`, `Baby Shark`, and `Ray Pup` should read clearly as juvenile animals without becoming cartoonishly infant-like.
+- `Spinetail Devil Ray` must show broad wing-like fins, paired cephalic lobes, and a slender tail with a spine.
+- `Munk's Pygmy Devil Ray` must remain visibly smaller and distinct from the Spinetail Devil Ray; use a clean mobulid silhouette and eastern-Pacific open-water habitat.
+- `Brownbanded Bamboo Shark` should be a slender bottom-dwelling bamboo shark with simplified dark transverse bands, not a generic pelagic shark pup.
+- `Mangrove Whipray` should have a rounded stingray disc, long whip-like tail, and simplified pale spot pattern in a mangrove/lagoon habitat.
+- `Manta Ray Pup` should read clearly as a juvenile manta without becoming cartoonishly infant-like.
+
+## Naming gate
+
+Book 28 naming cleanup is complete. No generic `Devil Ray`, `Mobula Ray`, `Baby Shark`, or `Ray Pup` production labels remain.
 
 ## Status rules
 
