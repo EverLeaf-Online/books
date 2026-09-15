@@ -7,7 +7,7 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 02 — Javan Rhino: Javan rhino standing in dense tropical forest clearing, single horn, broad leaves, ferns, simple tree trunks.
 03 — Sumatran Rhino: Sumatran rhino in lush rainforest, small hairy-looking body with simple contour texture, broad leaves, muddy ground.
 04 — Black Rhino: Black rhino browsing shrub leaves, pointed upper lip, dry savanna bushes, rocks, distant acacia.
-05 — White Rhino: White rhino grazing on open grassland, broad square lip, grass tufts, acacia tree, simple clouds.
+05 — Saola: Rare saola standing in dense Annamite forest, two long nearly parallel tapering horns, bold white facial markings shown as clean outline regions, broad leaves and ferns.
 06 — African Forest Elephant: Forest elephant among rainforest trees, relatively rounded ears and straighter tusks, vines, broad leaves.
 07 — African Savanna Elephant: Large savanna elephant walking across grassland, wide ears, acacia tree, grasses, distant hills.
 08 — Asian Elephant: Asian elephant beside forest stream, smaller ears, domed head, bamboo and broad leaves.
@@ -22,7 +22,7 @@ Original black-and-white children’s coloring-book line art for ages 4–8. Por
 17 — Chimpanzee: Chimpanzee holding a simple stick tool near forest floor, leaves, rocks, tree trunk.
 18 — Golden Lion Tamarin: Small golden lion tamarin on branch, mane-like face fur, Atlantic Forest leaves, vines.
 19 — Cotton-Top Tamarin: Cotton-top tamarin perched on branch, large white crest, tropical leaves, simple fruit shapes.
-20 — Philippine Tarsier: Philippine tarsier gripping branch, huge eyes, long tail, tropical foliage, crescent moon optional.
+20 — Hainan Gibbon: Hainan gibbon swinging between rainforest branches, very long arms, small tailless ape body, Hainan tropical canopy, broad leaves and vines.
 21 — Red Panda: Red panda climbing slanted branch, bushy ringed tail, bamboo leaves, mountain forest background.
 22 — Giant Panda: Giant panda sitting among bamboo stalks, round body, black-and-white markings as outline regions, rocks.
 23 — Snow Leopard: Snow leopard standing on rocky mountain ledge, long thick tail, simplified rosettes, snowy peaks.
