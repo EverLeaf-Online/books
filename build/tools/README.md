@@ -8,13 +8,24 @@ All commands below run from the repository root.
 python -m pip install -r build/requirements.txt
 ```
 
-## Structural preflight
+## Structural + synchronization preflight
 
 ```bash
 python build/tools/preflight_all.py
 ```
 
-Checks all 30 build configs, the 60-animal standard, and odd coloring-page numbering.
+Checks the full 30-book production mapping, including:
+- all 30 build configs;
+- 128-page / 60-coloring-page structure;
+- 60 catalog subjects per active production book;
+- odd coloring-page numbering from 9 through 127;
+- 128-row page maps and blank reverse pages;
+- subject/fact/page synchronization between catalog, artwork manifest, and interior assembly manifest;
+- B003-B060 batch assignments for Books 2-30;
+- artwork batch manifest metadata and subject ranges; and
+- all 30 prompt subjects in each production prompt pack against the current catalog.
+
+Run this after any subject/fact/name change and before final production builds. It is designed to catch partial propagation such as a catalog rename that was not carried into a prompt pack or manifest.
 
 ## Front matter
 
@@ -48,7 +59,7 @@ Use `--allow-placeholders` only for internal assembly tests, never for a KDP upl
 python build/tools/build_all_ready.py --root . --edition both
 ```
 
-This command now reads each book's `artwork_root` and `output_root` directly from `build/configs/book_XX.json` so the repository has one source of truth for paths.
+This command reads each book's `artwork_root` and `output_root` directly from `build/configs/book_XX.json` so the repository has one source of truth for paths.
 
 ## Paperback cover dimensions
 
@@ -65,9 +76,10 @@ Hardcover dimensions are intentionally not guessed. Use the exact current KDP ha
 ## Production order
 1. Original artwork
 2. Artwork QA
-3. Interior assembly
-4. Paperback cover
-5. Exact-template hardcover cover
-6. KDP Previewer
-7. Physical proofs
-8. KDP publishing order: Kindle title record -> Paperback -> Hardcover
+3. Structural/synchronization preflight
+4. Interior assembly
+5. Paperback cover
+6. Exact-template hardcover cover
+7. KDP Previewer
+8. Physical proofs
+9. KDP publishing order: Kindle title record -> Paperback -> Hardcover
